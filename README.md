@@ -43,7 +43,7 @@ Nowadays, many modern game products, such as compilations, mini classic consoles
 
 ### Commercial Games in the Public Domain
 
-* Amiga (Factor 5, Amiga Forever, Gremlin Graphics World, etc)
+* Amiga (Factor 5, Amiga / C64 Forever, Gremlin Graphics World, etc)
 * Sega Genesis (Zero Tolerance + prototype, Red Zone prototype, Tanglewood)
 * Game Boy Color (Daikatana)
 
