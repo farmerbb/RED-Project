@@ -10,50 +10,50 @@ Nowadays, many modern game products, such as compilations, mini classic consoles
 
 ### Game Compilations
 
-Activision Anthology (Android)
-Atari's Greatest Hits (Android, Steam)
-Castlevania Anniversary Collection (Steam)
-Contra Anniversary Collection (Steam)
-Disney Classic Games - Aladdin & Lion King (Steam, GOG)
-Neo Geo Classic Complete (Humble Bundle, Twitch Prime / GOG - partial)
-Mega Man Legacy Collection (Steam)
-Sega Classics (Palm OS)
-Sega Genesis Classics (Steam, Amazon - legacy)
-The Disney Afternoon Collection (Steam)
+* Activision Anthology (Android)
+* Atari's Greatest Hits (Android, Steam)
+* Castlevania Anniversary Collection (Steam)
+* Contra Anniversary Collection (Steam)
+* Disney Classic Games - Aladdin & Lion King (Steam, GOG)
+* Neo Geo Classic Complete (Humble Bundle, Twitch Prime / GOG - partial)
+* Mega Man Legacy Collection (Steam)
+* Sega Classics (Palm OS)
+* Sega Genesis Classics (Steam, Amazon - legacy)
+* The Disney Afternoon Collection (Steam)
 
 ### Game ROMs Sold on Steam
 
-Bubsy Two-Fur
-Piko Interactive (Super 3D Noah's Ark, etc)
-N20 - Nitrous Oxide
-Wonder Boy - The Dragon's Trap
+* Bubsy Two-Fur
+* Piko Interactive (Super 3D Noah's Ark, etc)
+* N20 - Nitrous Oxide
+* Wonder Boy - The Dragon's Trap
 
 ### Games Inside Other Games (yo dawg)
 
-Animal Crossing (GameCube)
-Metroid Prime (GameCube)
-Sonic Adventure DX (GameCube)
-Super Smash Bros. Brawl (Wii)
+* Animal Crossing (GameCube)
+* Metroid Prime (GameCube)
+* Sonic Adventure DX (GameCube)
+* Super Smash Bros. Brawl (Wii)
 
 ### Mini Classic Consoles
 
-PlayStation Classic
-Sega Genesis Mini
+* PlayStation Classic
+* Sega Genesis Mini
 
 ### Commercial Games in the Public Domain
 
-Amiga (Factor 5, Amiga Forever, Gremlin Graphics World, etc)
-Sega Genesis (Zero Tolerance + prototype, Red Zone prototype)
-Game Boy Color (Daikatana)
+* Amiga (Factor 5, Amiga Forever, Gremlin Graphics World, etc)
+* Sega Genesis (Zero Tolerance + prototype, Red Zone prototype)
+* Game Boy Color (Daikatana)
 
 ### Ripping Games from Original Hardware / Media
 
-CleanRip (Wii)
-Dreamcast SD Rip
-Retrode (Sega Genesis, SNES, GB/GBC/GBA, ...)
-Wii Virtual Console
+* CleanRip (Wii)
+* Dreamcast SD Rip
+* Retrode (Sega Genesis, SNES, GB/GBC/GBA, ...)
+* Wii Virtual Console
 
 ### Prototypes & Unreleased Games
 
-Hidden Palace
-Sonic Retro
+* Hidden Palace
+* Sonic Retro
