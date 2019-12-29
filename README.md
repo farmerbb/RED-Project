@@ -34,6 +34,7 @@ Nowadays, many modern game products, such as compilations, mini classic consoles
 * Metroid Prime (GameCube)
 * Sonic Adventure DX (GameCube)
 * Super Smash Bros. Brawl (Wii)
+* The Bard's Tale (Steam)
 
 ### Mini Classic Consoles
 
