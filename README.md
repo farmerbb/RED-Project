@@ -8,6 +8,6 @@ Nowadays, many modern game products, such as compilations, mini classic consoles
 
 ### Documentation
 
-[View the documentation on this repo's wiki](https://github.com/farmerbb/RED-Project/wiki)
+**[View the documentation on this repo's wiki](https://github.com/farmerbb/RED-Project/wiki)**
 
 Please note that everything is a work-in-progress.
