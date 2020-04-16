@@ -15,33 +15,33 @@
 		<comment>-insert comment-</comment>
 		<clrmamepro/>
 	</header>
-	<machine name="boy_01_draculadensetsu.gb">
-		<description>boy_01_draculadensetsu.gb</description>
-		<rom name="boy_01_draculadensetsu.gb" size="65536" crc="4d57af56" md5="d8e5f3f058b75b65ba86ae4e43e2986b" sha1="5a79f9d5d6b710216921a89450b727a9741e0d83"/>
+	<machine name="boy_01_DraculaDensetsu.gb">
+		<description>boy_01_DraculaDensetsu.gb</description>
+		<rom name="boy_01_DraculaDensetsu.gb" size="65536" crc="4d57af56" md5="d8e5f3f058b75b65ba86ae4e43e2986b" sha1="5a79f9d5d6b710216921a89450b727a9741e0d83"/>
 	</machine>
-	<machine name="boy_02_draculadensetsu2.gb">
-		<description>boy_02_draculadensetsu2.gb</description>
-		<rom name="boy_02_draculadensetsu2.gb" size="131072" crc="8709434b" md5="41b56cdbf28fc78f4e3d6f66907214ff" sha1="3d0c52d7f566fd717e9117ca4b948174b7864769"/>
+	<machine name="boy_02_DraculaDensetsu2.gb">
+		<description>boy_02_DraculaDensetsu2.gb</description>
+		<rom name="boy_02_DraculaDensetsu2.gb" size="131072" crc="8709434b" md5="41b56cdbf28fc78f4e3d6f66907214ff" sha1="3d0c52d7f566fd717e9117ca4b948174b7864769"/>
 	</machine>
-	<machine name="boy_us_01_castlevaniaadv1_fake_rom.gb">
-		<description>boy_us_01_castlevaniaadv1_fake_rom.gb</description>
-		<rom name="boy_us_01_castlevaniaadv1_fake_rom.gb" size="65536" crc="548ce311" md5="1e5fe428068d8e051e20874ce7c38349" sha1="0d1a75cf0e6e7f6b106cfed7aa0b716daf5f9dc8"/>
+	<machine name="boy_us_01_Castlevaniaadv1_fake_rom.gb">
+		<description>boy_us_01_Castlevaniaadv1_fake_rom.gb</description>
+		<rom name="boy_us_01_Castlevaniaadv1_fake_rom.gb" size="65536" crc="548ce311" md5="1e5fe428068d8e051e20874ce7c38349" sha1="0d1a75cf0e6e7f6b106cfed7aa0b716daf5f9dc8"/>
 	</machine>
-	<machine name="boy_us_02_castlevaniaadv2_fake_rom.gb">
-		<description>boy_us_02_castlevaniaadv2_fake_rom.gb</description>
-		<rom name="boy_us_02_castlevaniaadv2_fake_rom.gb" size="131072" crc="bd28ba07" md5="2dcdb3808c2ccef569b215e0a35800a7" sha1="823e3c0f2de29f1f2548a9c4f74a956fb39dd3b8"/>
+	<machine name="boy_us_02_Castlevaniaadv2_fake_rom.gb">
+		<description>boy_us_02_Castlevaniaadv2_fake_rom.gb</description>
+		<rom name="boy_us_02_Castlevaniaadv2_fake_rom.gb" size="131072" crc="bd28ba07" md5="2dcdb3808c2ccef569b215e0a35800a7" sha1="823e3c0f2de29f1f2548a9c4f74a956fb39dd3b8"/>
 	</machine>
-	<machine name="famicom_01_akumajoudracula.nes">
-		<description>famicom_01_akumajoudracula.nes</description>
-		<rom name="famicom_01_akumajoudracula.nes" size="131088" crc="b4c65dc2" md5="a7532a6e81a1fe32623ddc06976fa955" sha1="aefbfdc74a08f2312e803034b451598f1c4f418b"/>
+	<machine name="famicom_01_AkumajouDracula.nes">
+		<description>famicom_01_AkumajouDracula.nes</description>
+		<rom name="famicom_01_AkumajouDracula.nes" size="131088" crc="b4c65dc2" md5="a7532a6e81a1fe32623ddc06976fa955" sha1="aefbfdc74a08f2312e803034b451598f1c4f418b"/>
 	</machine>
-	<machine name="famicom_03_akumajoudensetsu.nes">
-		<description>famicom_03_akumajoudensetsu.nes</description>
-		<rom name="famicom_03_akumajoudensetsu.nes" size="393232" crc="3fa7e671" md5="9c3a20efe618f98da7d75e3838b83831" sha1="fbea0c932170c70ecc73ca2234752936553b4cd9"/>
+	<machine name="famicom_03_AkumajouDensetsu.nes">
+		<description>famicom_03_AkumajouDensetsu.nes</description>
+		<rom name="famicom_03_AkumajouDensetsu.nes" size="393232" crc="3fa7e671" md5="9c3a20efe618f98da7d75e3838b83831" sha1="fbea0c932170c70ecc73ca2234752936553b4cd9"/>
 	</machine>
-	<machine name="famicom_04_bokudraculakun.nes">
-		<description>famicom_04_bokudraculakun.nes</description>
-		<rom name="famicom_04_bokudraculakun.nes" size="262160" crc="8e2a6bc4" md5="0acbd0ec65a7cda2c6f9c794a50bd237" sha1="b42e900563491188eef96556da3c6def1bb59d03"/>
+	<machine name="famicom_04_BokuDraculakun.nes">
+		<description>famicom_04_BokuDraculakun.nes</description>
+		<rom name="famicom_04_BokuDraculakun.nes" size="262160" crc="8e2a6bc4" md5="0acbd0ec65a7cda2c6f9c794a50bd237" sha1="b42e900563491188eef96556da3c6def1bb59d03"/>
 	</machine>
 	<machine name="kid-dracula.nes">
 		<description>kid-dracula.nes</description>
@@ -51,32 +51,32 @@
 		<description>kid-dracula.sav</description>
 		<rom name="kid-dracula.sav" size="8192" crc="aba5001b" md5="dce27edb434d238613f928daa5c50632" sha1="1004aec3f6ff9d2135c0a5150e37aa8250f4f22b"/>
 	</machine>
-	<machine name="nes_01_castlevania.nes">
-		<description>nes_01_castlevania.nes</description>
-		<rom name="nes_01_castlevania.nes" size="131088" crc="4e5fea76" md5="7311a8f9ce2b74c144ef87c83329fe2d" sha1="9766012a31334f6761bc002d1f7c2e7a0e829de9"/>
+	<machine name="nes_01_Castlevania.nes">
+		<description>nes_01_Castlevania.nes</description>
+		<rom name="nes_01_Castlevania.nes" size="131088" crc="4e5fea76" md5="7311a8f9ce2b74c144ef87c83329fe2d" sha1="9766012a31334f6761bc002d1f7c2e7a0e829de9"/>
 	</machine>
-	<machine name="nes_02_castlevania2.nes">
-		<description>nes_02_castlevania2.nes</description>
-		<rom name="nes_02_castlevania2.nes" size="262160" crc="64e3374e" md5="62fe21f535b368192021ce7f16a65780" sha1="9a33aeeea048c6d6e04ac71d4a244de841520796"/>
+	<machine name="nes_02_Castlevania2.nes">
+		<description>nes_02_Castlevania2.nes</description>
+		<rom name="nes_02_Castlevania2.nes" size="262160" crc="64e3374e" md5="62fe21f535b368192021ce7f16a65780" sha1="9a33aeeea048c6d6e04ac71d4a244de841520796"/>
 	</machine>
-	<machine name="nes_02_castlevania3.nes">
-		<description>nes_02_castlevania3.nes</description>
-		<rom name="nes_02_castlevania3.nes" size="393232" crc="a17804cb" md5="cd4ecf5d71deefb537596b557f13d1d2" sha1="aaccb54c0d17b570d1a6111180e9a0e135ceeafc"/>
+	<machine name="nes_02_Castlevania3.nes">
+		<description>nes_02_Castlevania3.nes</description>
+		<rom name="nes_02_Castlevania3.nes" size="393232" crc="a17804cb" md5="cd4ecf5d71deefb537596b557f13d1d2" sha1="aaccb54c0d17b570d1a6111180e9a0e135ceeafc"/>
 	</machine>
-	<machine name="sega_jp_vampirekiller.bin">
-		<description>sega_jp_vampirekiller.bin</description>
-		<rom name="sega_jp_vampirekiller.bin" size="1048576" crc="238a9b8f" md5="9c7f0f040fec42d7048f6b1842deffb4" sha1="2213b219854890952ba1eb8bf65c0dcf8baa0abf"/>
+	<machine name="sega_jp_VampireKiller.bin">
+		<description>sega_jp_VampireKiller.bin</description>
+		<rom name="sega_jp_VampireKiller.bin" size="1048576" crc="238a9b8f" md5="9c7f0f040fec42d7048f6b1842deffb4" sha1="2213b219854890952ba1eb8bf65c0dcf8baa0abf"/>
 	</machine>
-	<machine name="sega_us_castlevaniabloodlines.bin">
-		<description>sega_us_castlevaniabloodlines.bin</description>
-		<rom name="sega_us_castlevaniabloodlines.bin" size="1048576" crc="e949fbe5" md5="2ff7cc859cb2d09293d0ca53706ab3c9" sha1="43c68b0cd628c30c46b575da2499b4d142f3a5d6"/>
+	<machine name="sega_us_CastlevaniaBloodlines.bin">
+		<description>sega_us_CastlevaniaBloodlines.bin</description>
+		<rom name="sega_us_CastlevaniaBloodlines.bin" size="1048576" crc="e949fbe5" md5="2ff7cc859cb2d09293d0ca53706ab3c9" sha1="43c68b0cd628c30c46b575da2499b4d142f3a5d6"/>
 	</machine>
 	<machine name="snes_01_supercastlevania4_fake_rom.smc">
 		<description>snes_01_supercastlevania4_fake_rom.smc</description>
 		<rom name="snes_01_supercastlevania4_fake_rom.smc" size="1048576" crc="48344dcb" md5="d4fcb5e9baa54b1de17bc26129099df3" sha1="107d974220d7493e06cbc0bb1a87dc536bff24de"/>
 	</machine>
-	<machine name="sufami_01_akumajoudracula.smc">
-		<description>sufami_01_akumajoudracula.smc</description>
-		<rom name="sufami_01_akumajoudracula.smc" size="1048576" crc="32c06183" md5="b25b01b52aba8ca3127620e5a3fdf1ec" sha1="a814c40347079ca7af76f2df9fb6e1afbe414108"/>
+	<machine name="sufami_01_AkumajouDracula.smc">
+		<description>sufami_01_AkumajouDracula.smc</description>
+		<rom name="sufami_01_AkumajouDracula.smc" size="1048576" crc="32c06183" md5="b25b01b52aba8ca3127620e5a3fdf1ec" sha1="a814c40347079ca7af76f2df9fb6e1afbe414108"/>
 	</machine>
 </datafile>
