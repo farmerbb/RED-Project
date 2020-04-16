@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Genesis Mini</name>
+		<description>-insert description-</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="us_de_Landstalker.bin">
+		<description>us_de_Landstalker.bin</description>
+		<rom name="us_de_Landstalker.bin" size="2097152" crc="fc64bb8c" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31"/>
+	</machine>
+	<machine name="us_de_The_Story_of_Thor.bin">
+		<description>us_de_The_Story_of_Thor.bin</description>
+		<rom name="us_de_The_Story_of_Thor.bin" size="3145728" crc="244d768b" md5="0670b2bcabed94c9848a3390610ee879" sha1="cefcf3b07385062dcc185308249b55a39109d3fe"/>
+	</machine>
+	<machine name="us_eu_Landstalker.bin">
+		<description>us_eu_Landstalker.bin</description>
+		<rom name="us_eu_Landstalker.bin" size="2097152" crc="1ec0ec97" md5="4feae5987b0c552b84620f3d48bd8c4b" sha1="3717be2ce3015ba3fb79f57ddafa69201615df63"/>
+	</machine>
+	<machine name="us_eu_Light_Crusader.bin">
+		<description>us_eu_Light_Crusader.bin</description>
+		<rom name="us_eu_Light_Crusader.bin" size="2097152" crc="600e5709" md5="4d33352309f278d46e967174490e61b4" sha1="a249d61a0002d34686110fd4cd9ff574cc0d5822"/>
+	</machine>
+	<machine name="us_eu_Sonic_Spinball.bin">
+		<description>us_eu_Sonic_Spinball.bin</description>
+		<rom name="us_eu_Sonic_Spinball.bin" size="2097152" crc="12c52e60" md5="2bb4680793d740c7237b44f3f4a67416" sha1="9767f5e738a8ec0f0d49c81b9981bd91b28690f2"/>
+	</machine>
+	<machine name="us_fr_Landstalker.bin">
+		<description>us_fr_Landstalker.bin</description>
+		<rom name="us_fr_Landstalker.bin" size="2097152" crc="365d282a" md5="a8e797ebaae6dc09020074b03b57ed75" sha1="ca034cc0e0fa2cbcef8bbe2bd0e066a719ac158f"/>
+	</machine>
+	<machine name="us_fr_The_Story_of_Thor.bin">
+		<description>us_fr_The_Story_of_Thor.bin</description>
+		<rom name="us_fr_The_Story_of_Thor.bin" size="3145728" crc="a9359029" md5="56364f465806b255777d545884568aff" sha1="c0b4ce1b6c17b5ba8240027e73bda44bd090faa3"/>
+	</machine>
+	<machine name="us_it_The_Story_of_Thor.bin">
+		<description>us_it_The_Story_of_Thor.bin</description>
+		<rom name="us_it_The_Story_of_Thor.bin" size="3145728" crc="8cd9053f" md5="9b18a3f750cc7000181f864d9898db37" sha1="30f6d0ba72372a09497829b5fdb5a3f27440bcaf"/>
+	</machine>
+	<machine name="us_jp_Alex_Kidd.bin">
+		<description>us_jp_Alex_Kidd.bin</description>
+		<rom name="us_jp_Alex_Kidd.bin" size="262144" crc="8a5ed856" md5="fdfc9df027de832b93d6f88e8bb2f819" sha1="0bd83099edd3938a0f127ed399cb01046e36ac32"/>
+	</machine>
+	<machine name="us_jp_Alisia_Dragoon.bin">
+		<description>us_jp_Alisia_Dragoon.bin</description>
+		<rom name="us_jp_Alisia_Dragoon.bin" size="1048576" crc="3a6bf605" md5="18465670f6aee7a63344410c31ca0cc4" sha1="6cdbaafbc6095f17a79fd78a57d6189c779c3c3f"/>
+	</machine>
+	<machine name="us_jp_Altered_Beast.bin">
+		<description>us_jp_Altered_Beast.bin</description>
+		<rom name="us_jp_Altered_Beast.bin" size="524288" crc="b2233e87" md5="1351733931c06014e45f091d25a92e29" sha1="d0713d6da20145fe9e13b56a103fce23bc6051d7"/>
+	</machine>
+	<machine name="us_jp_Castle_of_Illusion.bin">
+		<description>us_jp_Castle_of_Illusion.bin</description>
+		<rom name="us_jp_Castle_of_Illusion.bin" size="524288" crc="ce8333c6" md5="4995ed01f27b27b650a69390cee33a1b" sha1="0679162757f375751a677fd05195c9248abc84f0"/>
+	</machine>
+	<machine name="us_jp_Castlevania_Bloodlines.bin">
+		<description>us_jp_Castlevania_Bloodlines.bin</description>
+		<rom name="us_jp_Castlevania_Bloodlines.bin" size="1048576" crc="db03961b" md5="3fe739c40a79222801fcad6c753e6f11" sha1="aa3fe7971cdbf4cf8fa44e6dc09122b8cc6a319c"/>
+	</machine>
+	<machine name="us_jp_Comix_Zone.bin">
+		<description>us_jp_Comix_Zone.bin</description>
+		<rom name="us_jp_Comix_Zone.bin" size="2097152" crc="7a6027b8" md5="d92ccdfd14118af824b98997ab639bb7" sha1="44f8c2a102971d0afcb0d9bd9081ccf51ff830a9"/>
+	</machine>
+	<machine name="us_jp_Contra_Hard_Corps.bin">
+		<description>us_jp_Contra_Hard_Corps.bin</description>
+		<rom name="us_jp_Contra_Hard_Corps.bin" size="2097152" crc="76c211cb" md5="18f0bcad4268865b67a4a907e68ab71a" sha1="cabe533d9a3ff14ca4bea80794d6b21a114608d2"/>
+	</machine>
+	<machine name="us_jp_Dr_Robotnik_s_Mean_Bean_Machine.bin">
+		<description>us_jp_Dr_Robotnik_s_Mean_Bean_Machine.bin</description>
+		<rom name="us_jp_Dr_Robotnik_s_Mean_Bean_Machine.bin" size="524288" crc="7f26614e" md5="c723d1079157ab78e160b26ac5091d74" sha1="02656b5707cf9452d4cf48378ffd3a95dc84e9c5"/>
+	</machine>
+	<machine name="us_jp_Dynamite_Headdy.bin">
+		<description>us_jp_Dynamite_Headdy.bin</description>
+		<rom name="us_jp_Dynamite_Headdy.bin" size="2097152" crc="d03cdb53" md5="cdb36911439289d3453060f58682057c" sha1="02727a217e654f3cdf5a3fcd33b2f38d404a467d"/>
+	</machine>
+	<machine name="us_jp_Ecco_the_Dolphin.bin">
+		<description>us_jp_Ecco_the_Dolphin.bin</description>
+		<rom name="us_jp_Ecco_the_Dolphin.bin" size="1048576" crc="6520304d" md5="fdfc181b6f949788f336662dbabf5929" sha1="1440fb5821ebb08048f73a0a71ac22e0cdbcf394"/>
+	</machine>
+	<machine name="us_jp_Eternal_Champions.bin">
+		<description>us_jp_Eternal_Champions.bin</description>
+		<rom name="us_jp_Eternal_Champions.bin" size="3145728" crc="66aa3c64" md5="9f72a583823d839d6e2d68a8d418fc5f" sha1="1b115e64e138ca045acfe64e2337fc68172be576"/>
+	</machine>
+	<machine name="us_jp_Ghouls_n_Ghosts.bin">
+		<description>us_jp_Ghouls_n_Ghosts.bin</description>
+		<rom name="us_jp_Ghouls_n_Ghosts.bin" size="655360" crc="5659f379" md5="203213c107fc17731dc7953343b5ffab" sha1="a08a5764dc8651d31ef72466028cfb87fb6dd166"/>
+	</machine>
+	<machine name="us_jp_Gunstar_Heroes.bin">
+		<description>us_jp_Gunstar_Heroes.bin</description>
+		<rom name="us_jp_Gunstar_Heroes.bin" size="1048576" crc="1cfd0383" md5="bc578767a82f008cd2d3f4226a98ec32" sha1="64ae3ef9d063d21b290849809902c221f6ab10d5"/>
+	</machine>
+	<machine name="us_jp_Kid_Chameleon.bin">
+		<description>us_jp_Kid_Chameleon.bin</description>
+		<rom name="us_jp_Kid_Chameleon.bin" size="1048576" crc="50217c80" md5="2c1bee0580a7a875cb7fd4ee497b5bfe" sha1="237ff4041f3e8ce5047f06f695fb55dca51354b8"/>
+	</machine>
+	<machine name="us_jp_Landstalker.bin">
+		<description>us_jp_Landstalker.bin</description>
+		<rom name="us_jp_Landstalker.bin" size="2097152" crc="b0afa45a" md5="dcc153ec3ca6b4e84f987782038c82c0" sha1="6aca4adeeca0bb1b97bc7e1c2b48d432feb35267"/>
+	</machine>
+	<machine name="us_jp_Light_Crusader.bin">
+		<description>us_jp_Light_Crusader.bin</description>
+		<rom name="us_jp_Light_Crusader.bin" size="2097152" crc="f6550938" md5="7e3b7318db56ffd148cb35f031baa968" sha1="8e283b602ac5215f507b80ef5cab7638ceff58a9"/>
+	</machine>
+	<machine name="us_jp_Mega_Man.bin">
+		<description>us_jp_Mega_Man.bin</description>
+		<rom name="us_jp_Mega_Man.bin" size="2097152" crc="e8f5668e" md5="f36771942c483192c6f4c3e1127888b1" sha1="77de1a2bdc359044e8aec5a3bcd6a5d878d23837"/>
+	</machine>
+	<machine name="us_jp_Phantasy_Star_IV.bin">
+		<description>us_jp_Phantasy_Star_IV.bin</description>
+		<rom name="us_jp_Phantasy_Star_IV.bin" size="4194304" crc="b23cd7aa" md5="705f36f4f50c49cc3dfa0999cc715cd9" sha1="e0ebd4ed95eeabb47b2c59b8fb779536fc397974"/>
+	</machine>
+	<machine name="us_jp_Road_Rash_II.bin">
+		<description>us_jp_Road_Rash_II.bin</description>
+		<rom name="us_jp_Road_Rash_II.bin" size="1048576" crc="6cfa9048" md5="d248cf93526141751a08d2b7e1097f0c" sha1="534db7b1bbe571667fd8df575d5cdf3e7fa72ebb"/>
+	</machine>
+	<machine name="us_jp_Shining_Force.bin">
+		<description>us_jp_Shining_Force.bin</description>
+		<rom name="us_jp_Shining_Force.bin" size="2097152" crc="45416aa9" md5="1c8b419c9b1b7fa60780ff1873a8a2e2" sha1="bb9498f75b4025a432c1794a88af9d20331771e1"/>
+	</machine>
+	<machine name="us_jp_Shinobi_III.bin">
+		<description>us_jp_Shinobi_III.bin</description>
+		<rom name="us_jp_Shinobi_III.bin" size="1048576" crc="5b412816" md5="6ce59f3e7ee52dc8c6df7b4d8a166826" sha1="e3dbe326aa93320d405c561c306fc3954ab8ea7c"/>
+	</machine>
+	<machine name="us_jp_Sonic_Spinball.bin">
+		<description>us_jp_Sonic_Spinball.bin</description>
+		<rom name="us_jp_Sonic_Spinball.bin" size="1048576" crc="acd08ce8" md5="3a12dc6b4f41681e0dc0ae3b2f894b4f" sha1="43b2fdac9c747d6f6a629347c589599074408cd9"/>
+	</machine>
+	<machine name="us_jp_Sonic_The_Hedgehog.bin">
+		<description>us_jp_Sonic_The_Hedgehog.bin</description>
+		<rom name="us_jp_Sonic_The_Hedgehog.bin" size="524288" crc="6382b2c5" md5="c6c15aea60bda10ae11c6bc375296153" sha1="95b6aac7e11bb2d908aafa06973ffeb45817a992"/>
+	</machine>
+	<machine name="us_jp_STREET_FIGHTER_II.bin">
+		<description>us_jp_STREET_FIGHTER_II.bin</description>
+		<rom name="us_jp_STREET_FIGHTER_II.bin" size="3145728" crc="95a351f5" md5="73e423b24b47abc3edfd6de4ede26541" sha1="9d507da08660ef27e45f54a214bea5ae9ee4cd3a"/>
+	</machine>
+	<machine name="us_jp_Streets_of_Rage_2.bin">
+		<description>us_jp_Streets_of_Rage_2.bin</description>
+		<rom name="us_jp_Streets_of_Rage_2.bin" size="2097152" crc="c48b3698" md5="f1f726e5aca9bf49df540bf189b75e05" sha1="0073a7e69f95739649a333de7f30d76edf39aabf"/>
+	</machine>
+	<machine name="us_jp_Strider.bin">
+		<description>us_jp_Strider.bin</description>
+		<rom name="us_jp_Strider.bin" size="1048576" crc="f38c0ed3" md5="5e47dc4ed6fbfba39dcc6572ea17b410" sha1="593565c58d13bf68a6a9820214309e43508be2ad"/>
+	</machine>
+	<machine name="us_jp_Sword_of_Vermilion.BIN">
+		<description>us_jp_Sword_of_Vermilion.BIN</description>
+		<rom name="us_jp_Sword_of_Vermilion.BIN" size="655360" crc="5af97a22" md5="873e78eccbc92ea9844f7ea0388cd3e4" sha1="26c52544272ed6fef8811da0cdff5f2fb4cdee52"/>
+	</machine>
+	<machine name="us_jp_Tetris.bin">
+		<description>us_jp_Tetris.bin</description>
+		<rom name="us_jp_Tetris.bin" size="524288" crc="b6fb7a7d" md5="f5f0cf3a6765c50915bbb0af2c02723c" sha1="dea6ab2dd1aa05ef2119037223fc1bff0c0aa0ca"/>
+	</machine>
+	<machine name="us_jp_The_Story_of_Thor.bin">
+		<description>us_jp_The_Story_of_Thor.bin</description>
+		<rom name="us_jp_The_Story_of_Thor.bin" size="3145728" crc="4f39783c" md5="3285ef5a23fdb908d77da525e694af03" sha1="54296f5cf1917c568bb29b0086641c282b8884bd"/>
+	</machine>
+	<machine name="us_jp_Wonder_Boy_in_Monster_World.bin">
+		<description>us_jp_Wonder_Boy_in_Monster_World.bin</description>
+		<rom name="us_jp_Wonder_Boy_in_Monster_World.bin" size="655360" crc="45a50f96" md5="e25afc5b755555397e4047061050ae05" sha1="1582f159e1969ff0541319a9bd7e6f7a53505d01"/>
+	</machine>
+	<machine name="us_jp_World_of_Illusion.bin">
+		<description>us_jp_World_of_Illusion.bin</description>
+		<rom name="us_jp_World_of_Illusion.bin" size="1048576" crc="277bdb4c" md5="b44c84ad8ffd258d016538a4a6ce4b2a" sha1="849f9707ba7c308a2833368c7fdf5960de78acfd"/>
+	</machine>
+	<machine name="us_ko_The_Story_of_Thor.bin">
+		<description>us_ko_The_Story_of_Thor.bin</description>
+		<rom name="us_ko_The_Story_of_Thor.bin" size="3145728" crc="ee1603c5" md5="492833310cf6106bc3db3a0167cce79a" sha1="e0a43fb3d6da940b1fda449753bffae637a802cd"/>
+	</machine>
+	<machine name="us_sp_Castlevania_Bloodlines.bin">
+		<description>us_sp_Castlevania_Bloodlines.bin</description>
+		<rom name="us_sp_Castlevania_Bloodlines.bin" size="1048576" crc="6a5e58cd" md5="d6f1bdb9ca9a4137bcdb31611fb35bee" sha1="2572d121758ce2ecb89f8ee7e3de3e9503cd1b9f"/>
+	</machine>
+	<machine name="us_sp_Contra_Hard_Corps.bin">
+		<description>us_sp_Contra_Hard_Corps.bin</description>
+		<rom name="us_sp_Contra_Hard_Corps.bin" size="2097152" crc="6ed9e471" md5="a46bbf43a8f349cb42eec80199add3fc" sha1="e71fb4c18f6e878f2ce8eb6c26c46523b19dbc0e"/>
+	</machine>
+	<machine name="us_sp_The_Story_of_Thor.bin">
+		<description>us_sp_The_Story_of_Thor.bin</description>
+		<rom name="us_sp_The_Story_of_Thor.bin" size="3145728" crc="dbf84ca5" md5="9188fd192fb9c12d34395521be900aac" sha1="ccc2c530f47f59383d9dc05a0eddb6bc1050d434"/>
+	</machine>
+	<machine name="us_us_Alex_Kidd.bin">
+		<description>us_us_Alex_Kidd.bin</description>
+		<rom name="us_us_Alex_Kidd.bin" size="262144" crc="47dba0ac" md5="6dee3627fa7a28267efd07c51a467ad6" sha1="bbb204c1eb5ca1b6d180c32722955b2c39d2c17b"/>
+	</machine>
+	<machine name="us_us_Alisia_Dragoon.bin">
+		<description>us_us_Alisia_Dragoon.bin</description>
+		<rom name="us_us_Alisia_Dragoon.bin" size="1048576" crc="4bfdfe9c" md5="651ba2f3cd428a9797da8314bdb5949b" sha1="f70985959d9d2cbcdae54f7e8260d3ffc9fefaa1"/>
+	</machine>
+	<machine name="us_us_Altered_Beast.bin">
+		<description>us_us_Altered_Beast.bin</description>
+		<rom name="us_us_Altered_Beast.bin" size="524288" crc="154d59bb" md5="2ed5293e46abe1e74edeb96da0e7a618" sha1="38945360d824d2fb9535b4fd7f25b9aa9b32f019"/>
+	</machine>
+	<machine name="us_us_Castle_of_Illusion.bin">
+		<description>us_us_Castle_of_Illusion.bin</description>
+		<rom name="us_us_Castle_of_Illusion.bin" size="524288" crc="ba4e9fd0" md5="24863151abd5baf28c9386d49ffe3c09" sha1="4ac3687634a5acc55ac7f156c6de9749158713e4"/>
+	</machine>
+	<machine name="us_us_Castlevania_Bloodlines.bin">
+		<description>us_us_Castlevania_Bloodlines.bin</description>
+		<rom name="us_us_Castlevania_Bloodlines.bin" size="1048576" crc="fb1ea6df" md5="0f04fc1b5bf8c9a887abcf14ce96b0cd" sha1="4809cf80ced70e77bc7479bb652a9d9fe22ce7e6"/>
+	</machine>
+	<machine name="us_us_Columns.bin">
+		<description>us_us_Columns.bin</description>
+		<rom name="us_us_Columns.bin" size="131072" crc="d783c244" md5="b92d1477992ca143e02bf90ab2e2a118" sha1="17ae2595e4d3fb705c9f8f66d5938deca3f95c4e"/>
+	</machine>
+	<machine name="us_us_Comix_Zone.bin">
+		<description>us_us_Comix_Zone.bin</description>
+		<rom name="us_us_Comix_Zone.bin" size="2097152" crc="e45a15f4" md5="9bfbbf751196b934dc159cb34fa3494f" sha1="2427e7e3932da731eb172ae22ad779c0abfced13"/>
+	</machine>
+	<machine name="us_us_Contra_Hard_Corps.bin">
+		<description>us_us_Contra_Hard_Corps.bin</description>
+		<rom name="us_us_Contra_Hard_Corps.bin" size="2097152" crc="042a81b0" md5="b552ccce25afbafe61c4a9026e6b1190" sha1="f9aa7a0e7ec07e0f1512b582c279e378eee7c902"/>
+	</machine>
+	<machine name="us_us_Darius.bin">
+		<description>us_us_Darius.bin</description>
+		<rom name="us_us_Darius.bin" size="4194304" crc="26ca4234" md5="05dac074b9f194d74c44848eb15ad53f" sha1="4841d8f05a73cb7c5f98b710f14ebd72be1a6504"/>
+	</machine>
+	<machine name="us_us_Dr_Robotnik_s_Mean_Bean_Machine.bin">
+		<description>us_us_Dr_Robotnik_s_Mean_Bean_Machine.bin</description>
+		<rom name="us_us_Dr_Robotnik_s_Mean_Bean_Machine.bin" size="1048576" crc="e32f0b1c" md5="9565c34a058fb301a4691174d2151858" sha1="a698c4eda62032d1f98b3e4f824b6475c2612859"/>
+	</machine>
+	<machine name="us_us_Dynamite_Headdy.bin">
+		<description>us_us_Dynamite_Headdy.bin</description>
+		<rom name="us_us_Dynamite_Headdy.bin" size="2097152" crc="3dfeeb77" md5="d11ec9b230e88403cd75ef186a884c97" sha1="e843decdff262791b1237f1545f5b17c56712d5f"/>
+	</machine>
+	<machine name="us_us_Earthworm_Jim.bin">
+		<description>us_us_Earthworm_Jim.bin</description>
+		<rom name="us_us_Earthworm_Jim.bin" size="3145728" crc="df3acf59" md5="074dcf012f3fd11a4c7e624474944d81" sha1="a544211d1ebab1f096f6e72a0d724f74f9ddbce8"/>
+	</machine>
+	<machine name="us_us_Ecco_the_Dolphin.bin">
+		<description>us_us_Ecco_the_Dolphin.bin</description>
+		<rom name="us_us_Ecco_the_Dolphin.bin" size="1048576" crc="45547390" md5="18b49fe6ad55975b6021b40b193035f5" sha1="2cad130f3118c189d39fd1d46c5c31a5060ce894"/>
+	</machine>
+	<machine name="us_us_Eternal_Champions.bin">
+		<description>us_us_Eternal_Champions.bin</description>
+		<rom name="us_us_Eternal_Champions.bin" size="3145728" crc="48f1a42e" md5="bde8b2396241aa27463ca875e604b8d3" sha1="5e978217c10b679a42d7d2966a4ccb77e1715962"/>
+	</machine>
+	<machine name="us_us_Ghouls_n_Ghosts.bin">
+		<description>us_us_Ghouls_n_Ghosts.bin</description>
+		<rom name="us_us_Ghouls_n_Ghosts.bin" size="655360" crc="4f2561d5" md5="c61ff4bcdf10813c74f36ab57e29f646" sha1="aab6d20f01db51576b1d7cafab46e613dddf7f8a"/>
+	</machine>
+	<machine name="us_us_Golden_Axe.bin">
+		<description>us_us_Golden_Axe.bin</description>
+		<rom name="us_us_Golden_Axe.bin" size="524288" crc="665d7df9" md5="e4263c39487f0b55e8f33cbd5acd9b93" sha1="2ce17105ca916fbbe3ac9ae3a2086e66b07996dd"/>
+	</machine>
+	<machine name="us_us_Gunstar_Heroes.bin">
+		<description>us_us_Gunstar_Heroes.bin</description>
+		<rom name="us_us_Gunstar_Heroes.bin" size="1048576" crc="b813cf0d" md5="9a369cfc6355db48677771e345421e0e" sha1="7721e302555f16e3242ad4a47ed87a1de1882122"/>
+	</machine>
+	<machine name="us_us_Kid_Chameleon.bin">
+		<description>us_us_Kid_Chameleon.bin</description>
+		<rom name="us_us_Kid_Chameleon.bin" size="1048576" crc="ce36e6cc" md5="756e603b6cf9b3ebbb1b0f79d9447e43" sha1="28b904000b2863b6760531807760b571f1a5fc1d"/>
+	</machine>
+	<machine name="us_us_Landstalker.bin">
+		<description>us_us_Landstalker.bin</description>
+		<rom name="us_us_Landstalker.bin" size="2097152" crc="f2d14a6a" md5="dbaa50ee8b061b573c33337e18329ecd" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c"/>
+	</machine>
+	<machine name="us_us_Light_Crusader.bin">
+		<description>us_us_Light_Crusader.bin</description>
+		<rom name="us_us_Light_Crusader.bin" size="2097152" crc="84390291" md5="5c9a2a51cb754884b78b5bc9bb554131" sha1="8dd26603a26fd6177d97845748e66fbabf93353f"/>
+	</machine>
+	<machine name="us_us_Mega_Man.bin">
+		<description>us_us_Mega_Man.bin</description>
+		<rom name="us_us_Mega_Man.bin" size="2097152" crc="0cd405db" md5="8e860e4f7c7ee5febad9134a56766112" sha1="26ad72719991e94dbe477c78e65d68f4a4fe51e6"/>
+	</machine>
+	<machine name="us_us_Monster_World_IV.bin">
+		<description>us_us_Monster_World_IV.bin</description>
+		<rom name="us_us_Monster_World_IV.bin" size="2097152" crc="d26a32b6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d"/>
+	</machine>
+	<machine name="us_us_Mortal_Kombat_II.bin">
+		<description>us_us_Mortal_Kombat_II.bin</description>
+		<rom name="us_us_Mortal_Kombat_II.bin" size="3145728" crc="a9e013d8" md5="c8e887ca9cdde7bde85f324f66d34b2d" sha1="af6d2db16f2b76940ff5a9738f1e00c4e7ea485e"/>
+	</machine>
+	<machine name="us_us_Phantasy_Star_IV.bin">
+		<description>us_us_Phantasy_Star_IV.bin</description>
+		<rom name="us_us_Phantasy_Star_IV.bin" size="4194304" crc="2ee18bc3" md5="fb78e5fb68d21e38e5f11fd318db793c" sha1="0a872a253790001972c52bb515f7b209bf0c7bed"/>
+	</machine>
+	<machine name="us_us_Road_Rash_II.bin">
+		<description>us_us_Road_Rash_II.bin</description>
+		<rom name="us_us_Road_Rash_II.bin" size="1048576" crc="c25abd9e" md5="b67a30513aa0ba4bc5795815e4df3a7c" sha1="873ed46f53fb70898bfd7bbf3af682762dcb58c1"/>
+	</machine>
+	<machine name="us_us_Shining_Force.bin">
+		<description>us_us_Shining_Force.bin</description>
+		<rom name="us_us_Shining_Force.bin" size="2097152" crc="4391175e" md5="d5a3f42342db34f29d180d264da5cb66" sha1="1a267c5b2acc6fab0496b880c5c1a62a01420a1d"/>
+	</machine>
+	<machine name="us_us_Shinobi_III.bin">
+		<description>us_us_Shinobi_III.bin</description>
+		<rom name="us_us_Shinobi_III.bin" size="1048576" crc="c0f1de3c" md5="96ce4719e6525b5411e449ddb38630ff" sha1="a9e23c79662949e465f0ac233203dc6039e54867"/>
+	</machine>
+	<machine name="us_us_Sonic_Spinball.bin">
+		<description>us_us_Sonic_Spinball.bin</description>
+		<rom name="us_us_Sonic_Spinball.bin" size="1048576" crc="677206cb" md5="841e347b30a6e298ee2b0c722f19fe74" sha1="24bf6342b98c09775089c9f39cfb2f6fbe7806f7"/>
+	</machine>
+	<machine name="us_us_Sonic_The_Hedgehog.bin">
+		<description>us_us_Sonic_The_Hedgehog.bin</description>
+		<rom name="us_us_Sonic_The_Hedgehog.bin" size="524288" crc="f9394e97" md5="1bc674be034e43c96b86487ac69d9293" sha1="6ddb7de1e17e7f6cdb88927bd906352030daa194"/>
+	</machine>
+	<machine name="us_us_Sonic_The_Hedgehog_2.bin">
+		<description>us_us_Sonic_The_Hedgehog_2.bin</description>
+		<rom name="us_us_Sonic_The_Hedgehog_2.bin" size="1048576" crc="92d8817d" md5="2a4cc74873d3117629e454666e39e654" sha1="4050c7ba90a53138407c66dcae9891e5a5c73e8f"/>
+	</machine>
+	<machine name="us_us_Space_Harrier_II.bin">
+		<description>us_us_Space_Harrier_II.bin</description>
+		<rom name="us_us_Space_Harrier_II.bin" size="524288" crc="e5c9cbb0" md5="2864c05f9bf67f92af830f2fa7de1d61" sha1="db4285e4ffb69aa9f1ca68c4103fbfd0843f7b86"/>
+	</machine>
+	<machine name="us_us_STREET_FIGHTER_II.bin">
+		<description>us_us_STREET_FIGHTER_II.bin</description>
+		<rom name="us_us_STREET_FIGHTER_II.bin" size="3145728" crc="a81527b7" md5="e3b495bfb3cce24a35baa0431d19c0bb" sha1="8e808ed1f7429f65d9e8a11db2ff1b4e4f96df7c"/>
+	</machine>
+	<machine name="us_us_Streets_of_Rage_2.bin">
+		<description>us_us_Streets_of_Rage_2.bin</description>
+		<rom name="us_us_Streets_of_Rage_2.bin" size="2097152" crc="e01fa526" md5="cb75d5a6919b61efe917bea5762c1cb7" sha1="8b656eec9692d88bbbb84787142aa732b44ce0be"/>
+	</machine>
+	<machine name="us_us_Strider.bin">
+		<description>us_us_Strider.bin</description>
+		<rom name="us_us_Strider.bin" size="1048576" crc="b9d099a4" md5="fcab622a6e56f7e9b1e0907ab5a630df" sha1="26fe42d13a01c8789bbad722ebac05b8a829eb37"/>
+	</machine>
+	<machine name="us_us_Super_Fantasy_Zone.bin">
+		<description>us_us_Super_Fantasy_Zone.bin</description>
+		<rom name="us_us_Super_Fantasy_Zone.bin" size="1048576" crc="d97d913d" md5="9ab60ccbb50445109f1acba46be14f50" sha1="71d3816e1fd6d49afb64631605dba40cc7f3b5b5"/>
+	</machine>
+	<machine name="us_us_Sword_of_Vermilion.BIN">
+		<description>us_us_Sword_of_Vermilion.BIN</description>
+		<rom name="us_us_Sword_of_Vermilion.BIN" size="655360" crc="ea1bc9ab" md5="a742836dc29ee51cf6d985191820ae4e" sha1="c18fc75e0c5fa0e98c8664903e978ec4f73ef5d2"/>
+	</machine>
+	<machine name="us_us_Tetris.bin">
+		<description>us_us_Tetris.bin</description>
+		<rom name="us_us_Tetris.bin" size="524288" crc="c8dd8841" md5="9ffa2c2e2f57ed445490306fc367bbe5" sha1="1079fee1fd044f16caf641d6b96f84143a6ceceb"/>
+	</machine>
+	<machine name="us_us_The_Story_of_Thor.bin">
+		<description>us_us_The_Story_of_Thor.bin</description>
+		<rom name="us_us_The_Story_of_Thor.bin" size="3145728" crc="c4728225" md5="5a79de198ed6b1ece2518574fe78d962" sha1="2944910c07c02eace98c17d78d07bef7859d386a"/>
+	</machine>
+	<machine name="us_us_Thunder_Force_III.bin">
+		<description>us_us_Thunder_Force_III.bin</description>
+		<rom name="us_us_Thunder_Force_III.bin" size="524288" crc="1b3f399a" md5="64766dae889d039eb391bc5bf2973f5d" sha1="9eadee76eb0509d5a0f16372fc9eac7a883e5f2d"/>
+	</machine>
+	<machine name="us_us_ToeJam_Earl.bin">
+		<description>us_us_ToeJam_Earl.bin</description>
+		<rom name="us_us_ToeJam_Earl.bin" size="1048576" crc="7a588f4b" md5="72dc91fd2c5528b384f082a38db9ddda" sha1="85e8d0a4fac591b25b77c35680ac4175976f251b"/>
+	</machine>
+	<machine name="us_us_Vectorman.bin">
+		<description>us_us_Vectorman.bin</description>
+		<rom name="us_us_Vectorman.bin" size="2097152" crc="b0f8c546" md5="d3aec81b37ec520f37edb910305ff829" sha1="9be6a15c91261e6c77edf6596b53c9bd70394d89"/>
+	</machine>
+	<machine name="us_us_Virtua_Fighter_2.bin">
+		<description>us_us_Virtua_Fighter_2.bin</description>
+		<rom name="us_us_Virtua_Fighter_2.bin" size="4194304" crc="937380f3" md5="61b922208e0518a2e127939d374a43cb" sha1="c283bf31b646489c2341f8325c52fb8b788a3702"/>
+	</machine>
+	<machine name="us_us_Wonder_Boy_in_Monster_World.bin">
+		<description>us_us_Wonder_Boy_in_Monster_World.bin</description>
+		<rom name="us_us_Wonder_Boy_in_Monster_World.bin" size="786432" crc="1592f5b0" md5="edba0bdb192d47712edbe0097f885f40" sha1="87a968f773c7e807e647c0737132457b06b78276"/>
+	</machine>
+	<machine name="us_us_World_of_Illusion.bin">
+		<description>us_us_World_of_Illusion.bin</description>
+		<rom name="us_us_World_of_Illusion.bin" size="1048576" crc="921ebd1c" md5="c2c5a4b990ce72f98b7b7f236e66c022" sha1="adb0a2edebb6f978c3217075a2f29003a8b025c6"/>
+	</machine>
+</datafile>
