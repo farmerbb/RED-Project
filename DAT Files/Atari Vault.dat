@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari Vault</name>
+		<description>-insert description-</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3d_tic.bin">
+		<description>3d_tic.bin</description>
+		<rom name="3d_tic.bin" size="2048" crc="58805709" md5="0db4f4150fecf77e4ce72ca4d04c052f" sha1="21d983f2f52b84c22ecae84b0943678ae2c31c10"/>
+	</machine>
+	<machine name="adventureii.bin">
+		<description>adventureii.bin</description>
+		<rom name="adventureii.bin" size="8192" crc="bfd846c5" md5="e8590f08e7b28bd4e17778ce163c8237" sha1="48d3b94e41371dd7f41d96e1195c324913c228bd"/>
+	</machine>
+	<machine name="advnture.bin">
+		<description>advnture.bin</description>
+		<rom name="advnture.bin" size="4096" crc="a6db4b3a" md5="157bddb7192754a45372be196797f284" sha1="e07e48d463d30321239a8acc00c490f27f1f7422"/>
+	</machine>
+	<machine name="airaidrs.bin">
+		<description>airaidrs.bin</description>
+		<rom name="airaidrs.bin" size="4096" crc="bb16539d" md5="a9cb638cd2cb2e8e0643d7a67db4281c" sha1="29f5c73d1fe806a4284547274dd73f9972a7ed70"/>
+	</machine>
+	<machine name="airseabt.bin">
+		<description>airseabt.bin</description>
+		<rom name="airseabt.bin" size="2048" crc="2a2a9f81" md5="835967c3a2475d852286f04b1b8c62d9" sha1="fe70d356b84c9bef28497332c6b36d9b52a0205d"/>
+	</machine>
+	<machine name="aquavent.bin">
+		<description>aquavent.bin</description>
+		<rom name="aquavent.bin" size="8192" crc="87a8cb8b" md5="038e1e79c3d4410defde4bfe0b99cc32" sha1="7d132ab776ff755b86bf4f204165aa54e9e1f1cf"/>
+	</machine>
+	<machine name="armambsh.bin">
+		<description>armambsh.bin</description>
+		<rom name="armambsh.bin" size="4096" crc="fc35704b" md5="a7b584937911d60c120677fe0d47f36f" sha1="9b6a54969240baf64928118741c3affee148d721"/>
+	</machine>
+	<machine name="asteroid.bin">
+		<description>asteroid.bin</description>
+		<rom name="asteroid.bin" size="8192" crc="70a59647" md5="ccbd36746ed4525821a8083b0d6d2c2c" sha1="8423f99092b454aed89f89f5d7da658caf7af016"/>
+	</machine>
+	<machine name="asteroids.bin">
+		<description>asteroids.bin</description>
+		<rom name="asteroids.bin" size="8192" crc="38480891" md5="fe840b0020003f111022eb45347baf38" sha1="18697dd8e640fa1578b3b4ae09af484c14fb8410"/>
+	</machine>
+	<machine name="astrblst.bin">
+		<description>astrblst.bin</description>
+		<rom name="astrblst.bin" size="4096" crc="1de25331" md5="170e7589a48739cfb9cc782cbb0fe25a" sha1="8e83fd77e198b27eb5b02a6dc02a5ab37b5a76bd"/>
+	</machine>
+	<machine name="backgamn.bin">
+		<description>backgamn.bin</description>
+		<rom name="backgamn.bin" size="4096" crc="e2a7ffa6" md5="8556b42aa05f94bc29ff39c39b11bff4" sha1="9b1da7fbd0bf6fcadf1b60c11eeb31b6a61a03c3"/>
+	</machine>
+	<machine name="basketbl.bin">
+		<description>basketbl.bin</description>
+		<rom name="basketbl.bin" size="2048" crc="32f60182" md5="68153d10ab505d1a742f2efae4df7eda" sha1="dd779e223baefc6d24e3e87aca84c313c171910f"/>
+	</machine>
+	<machine name="basmath.bin">
+		<description>basmath.bin</description>
+		<rom name="basmath.bin" size="2048" crc="d48ebac0" md5="819aeeb9a2e11deb54e6de334f843894" sha1="5cc4010eb2858afe8ce77f53a89d37c7584e15b4"/>
+	</machine>
+	<machine name="bios.bin">
+		<description>bios.bin</description>
+		<rom name="bios.bin" size="2048" crc="4248d3e3" md5="281f20ea4320404ec820fb7ec0693b38" sha1="6ad7a1e8c9fad486fbec9498cb48bf5bc3adc530"/>
+	</machine>
+	<machine name="black_j.bin">
+		<description>black_j.bin</description>
+		<rom name="black_j.bin" size="2048" crc="4b0ee010" md5="0a981c03204ac2b278ba392674682560" sha1="edfd905a34870196f8acb2a9cd41f79f4326f88d"/>
+	</machine>
+	<machine name="bowling.bin">
+		<description>bowling.bin</description>
+		<rom name="bowling.bin" size="2048" crc="fea0d6d5" md5="c9b7afad3bfd922e006a6bfc1d4f3fe7" sha1="cf6ce244b3edaad7ad5e9ca5f01668135c2f93d0"/>
+	</machine>
+	<machine name="braingms.bin">
+		<description>braingms.bin</description>
+		<rom name="braingms.bin" size="2048" crc="150709c2" md5="1cca2197d95c5a41f2add49a13738055" sha1="238915cafd26f69bc8a3b9aa7d880dde59f6f12d"/>
+	</machine>
+	<machine name="breakout.bin">
+		<description>breakout.bin</description>
+		<rom name="breakout.bin" size="2048" crc="3037638c" md5="f34f08e5eb96e500e851a80be3277a56" sha1="8d473b87b70e26890268e6c417c0bb7f01e402eb"/>
+	</machine>
+	<machine name="canyonb.bin">
+		<description>canyonb.bin</description>
+		<rom name="canyonb.bin" size="2048" crc="e914b8ca" md5="feedcc20bc3ca34851cd5d9e38aa2ca6" sha1="b89443a0029e765c2716774fe2582be37650115c"/>
+	</machine>
+	<machine name="casino.bin">
+		<description>casino.bin</description>
+		<rom name="casino.bin" size="4096" crc="420b8248" md5="b816296311019ab69a21cb9e9e235d12" sha1="08598101e38756916613f37581ef1b61c719016f"/>
+	</machine>
+	<machine name="centiped.bin">
+		<description>centiped.bin</description>
+		<rom name="centiped.bin" size="8192" crc="77396102" md5="91c2098e88a6b13f977af8c003e0bca5" sha1="0b5914bc1526a9beaf54d7fd11408175cd8fcc72"/>
+	</machine>
+	<machine name="centipede.bin">
+		<description>centipede.bin</description>
+		<rom name="centipede.bin" size="16384" crc="536a70fe" md5="261702e8d9acbf45d44bb61fd8fa3e17" sha1="eb343b90d3de696e69b1f039d4fb2c6afb0d80c0"/>
+	</machine>
+	<machine name="circatri.bin">
+		<description>circatri.bin</description>
+		<rom name="circatri.bin" size="4096" crc="d2a330a3" md5="a7b96a8150600b3e800a4689c3ec60a2" sha1="8a91ecdbd8bf9d412da051c3422abb004eab8603"/>
+	</machine>
+	<machine name="codebrk.bin">
+		<description>codebrk.bin</description>
+		<rom name="codebrk.bin" size="2048" crc="947edb18" md5="5846b1d34c296bf7afc2fa05bbc16e98" sha1="137bd3d3f36e2549c6e1cc3a60f2a7574f767775"/>
+	</machine>
+	<machine name="combat.bin">
+		<description>combat.bin</description>
+		<rom name="combat.bin" size="2048" crc="0d64a9c5" md5="0d213ac07d3be0d51d3084769bebac17" sha1="1426772d1aa61d7074749afe4cec79ba82724d72"/>
+	</machine>
+	<machine name="combat2.bin">
+		<description>combat2.bin</description>
+		<rom name="combat2.bin" size="8192" crc="8cabe1fd" md5="b0c9cf89a6d4e612524f4fd48b5bb562" sha1="66014de1f8e9f39483ee3f97ca0d97d026ffc3bb"/>
+	</machine>
+	<machine name="concentr.bin">
+		<description>concentr.bin</description>
+		<rom name="concentr.bin" size="2048" crc="17de8070" md5="102672bbd7e25cd79f4384dd7214c32b" sha1="a6e42c63138a2fd527cdbe9b7e60f5feabdd55c8"/>
+	</machine>
+	<machine name="countermeasure.bin">
+		<description>countermeasure.bin</description>
+		<rom name="countermeasure.bin" size="16384" crc="ff7af233" md5="bb66f81a4ff92d57f65b98772d264bee" sha1="019cfdb8a82f2f6ee2ca3c199958a858b6dbfd99"/>
+	</machine>
+	<machine name="cryscast.bin">
+		<description>cryscast.bin</description>
+		<rom name="cryscast.bin" size="16384" crc="9007b5ac" md5="1c6eb740d3c485766cade566abab8208" sha1="2e4ee5ee040b08be1fe568602d1859664e607efb"/>
+	</machine>
+	<machine name="darkcvrn.bin">
+		<description>darkcvrn.bin</description>
+		<rom name="darkcvrn.bin" size="4096" crc="0481078c" md5="a422194290c64ef9d444da9d6a207807" sha1="0ae2fc87f87a5cc199c3b9a17444bf3c2f6a829b"/>
+	</machine>
+	<machine name="demondim.bin">
+		<description>demondim.bin</description>
+		<rom name="demondim.bin" size="4096" crc="9b97c3da" md5="f91fb8da3223b79f1c9a07b77ebfa0b2" sha1="b45582de81c48b04c2bb758d69021e8088c70ce7"/>
+	</machine>
+	<machine name="dodge_em.bin">
+		<description>dodge_em.bin</description>
+		<rom name="dodge_em.bin" size="4096" crc="0c74479b" md5="83bdc819980db99bf89a7f2ed6a2de59" sha1="157117df23cb5229386d06bbdb3af20a208722e0"/>
+	</machine>
+	<machine name="doubdunk.bin">
+		<description>doubdunk.bin</description>
+		<rom name="doubdunk.bin" size="16384" crc="6112cbf5" md5="ace3f86aad86b8f294cc614872c87efa" sha1="30f813b868f4fc7688249a5991ed5dc24daf7347"/>
+	</machine>
+	<machine name="dsrtfalc.bin">
+		<description>dsrtfalc.bin</description>
+		<rom name="dsrtfalc.bin" size="16384" crc="caa0054e" md5="fd4f5536fd80f35c64d365df85873418" sha1="ccea2d5095441d7e1b1468e3879a6ab556dc8b7a"/>
+	</machine>
+	<machine name="fatalrun.bin">
+		<description>fatalrun.bin</description>
+		<rom name="fatalrun.bin" size="32768" crc="826c2e3d" md5="74f9bf4ea831c5737fd5a8b489e322f4" sha1="2d8b1b6e575a177846b200f60b7f5fbea934ceef"/>
+	</machine>
+	<machine name="final_legacy.bin">
+		<description>final_legacy.bin</description>
+		<rom name="final_legacy.bin" size="16384" crc="d3bd3221" md5="2bb63d65efc8682bc4dfac0fd0a823be" sha1="48625af4f3e9fe538dab2a0b463887fc8c6b138d"/>
+	</machine>
+	<machine name="flagcap.bin">
+		<description>flagcap.bin</description>
+		<rom name="flagcap.bin" size="2048" crc="8aa1c41e" md5="30512e0e83903fc05541d2f6a6a62654" sha1="ac05f05f3365f5e348e1e618410065a1c2a88ee4"/>
+	</machine>
+	<machine name="football.bin">
+		<description>football.bin</description>
+		<rom name="football.bin" size="2048" crc="3b73ee02" md5="e549f1178e038fa88dc6d657dc441146" sha1="c6fe4ce24bc1ebd538258d98cfe829963323acca"/>
+	</machine>
+	<machine name="frog_pond_8_27_82.bin">
+		<description>frog_pond_8_27_82.bin</description>
+		<rom name="frog_pond_8_27_82.bin" size="8192" crc="5874385a" md5="f67181b3a01b9c9159840b15449b87b0" sha1="0d6a96f857ae0e813b4d493866e2420cc5c4bad5"/>
+	</machine>
+	<machine name="frogflys.bin">
+		<description>frogflys.bin</description>
+		<rom name="frogflys.bin" size="4096" crc="6476c136" md5="dcc2956c7a39fdbf1e861fc5c595da0d" sha1="f344d5a8dc895c5a2ae0288f3c6cb66650e49167"/>
+	</machine>
+	<machine name="golf.bin">
+		<description>golf.bin</description>
+		<rom name="golf.bin" size="2048" crc="46a9f200" md5="2e663eaa0d6b723b645e643750b942fd" sha1="a25d52770408314dec6f41aaf5f9f0a2a3e2c18f"/>
+	</machine>
+	<machine name="grav2600.bin">
+		<description>grav2600.bin</description>
+		<rom name="grav2600.bin" size="8192" crc="c87fccbe" md5="8ac18076d01a6b63acf6e2cab4968940" sha1="a372d4dd3d95b3866553cae2336e4565e00cc25b"/>
+	</machine>
+	<machine name="hangman.bin">
+		<description>hangman.bin</description>
+		<rom name="hangman.bin" size="4096" crc="c2bcc789" md5="f16c709df0a6c52f47ff52b9d95b7d8d" sha1="561bccf508e162bc70c42d85c170cf0d1d4691a3"/>
+	</machine>
+	<machine name="haunthse.bin">
+		<description>haunthse.bin</description>
+		<rom name="haunthse.bin" size="4096" crc="aa62d961" md5="f0a6e99f5875891246c3dbecbf2d2cea" sha1="1476c869619075b551b20f2c7f95b11e0d16aec1"/>
+	</machine>
+	<machine name="holemole.bin">
+		<description>holemole.bin</description>
+		<rom name="holemole.bin" size="8192" crc="3bb2e71d" md5="c52d9bbdc5530e1ef8e8ba7be692b01e" sha1="8196209ef7048c5494dbdc932adbf1c7abf79f4e"/>
+	</machine>
+	<machine name="homerun.bin">
+		<description>homerun.bin</description>
+		<rom name="homerun.bin" size="2048" crc="45ace998" md5="0bfabf1e98bdb180643f35f2165995d0" sha1="f362d2b3a50e5ae3c2b412b6c08ecdcfee47a688"/>
+	</machine>
+	<machine name="human_cb.bin">
+		<description>human_cb.bin</description>
+		<rom name="human_cb.bin" size="2048" crc="f05a41e1" md5="7972e5101fa548b952d852db24ad6060" sha1="d4b0b2aa379893356c72414ee0065a3a91cf9f97"/>
+	</machine>
+	<machine name="indy500.bin">
+		<description>indy500.bin</description>
+		<rom name="indy500.bin" size="2048" crc="b43da2a3" md5="c5301f549d0722049bb0add6b10d1e09" sha1="620ab88d63cdd3f8ce67deac00a22257c7205c8b"/>
+	</machine>
+	<machine name="mazecrz.bin">
+		<description>mazecrz.bin</description>
+		<rom name="mazecrz.bin" size="4096" crc="0098e428" md5="f825c538481f9a7a46d1e9bc06200aaf" sha1="aba25089d87cd6fee8d206b880baa5d938aae255"/>
+	</machine>
+	<machine name="microgammon.bin">
+		<description>microgammon.bin</description>
+		<rom name="microgammon.bin" size="16384" crc="931a454a" md5="24348dd9287f54574ccc40ee40d24a86" sha1="2f152a857a8a58d602b3c717612d9744423ee495"/>
+	</machine>
+	<machine name="milliped.bin">
+		<description>milliped.bin</description>
+		<rom name="milliped.bin" size="16384" crc="ccc82dd0" md5="3c57748c8286cf9e821ecd064f21aaa9" sha1="0616f0dde6d697816dda92ed9e5a4c3d77a39408"/>
+	</machine>
+	<machine name="millipede.bin">
+		<description>millipede.bin</description>
+		<rom name="millipede.bin" size="16384" crc="969cfe1a" md5="84d88bcdeffee1ab880a5575c6aca45e" sha1="1243a8ecfc02a74ae4e1f4fcda38502776f45cb0"/>
+	</machine>
+	<machine name="min_golf.bin">
+		<description>min_golf.bin</description>
+		<rom name="min_golf.bin" size="2048" crc="28562315" md5="df62a658496ac98a3aa4a6ee5719c251" sha1="be24b42e3744a81fb217c86c4ed5ce51bff28e65"/>
+	</machine>
+	<machine name="miniature_golf.bin">
+		<description>miniature_golf.bin</description>
+		<rom name="miniature_golf.bin" size="16384" crc="c597c087" md5="69d472a79f404e49ad2278df3c8a266e" sha1="ef4d3ee7b4da2ef79c6f4d0d1833f10c1eb7725e"/>
+	</machine>
+	<machine name="misscomm.bin">
+		<description>misscomm.bin</description>
+		<rom name="misscomm.bin" size="4096" crc="cff14904" md5="3a2e2d0c6892aa14544083dfb7762782" sha1="faa06bb0643dbf556b13591c31917d277a83110b"/>
+	</machine>
+	<machine name="missile_command.bin">
+		<description>missile_command.bin</description>
+		<rom name="missile_command.bin" size="8192" crc="44d3ff6f" md5="972b6c0dbf5501cacfdc6665e86a796c" sha1="5c8ec22e131810ccac08066ca96e9944ccfa4ecb"/>
+	</machine>
+	<machine name="motorodeo_ntsc.bin">
+		<description>motorodeo_ntsc.bin</description>
+		<rom name="motorodeo_ntsc.bin" size="16384" crc="89998e29" md5="378a62af6e9c12a760795ff4fc939656" sha1="dea1506ba107b9544cd9b179f83bc61ced9101ac"/>
+	</machine>
+	<machine name="nightdrv.bin">
+		<description>nightdrv.bin</description>
+		<rom name="nightdrv.bin" size="2048" crc="600d8a96" md5="392f00fd1a074a3c15bc96b0a57d52a1" sha1="372771aeb4e2fb2cd1dead5497e3821e4236d5fc"/>
+	</machine>
+	<machine name="ofthwall.bin">
+		<description>ofthwall.bin</description>
+		<rom name="ofthwall.bin" size="16384" crc="e425a1cf" md5="b28c7063491717c958546fd165908257" sha1="2c52c4a5f74f609509104ce8a49e27edad8aa0d3"/>
+	</machine>
+	<machine name="outlaw.bin">
+		<description>outlaw.bin</description>
+		<rom name="outlaw.bin" size="2048" crc="68dd7acd" md5="890c13590e0d8d5d6149737d930e4d95" sha1="f8eeaaf4635ac39b4bdf7ded1348bce46313ef9f"/>
+	</machine>
+	<machine name="pele_tw.bin">
+		<description>pele_tw.bin</description>
+		<rom name="pele_tw.bin" size="4096" crc="b9d549a2" md5="b4030c38a720dd84b84178b6ce1fc749" sha1="fa5bf10d9058eeb2e32ab65a25a906c17b445903"/>
+	</machine>
+	<machine name="pelesocr.bin">
+		<description>pelesocr.bin</description>
+		<rom name="pelesocr.bin" size="4096" crc="3f59bb60" md5="ace319dc4f76548659876741a6690d57" sha1="832283530f5dee332f29cf8c4854dd554f2030a0"/>
+	</machine>
+	<machine name="radarlok.bin">
+		<description>radarlok.bin</description>
+		<rom name="radarlok.bin" size="16384" crc="c29f7285" md5="baf4ce885aa281fd31711da9b9795485" sha1="33f016c941fab01e1e2d0d7ba7930e3bcd8feaa3"/>
+	</machine>
+	<machine name="realsports_baseball.bin">
+		<description>realsports_baseball.bin</description>
+		<rom name="realsports_baseball.bin" size="32768" crc="44166592" md5="2bb928d7516e451c6b0159ac413407de" sha1="a94d06739fa19453fa586a836eaacae11fe93989"/>
+	</machine>
+	<machine name="realsports_basketball.bin">
+		<description>realsports_basketball.bin</description>
+		<rom name="realsports_basketball.bin" size="32768" crc="dd217276" md5="e056001d304db597bdd21b2968fcc3e6" sha1="9b21ac7fec8d556585c6970231318ef1f501b2b5"/>
+	</machine>
+	<machine name="realsports_football.bin">
+		<description>realsports_football.bin</description>
+		<rom name="realsports_football.bin" size="16384" crc="4336c2cc" md5="022c47b525b058796841134bb5c75a18" sha1="a0dbd654ed3ba2583ca175a1356924d9529884df"/>
+	</machine>
+	<machine name="realsports_soccer.bin">
+		<description>realsports_soccer.bin</description>
+		<rom name="realsports_soccer.bin" size="16384" crc="ecbd1853" md5="3074fad290298d56c67f82e8588c5a8b" sha1="c911cc914f3923d5aeb1a897e6dc4a551a9a53da"/>
+	</machine>
+	<machine name="realsports_tennis.bin">
+		<description>realsports_tennis.bin</description>
+		<rom name="realsports_tennis.bin" size="16384" crc="10f33c90" md5="7e683e571cbe7c77f76a1648f906b932" sha1="2e6c7472e37926cdfd3d855a4bd37a18fa83d8cf"/>
+	</machine>
+	<machine name="ret2hh.bin">
+		<description>ret2hh.bin</description>
+		<rom name="ret2hh.bin" size="4096" crc="95d29756" md5="c957cd71281af6c56697c7f842e4a21c" sha1="70a5f2a6a21b970a60d531ca23ef20336a0058ff"/>
+	</machine>
+	<machine name="rs_baseb.bin">
+		<description>rs_baseb.bin</description>
+		<rom name="rs_baseb.bin" size="8192" crc="3c5a1b5f" md5="eb634650c3912132092b7aee540bbce3" sha1="ace97b89b8b6ab947434dbfd263951c6c0b349ac"/>
+	</machine>
+	<machine name="rs_footb.bin">
+		<description>rs_footb.bin</description>
+		<rom name="rs_footb.bin" size="8192" crc="f89f64ef" md5="7ad257833190bc60277c1ca475057051" sha1="200d04c1e7f41a5a3730287ed0c3f9293628f195"/>
+	</machine>
+	<machine name="rs_volly.bin">
+		<description>rs_volly.bin</description>
+		<rom name="rs_volly.bin" size="4096" crc="54fc9eb2" md5="aed0b7bd64cc384f85fdea33e28daf3b" sha1="2025e1d868595fad36e5d9e7384ffd24c206208d"/>
+	</machine>
+	<machine name="rsbasket.bin">
+		<description>rsbasket.bin</description>
+		<rom name="rsbasket.bin" size="8192" crc="364feaa6" md5="8a183b6357987db5170c5cf9f4a113e5" sha1="bc2e6bdaa950bc06be040899dfeb9ad0938f4e98"/>
+	</machine>
+	<machine name="rsboxing.bin">
+		<description>rsboxing.bin</description>
+		<rom name="rsboxing.bin" size="16384" crc="3398a1b2" md5="3177cc5c04c1a4080a927dfa4099482b" sha1="22dedbfce6cc9055a6c4caec013ca80200e51971"/>
+	</machine>
+	<machine name="rssoccer.bin">
+		<description>rssoccer.bin</description>
+		<rom name="rssoccer.bin" size="8192" crc="02d89819" md5="08f853e8e01e711919e734d85349220d" sha1="e3d964d918b7f2c420776acd3370ec1ee62744ea"/>
+	</machine>
+	<machine name="rstennis.bin">
+		<description>rstennis.bin</description>
+		<rom name="rstennis.bin" size="8192" crc="379001a0" md5="dac5c0fe74531f077c105b396874a9f1" sha1="702c1c7d985d0d22f935265bd284d1ed50df2527"/>
+	</machine>
+	<machine name="saboteur.bin">
+		<description>saboteur.bin</description>
+		<rom name="saboteur.bin" size="8192" crc="c359c13d" md5="1ec57bbd27bdbd08b60c391c4895c1cf" sha1="85752ac6eb7045a9083425cd166609882a1c2c58"/>
+	</machine>
+	<machine name="SaveMary_NTSC.bin">
+		<description>SaveMary_NTSC.bin</description>
+		<rom name="SaveMary_NTSC.bin" size="16384" crc="01e18f53" md5="4d502d6fb5b992ee0591569144128f99" sha1="ecd8ef49ae23ddd3e10ec60839b95c8e7764ea27"/>
+	</machine>
+	<machine name="seabattle.bin">
+		<description>seabattle.bin</description>
+		<rom name="seabattle.bin" size="4096" crc="83b4eb19" md5="1bc2427ac9b032a52fe527c7b26ce22c" sha1="cfcc4f11ace2a7408b8122dbf80ab8ec6b56af76"/>
+	</machine>
+	<machine name="secretq.bin">
+		<description>secretq.bin</description>
+		<rom name="secretq.bin" size="16384" crc="93c9eb47" md5="fc24a94d4371c69bc58f5245ada43c44" sha1="af11f1666d345267196a1c35223727e2ef93483a"/>
+	</machine>
+	<machine name="sentinel.bin">
+		<description>sentinel.bin</description>
+		<rom name="sentinel.bin" size="16384" crc="27acc8a3" md5="08b74078760738cc04d9d4e44bf906bc" sha1="dbbd2d2cfd0e69890a57d5465c69f8969de048db"/>
+	</machine>
+	<machine name="skydiver.bin">
+		<description>skydiver.bin</description>
+		<rom name="skydiver.bin" size="2048" crc="00312ea9" md5="46c021a3e9e2fd00919ca3dd1a6b76d8" sha1="4dde18d4abc139562fdd7a9d2fd49a1f00a9e64a"/>
+	</machine>
+	<machine name="slotmach.bin">
+		<description>slotmach.bin</description>
+		<rom name="slotmach.bin" size="2048" crc="cb378d95" md5="f90b5da189f24d7e1a2117d8c8abc952" sha1="7239d1c64f3dfc2a1613be325cce13803dd2baa5"/>
+	</machine>
+	<machine name="slotrace.bin">
+		<description>slotrace.bin</description>
+		<rom name="slotrace.bin" size="2048" crc="177dbdf8" md5="aed82052f7589df05a3f417bb4e45f0c" sha1="a2b13017d759346174e3d8dd53b6347222d3b85d"/>
+	</machine>
+	<machine name="spacattk.bin">
+		<description>spacattk.bin</description>
+		<rom name="spacattk.bin" size="4096" crc="b34a3e57" md5="17badbb3f54d1fc01ee68726882f26a6" sha1="560563613bc309a532d611f11a1cf2b9af1e2f16"/>
+	</machine>
+	<machine name="spacewar.bin">
+		<description>spacewar.bin</description>
+		<rom name="spacewar.bin" size="2048" crc="65622f2a" md5="a7ef44ccb5b9000caf02df3e6da71a92" sha1="23510ba617431097668eaf104aa1e36233173093"/>
+	</machine>
+	<machine name="sprbaseb.bin">
+		<description>sprbaseb.bin</description>
+		<rom name="sprbaseb.bin" size="16384" crc="2245f170" md5="7adbcf78399b19596671edbffc3d34aa" sha1="b066a60ea1df1db0a55271c7608b0e19e4d18a1e"/>
+	</machine>
+	<machine name="sprfootb.bin">
+		<description>sprfootb.bin</description>
+		<rom name="sprfootb.bin" size="16384" crc="c9b16f3c" md5="09abfe9a312ce7c9f661582fdf12eab6" sha1="eaca6b474fd552ab4aaf75526618828165a91934"/>
+	</machine>
+	<machine name="sprntmas.bin">
+		<description>sprntmas.bin</description>
+		<rom name="sprntmas.bin" size="16384" crc="c495904e" md5="5a8afe5422abbfb0a342fb15afd7415f" sha1="c0e29b86fc1cc41a1c8afa37572c3c5698ae70b2"/>
+	</machine>
+	<machine name="sq_earth.bin">
+		<description>sq_earth.bin</description>
+		<rom name="sq_earth.bin" size="8192" crc="d5e21b79" md5="05ebd183ea854c0a1b56c218246fbbae" sha1="05db3d09fa3dac80c70aae2e39f1ad7c31c62f02"/>
+	</machine>
+	<machine name="sq_fire.bin">
+		<description>sq_fire.bin</description>
+		<rom name="sq_fire.bin" size="8192" crc="6ae46a0c" md5="f9d51a4e5f8b48f68770c89ffd495ed1" sha1="5c3cf976edbea5ded66634a284787f965616d97e"/>
+	</machine>
+	<machine name="sq_water.bin">
+		<description>sq_water.bin</description>
+		<rom name="sq_water.bin" size="8192" crc="ca7b4685" md5="bc5389839857612cfabeb810ba7effdc" sha1="569fcb67ca1674b48e2f3a2e7af7077a374402de"/>
+	</machine>
+	<machine name="star_raiders.bin">
+		<description>star_raiders.bin</description>
+		<rom name="star_raiders.bin" size="16384" crc="7d819a9f" md5="e2d3a3e52bb4e3f7e489acd9974d68e2" sha1="57dfc22c9805555f957ed51a2dc7bf35ad00c9d9"/>
+	</machine>
+	<machine name="starraid.bin">
+		<description>starraid.bin</description>
+		<rom name="starraid.bin" size="8192" crc="2ae193ee" md5="cbd981a23c592fb9ab979223bb368cd5" sha1="e10cce1a438c82bd499e1eb31a3f07d7254198f5"/>
+	</machine>
+	<machine name="starship.bin">
+		<description>starship.bin</description>
+		<rom name="starship.bin" size="2048" crc="6609267e" md5="e363e467f605537f3777ad33e74e113a" sha1="878e78ed46e29c44949d0904a2198826e412ed81"/>
+	</machine>
+	<machine name="starstrk.bin">
+		<description>starstrk.bin</description>
+		<rom name="starstrk.bin" size="4096" crc="936a596d" md5="79e5338dbfa6b64008bb0d72a3179d3c" sha1="de05d1ca8ad1e7a85df3faf25b1aa90b159afded"/>
+	</machine>
+	<machine name="steplchs.bin">
+		<description>steplchs.bin</description>
+		<rom name="steplchs.bin" size="2048" crc="5f6c32c3" md5="656dc247db2871766dffd978c71da80c" sha1="e56ef1c0313d6d04e25446c4e34f9bb7eda8efac"/>
+	</machine>
+	<machine name="stlrtrak.bin">
+		<description>stlrtrak.bin</description>
+		<rom name="stlrtrak.bin" size="4096" crc="a76e93bf" md5="0b8d3002d8f744a753ba434a4d39249a" sha1="7d97d014c22a2ed3a5bc4b310f5a7be1b1d3520f"/>
+	</machine>
+	<machine name="streetrc.bin">
+		<description>streetrc.bin</description>
+		<rom name="streetrc.bin" size="2048" crc="47592880" md5="396f7bc90ab4fa4975f8c74abe4e81f0" sha1="bffb3d41916c83398624151eb00aa2a3acd23ab8"/>
+	</machine>
+	<machine name="stunt.bin">
+		<description>stunt.bin</description>
+		<rom name="stunt.bin" size="2048" crc="6354ff4c" md5="c3bbc673acf2701b5275e85d9372facf" sha1="2e19d7e16cf17682b043baaa30e345e6fa4540e5"/>
+	</machine>
+	<machine name="subcmdr.bin">
+		<description>subcmdr.bin</description>
+		<rom name="subcmdr.bin" size="4096" crc="3262960a" md5="f3f5f72bfdd67f3d0e45d097e11b8091" sha1="b22ba7cbde60a21ecbbe3953cc4a5c0bf007cc26"/>
+	</machine>
+	<machine name="super_breakout.bin">
+		<description>super_breakout.bin</description>
+		<rom name="super_breakout.bin" size="4096" crc="a0642110" md5="865570ff9052c1704f673e6222192336" sha1="f5f9c7f97bf09e5647e808d892b656f3ee1e19e0"/>
+	</machine>
+	<machine name="superbrk.bin">
+		<description>superbrk.bin</description>
+		<rom name="superbrk.bin" size="4096" crc="171dbe92" md5="0ad9a358e361256b94f3fb4f2fa5a3b1" sha1="e380e243c671e954e86aa1a3a0bfeb36d5e0c3e2"/>
+	</machine>
+	<machine name="suprbase.bin">
+		<description>suprbase.bin</description>
+		<rom name="suprbase.bin" size="4096" crc="f7e88ec2" md5="9d37a1be4a6e898026414b8fee2fc826" sha1="dfce4d6436f91d8d385f8b01f0d8e3488400407b"/>
+	</machine>
+	<machine name="suprfoot.bin">
+		<description>suprfoot.bin</description>
+		<rom name="suprfoot.bin" size="4096" crc="55f02efe" md5="e275cbe7d4e11e62c3bfcfb38fca3d49" sha1="5c1338ec76828cfa4a85b5bd8db1c00c8095c330"/>
+	</machine>
+	<machine name="surround.bin">
+		<description>surround.bin</description>
+		<rom name="surround.bin" size="2048" crc="dcb11f23" md5="4d7517ae69f95cfbc053be01312b7dba" sha1="b7988373b81992d08056560d15d3e32d9d3888bc"/>
+	</machine>
+	<machine name="swordfight.bin">
+		<description>swordfight.bin</description>
+		<rom name="swordfight.bin" size="4096" crc="f1ad77be" md5="87662815bc4f3c3c86071dc994e3f30e" sha1="0d59545b22e15019a33de16999a57dae1f998283"/>
+	</machine>
+	<machine name="temp2600.bin">
+		<description>temp2600.bin</description>
+		<rom name="temp2600.bin" size="8192" crc="e6dabc1b" md5="18aa009ecec98106ac1cb3079a555a12" sha1="3dd11dabb1a98a45443ae6f088e7e02cbd5b6aa0"/>
+	</machine>
+	<machine name="vid_olym.bin">
+		<description>vid_olym.bin</description>
+		<rom name="vid_olym.bin" size="2048" crc="e4bc89c4" md5="60e0ea3cbe0913d39803477945e9e5ec" sha1="1ffe89d79d55adabc0916b95cc37e18619ef7830"/>
+	</machine>
+	<machine name="vidcheck.bin">
+		<description>vidcheck.bin</description>
+		<rom name="vidcheck.bin" size="4096" crc="3df33335" md5="539d26b6e9df0da8e7465f0f5ad863b7" sha1="babae88a832b76d8c5af6ea63b8f10a0da5bb992"/>
+	</machine>
+	<machine name="vidchess.bin">
+		<description>vidchess.bin</description>
+		<rom name="vidchess.bin" size="4096" crc="b6226a54" md5="f0b7db930ca0e548c41a97160b9f6275" sha1="043ef523e4fcb9fc2fc2fda21f15671bf8620fc3"/>
+	</machine>
+	<machine name="vidcube.bin">
+		<description>vidcube.bin</description>
+		<rom name="vidcube.bin" size="4096" crc="8172299e" md5="7e860c06fcd1ab31c6975daec7fa1e84" sha1="ac141bb18cacc5d197ff4f9b5bef18683c989474"/>
+	</machine>
+	<machine name="vidpin.bin">
+		<description>vidpin.bin</description>
+		<rom name="vidpin.bin" size="4096" crc="10d95426" md5="107cc025334211e6d29da0b6be46aec7" sha1="2c16c1a6374c8e22275d152d93dd31ffba26271f"/>
+	</machine>
+	<machine name="warl2600.bin">
+		<description>warl2600.bin</description>
+		<rom name="warl2600.bin" size="4096" crc="cf174b57" md5="cbe5a166550a8129a5e6d374901dffad" sha1="2d7563d337cbc0cdf4fc14f69853ab6757697788"/>
+	</machine>
+	<machine name="wizard.bin">
+		<description>wizard.bin</description>
+		<rom name="wizard.bin" size="4096" crc="d2f5a554" md5="0d413e3d7d38cfcca01a0c4f8e957429" sha1="23a3c0ff2a364c5dc60f6a9fb8febab5e4e65c14"/>
+	</machine>
+	<machine name="xari_arena.bin">
+		<description>xari_arena.bin</description>
+		<rom name="xari_arena.bin" size="16384" crc="b8faaec3" md5="4f6c58c28c41f31e3a1515fe1e5d15af" sha1="8b5512d3d2a952c99b9377919f0e06481161d81e"/>
+	</machine>
+	<machine name="yar_rev.bin">
+		<description>yar_rev.bin</description>
+		<rom name="yar_rev.bin" size="4096" crc="dfa1c825" md5="c5930d0e8cdae3e037349bfa08e871be" sha1="e2cd8996c1cf929e29130690024d1ec23d3b0bde"/>
+	</machine>
+	<machine name="yarsreturn.bin">
+		<description>yarsreturn.bin</description>
+		<rom name="yarsreturn.bin" size="8192" crc="daf83348" md5="bbfd41cbe3bc5afa6b563b21905e555d" sha1="7fe92ddf32d20f463dabd737cc06ae002adb3819"/>
+	</machine>
+</datafile>
