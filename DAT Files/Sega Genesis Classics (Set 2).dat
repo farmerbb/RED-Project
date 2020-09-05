@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Genesis Classics (Set 2)</name>
+		<description>-insert description-</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="g0000.bin">
+		<description>g0000.bin</description>
+		<rom name="g0000.bin" size="524288" crc="154d59bb" md5="2ed5293e46abe1e74edeb96da0e7a618" sha1="38945360d824d2fb9535b4fd7f25b9aa9b32f019"/>
+	</machine>
+	<machine name="g0001.bin">
+		<description>g0001.bin</description>
+		<rom name="g0001.bin" size="2097152" crc="17da0354" md5="7078e8018ded17f3ce4c70cc8bf74afc" sha1="e8747eefdf61172be9da8787ba5be447ec73180f"/>
+	</machine>
+	<machine name="g0002.bin">
+		<description>g0002.bin</description>
+		<rom name="g0002.bin" size="524288" crc="b9ce9051" md5="f0a0a4e19e9f962afb304fbcadd8f101" sha1="949cd961a99e9c35388cf6a4db5e866102ed27a2"/>
+	</machine>
+	<machine name="g0003.bin">
+		<description>g0003.bin</description>
+		<rom name="g0003.bin" size="1048576" crc="45547390" md5="18b49fe6ad55975b6021b40b193035f5" sha1="2cad130f3118c189d39fd1d46c5c31a5060ce894"/>
+	</machine>
+	<machine name="g0004.bin">
+		<description>g0004.bin</description>
+		<rom name="g0004.bin" size="524288" crc="83e7b8ae" md5="fa43881a792fadf1ab737294fff1bcc3" sha1="3cc501086f794ac663aad14d5c5a75b648041151"/>
+	</machine>
+	<machine name="g0005.bin">
+		<description>g0005.bin</description>
+		<rom name="g0005.bin" size="524288" crc="665d7df9" md5="e4263c39487f0b55e8f33cbd5acd9b93" sha1="2ce17105ca916fbbe3ac9ae3a2086e66b07996dd"/>
+	</machine>
+	<machine name="g0006.bin">
+		<description>g0006.bin</description>
+		<rom name="g0006.bin" size="524288" crc="5cd3e295" md5="4bbe8b456f87a22062a98a0d50e41cd5" sha1="a3a1c2cb8bd202c5e1b9745b35b2ffb12b2b90f5"/>
+	</machine>
+	<machine name="g0007.bin">
+		<description>g0007.bin</description>
+		<rom name="g0007.bin" size="1048576" crc="5381506f" md5="691eeff9c5741724a8751ec0fa9cfbf0" sha1="1e07d7998e3048fcfba4238ae96496460e91b3a5"/>
+	</machine>
+	<machine name="g0008.bin">
+		<description>g0008.bin</description>
+		<rom name="g0008.bin" size="4194304" crc="44a2ca44" md5="50acbea2461d179b2bf11460a1cc6409" sha1="89957568386a5023d198ac2251ded9dfb2ab65e7"/>
+	</machine>
+	<machine name="g0009.bin">
+		<description>g0009.bin</description>
+		<rom name="g0009.bin" size="524288" crc="e5c9cbb0" md5="2864c05f9bf67f92af830f2fa7de1d61" sha1="db4285e4ffb69aa9f1ca68c4103fbfd0843f7b86"/>
+	</machine>
+	<machine name="g0010.bin">
+		<description>g0010.bin</description>
+		<rom name="g0010.bin" size="2097152" crc="d38b3354" md5="d7171a867739c8ec325aa65b175b0c49" sha1="57a64d08028b539dc236a693d383f2e1269a5dd4"/>
+	</machine>
+	<machine name="g0011.bin">
+		<description>g0011.bin</description>
+		<rom name="g0011.bin" size="262144" crc="47dba0ac" md5="6dee3627fa7a28267efd07c51a467ad6" sha1="bbb204c1eb5ca1b6d180c32722955b2c39d2c17b"/>
+	</machine>
+	<machine name="g0012.bin">
+		<description>g0012.bin</description>
+		<rom name="g0012.bin" size="524288" crc="c6aac589" md5="acf4aa6aea84be72afaa1a86954b85cb" sha1="f7313ecaf7143873597e3a6ebf58d542d06c3ef3"/>
+	</machine>
+	<machine name="g0013.bin">
+		<description>g0013.bin</description>
+		<rom name="g0013.bin" size="131072" crc="d783c244" md5="b92d1477992ca143e02bf90ab2e2a118" sha1="17ae2595e4d3fb705c9f8f66d5938deca3f95c4e"/>
+	</machine>
+	<machine name="g0014.bin">
+		<description>g0014.bin</description>
+		<rom name="g0014.bin" size="1048576" crc="c7ca517f" md5="4d6bdac51d2f5969a91496142ea53232" sha1="aa6b60103fa92bc95fcc824bf1675e411627c8d3"/>
+	</machine>
+	<machine name="g0015.bin">
+		<description>g0015.bin</description>
+		<rom name="g0015.bin" size="1048576" crc="6c6f4b89" md5="ca7fa198e67d77b348111d57a6ad9df1" sha1="0b493ef23874f82606d4fd22c2380b289247aa9f"/>
+	</machine>
+	<machine name="g0016.bin">
+		<description>g0016.bin</description>
+		<rom name="g0016.bin" size="3145728" crc="48f1a42e" md5="bde8b2396241aa27463ca875e604b8d3" sha1="5e978217c10b679a42d7d2966a4ccb77e1715962"/>
+	</machine>
+	<machine name="g0017.bin">
+		<description>g0017.bin</description>
+		<rom name="g0017.bin" size="131072" crc="5f0bd984" md5="f4550e6ca0b6c8a9de2376f85bdc6a8a" sha1="c136cb3fae1914a8fe079eb28c4533af5d8774e2"/>
+	</machine>
+	<machine name="g0018.bin">
+		<description>g0018.bin</description>
+		<rom name="g0018.bin" size="1048576" crc="e4d84e4a" md5="6e1abadd32cd010905711791d46c03e3" sha1="9636b9cd10fb4ca78caa6a3e4934b77412cb9612"/>
+	</machine>
+	<machine name="g0019.bin">
+		<description>g0019.bin</description>
+		<rom name="g0019.bin" size="1048576" crc="ce36e6cc" md5="756e603b6cf9b3ebbb1b0f79d9447e43" sha1="28b904000b2863b6760531807760b571f1a5fc1d"/>
+	</machine>
+	<machine name="g0020.bin">
+		<description>g0020.bin</description>
+		<rom name="g0020.bin" size="2097152" crc="6511aa61" md5="ecf9d0bac130fed7b6a54a67d7b27df7" sha1="1d15ff596dd4f3b2c1212a2e0c6e2b72f62c001e"/>
+	</machine>
+	<machine name="g0021.bin">
+		<description>g0021.bin</description>
+		<rom name="g0021.bin" size="1048576" crc="677206cb" md5="841e347b30a6e298ee2b0c722f19fe74" sha1="24bf6342b98c09775089c9f39cfb2f6fbe7806f7"/>
+	</machine>
+	<machine name="g0022.bin">
+		<description>g0022.bin</description>
+		<rom name="g0022.bin" size="524288" crc="b13087ee" md5="04da37f2a95340243bff72c82d4c7b73" sha1="21810b4a309a5b9a70965dd440e9aeed0b6ca4c5"/>
+	</machine>
+	<machine name="g0023.bin">
+		<description>g0023.bin</description>
+		<rom name="g0023.bin" size="524288" crc="5ab9c9f8" md5="a7a4c8b3fee11badd96afa030b18b5c7" sha1="391300d5359a27a51aa417a5f6796e180b482e99"/>
+	</machine>
+	<machine name="g0024.bin">
+		<description>g0024.bin</description>
+		<rom name="g0024.bin" size="1048576" crc="95b0ea2b" md5="2d6764f7a96bb8b640a0d18102756ed2" sha1="dca9d505302ce9ff1f98c4da95505139c7d3cafc"/>
+	</machine>
+	<machine name="g0025.bin">
+		<description>g0025.bin</description>
+		<rom name="g0025.bin" size="524288" crc="dc678f6d" md5="441b7e9c9811e22458660eb73975569c" sha1="8e52a5d0adbff3b2a15f32e9299b4ffdf35f5541"/>
+	</machine>
+	<machine name="g0026.bin">
+		<description>g0026.bin</description>
+		<rom name="g0026.bin" size="524288" crc="73dc0dd8" md5="283c180cede3352dabec75fff677052e" sha1="9665f54a6149d71ea72db9c168755e62cb61649c"/>
+	</machine>
+	<machine name="g0027.bin">
+		<description>g0027.bin</description>
+		<rom name="g0027.bin" size="2097152" crc="ccb21f98" md5="3b28a4ddddb6ff6ea3bfb3c8b117522a" sha1="82ec466a81b95942ad849c5e2f88781bef28acc8"/>
+	</machine>
+	<machine name="g0028.bin">
+		<description>g0028.bin</description>
+		<rom name="g0028.bin" size="524288" crc="e72f8a36" md5="264d8c7c7b1f476fe6ea98411e3cde35" sha1="5cb96061bd2b00c82f8d6b46ab9802e2b1820c86"/>
+	</machine>
+	<machine name="g0029.bin">
+		<description>g0029.bin</description>
+		<rom name="g0029.bin" size="131072" crc="4291c8ab" md5="805cc0b3724f041126a57a4d956fd251" sha1="83d8bbf0a9b38c42a0bf492d105cc3abe9644a96"/>
+	</machine>
+	<machine name="g0030.bin">
+		<description>g0030.bin</description>
+		<rom name="g0030.bin" size="524288" crc="725e0a18" md5="2cd3573172961fa52f622f14ccff4e1a" sha1="31f12a21af018cdf88b3f2170af5389b84fba7e7"/>
+	</machine>
+	<machine name="g0031.bin">
+		<description>g0031.bin</description>
+		<rom name="g0031.bin" size="524288" crc="afe05eee" md5="09dadb5071eb35050067a32462e39c5f" sha1="69e102855d4389c3fd1a8f3dc7d193f8eee5fe5b"/>
+	</machine>
+	<machine name="g0032.bin">
+		<description>g0032.bin</description>
+		<rom name="g0032.bin" size="655360" crc="ea1bc9ab" md5="a742836dc29ee51cf6d985191820ae4e" sha1="c18fc75e0c5fa0e98c8664903e978ec4f73ef5d2"/>
+	</machine>
+	<machine name="g0033.bin">
+		<description>g0033.bin</description>
+		<rom name="g0033.bin" size="4194304" crc="937380f3" md5="61b922208e0518a2e127939d374a43cb" sha1="c283bf31b646489c2341f8325c52fb8b788a3702"/>
+	</machine>
+	<machine name="g0034.bin">
+		<description>g0034.bin</description>
+		<rom name="g0034.bin" size="2097152" crc="0496e06c" md5="32aeea27591d0cb88dc571baa738804e" sha1="fa141778bd6540775194d77318f27d2a934e1ac1"/>
+	</machine>
+	<machine name="g0035.bin">
+		<description>g0035.bin</description>
+		<rom name="g0035.bin" size="1048576" crc="b813cf0d" md5="9a369cfc6355db48677771e345421e0e" sha1="7721e302555f16e3242ad4a47ed87a1de1882122"/>
+	</machine>
+	<machine name="g0036.bin">
+		<description>g0036.bin</description>
+		<rom name="g0036.bin" size="2097152" crc="fbbb5b97" md5="04ae2b65f3a11a7504339e60735beed8" sha1="24345e29427b000b90df778965dd8834300a9dde"/>
+	</machine>
+	<machine name="g0037.bin">
+		<description>g0037.bin</description>
+		<rom name="g0037.bin" size="2097152" crc="beb715dc" md5="2869e0d4ad512a1fbd9b79d6937d9446" sha1="df58fbcbede4b9659740b5505641d4cc7dd1b7f8"/>
+	</machine>
+	<machine name="g0038.bin">
+		<description>g0038.bin</description>
+		<rom name="g0038.bin" size="1572864" crc="e0594abe" md5="4b4acbe75ff7aaeb534ab78ed95910d1" sha1="7cbb3ed31c982750d70a273b9561a9e1b2c04eea"/>
+	</machine>
+	<machine name="g0039.bin">
+		<description>g0039.bin</description>
+		<rom name="g0039.bin" size="2097152" crc="4815e075" md5="6473b1505334ef5620d13191c18251fe" sha1="22defc2e8e6c1dbb20421b906796538725b3d893"/>
+	</machine>
+	<machine name="g0040.bin">
+		<description>g0040.bin</description>
+		<rom name="g0040.bin" size="1048576" crc="4d2785bc" md5="522b689a1b2f0ea8578fa9d888554b82" sha1="4e10c90199d6edd2030a4ba1c42c7c166bf309ec"/>
+	</machine>
+	<machine name="g0041.bin">
+		<description>g0041.bin</description>
+		<rom name="g0041.bin" size="1048576" crc="7b905383" md5="9feeb724052c39982d432a7851c98d3e" sha1="8bca5dcef1af3e00098666fd892dc1c2a76333f9"/>
+	</machine>
+	<machine name="g0042.bin">
+		<description>g0042.bin</description>
+		<rom name="g0042.bin" size="4194304" crc="0c06aa82" md5="cfcc692427348e58682230a27d9e365d" sha1="b711a909cce238ca4af3e517a2edca306228efa5"/>
+	</machine>
+	<machine name="g0043.bin">
+		<description>g0043.bin</description>
+		<rom name="g0043.bin" size="524288" crc="4052e845" md5="59a3b22a1899461dceba50d1ade88d3a" sha1="731cdf182fe647e4977477ba4dd2e2b46b9b878a"/>
+	</machine>
+	<machine name="g0044.bin">
+		<description>g0044.bin</description>
+		<rom name="g0044.bin" size="2097152" crc="e01fa526" md5="cb75d5a6919b61efe917bea5762c1cb7" sha1="8b656eec9692d88bbbb84787142aa732b44ce0be"/>
+	</machine>
+	<machine name="g0045.bin">
+		<description>g0045.bin</description>
+		<rom name="g0045.bin" size="524288" crc="c24bc5e4" md5="17f53791945ce7ccd83a4e812e3705e4" sha1="1fd3f77a2223ebeda547b81e49f3dfc9d0197439"/>
+	</machine>
+	<machine name="g0046.bin">
+		<description>g0046.bin</description>
+		<rom name="g0046.bin" size="1048576" crc="7a588f4b" md5="72dc91fd2c5528b384f082a38db9ddda" sha1="85e8d0a4fac591b25b77c35680ac4175976f251b"/>
+	</machine>
+	<machine name="g0047.bin">
+		<description>g0047.bin</description>
+		<rom name="g0047.bin" size="2097152" crc="aa021bdd" md5="7ee9f6a3d28a94d7298bb9813478e504" sha1="0ea0da09183eb01d030515beeb40c1427c6e1f07"/>
+	</machine>
+	<machine name="g0048.bin">
+		<description>g0048.bin</description>
+		<rom name="g0048.bin" size="3145728" crc="c4728225" md5="5a79de198ed6b1ece2518574fe78d962" sha1="2944910c07c02eace98c17d78d07bef7859d386a"/>
+	</machine>
+	<machine name="g0049.bin">
+		<description>g0049.bin</description>
+		<rom name="g0049.bin" size="2097152" crc="3dfeeb77" md5="d11ec9b230e88403cd75ef186a884c97" sha1="e843decdff262791b1237f1545f5b17c56712d5f"/>
+	</machine>
+	<machine name="g0050.bin">
+		<description>g0050.bin</description>
+		<rom name="g0050.bin" size="1048576" crc="c7862ea3" md5="7d9f963c9c2e22b542516edd03ada6f6" sha1="cd9ecc1df4e01d69af9bebcf45bbd944f1b17f9f"/>
+	</machine>
+	<machine name="g0051.bin">
+		<description>g0051.bin</description>
+		<rom name="g0051.bin" size="1048576" crc="75af3d59" md5="28e1ef5faa5968449b57d1bea39ea153" sha1="ad9cfbd641d30d90fa684e4ae56f9c9e14d4525d"/>
+	</machine>
+	<machine name="g0052.bin">
+		<description>g0052.bin</description>
+		<rom name="g0052.bin" size="786432" crc="c6b42b0f" md5="82c7bc027685cc8fc6c9e077beb1a75a" sha1="59d4914e652672fd1e453c76b8250d17e8ca154e"/>
+	</machine>
+	<machine name="g0053.bin">
+		<description>g0053.bin</description>
+		<rom name="g0053.bin" size="3145728" crc="fe236442" md5="84cbd0ff47f3c8e9d21d2c2fc39185fa" sha1="bc7ff6d6a8408f38562bc610f24645cad6c42629"/>
+	</machine>
+	<machine name="g0054.bin">
+		<description>g0054.bin</description>
+		<rom name="g0054.bin" size="3145728" crc="d5bb15d9" md5="2d0b0c8f10edf76131708e874e8d1ee4" sha1="40a33dd6f9dab0aff26c7525c9b8f342482c7af6"/>
+	</machine>
+	<machine name="g0055.bin">
+		<description>g0055.bin</description>
+		<rom name="g0055.bin" size="524288" crc="05f27994" md5="b7eeed1bd8420ce1d895b2ca46a0643a" sha1="a88546e159bc882bf05eba66c09a3b21dee4154e"/>
+	</machine>
+	<machine name="g0056.bin">
+		<description>g0056.bin</description>
+		<rom name="g0056.bin" size="3145728" crc="c1a24088" md5="9666d682cc7c69b26b834b4d8a949277" sha1="c5adca10408f055c0431e1ffc01d4fbab53ade01"/>
+	</machine>
+	<machine name="g0057.bin">
+		<description>g0057.bin</description>
+		<rom name="g0057.bin" size="786432" crc="1592f5b0" md5="edba0bdb192d47712edbe0097f885f40" sha1="87a968f773c7e807e647c0737132457b06b78276"/>
+	</machine>
+	<machine name="g9001.bin">
+		<description>g9001.bin</description>
+		<rom name="g9001.bin" size="2097152" crc="90fa1539" md5="fd04c4616bb559e646937effdd343a09" sha1="8f6eb584ed9487b8504fbc21d86783f58e6c9cd6"/>
+	</machine>
+	<machine name="g9002.bin">
+		<description>g9002.bin</description>
+		<rom name="g9002.bin" size="3145728" crc="b97cca1c" md5="05ce3b075003e47b9f63b8435dec09a8" sha1="677e1fbf2f6f90dd5a016f3bd5f305547249205a"/>
+	</machine>
+	<machine name="g9003.bin">
+		<description>g9003.bin</description>
+		<rom name="g9003.bin" size="3145728" crc="fa20d011" md5="cdf86f0b16a6ace5fec68762e2719a91" sha1="a82ffb7c4bf4b0f89f42a9cdc6600bc5bac1c854"/>
+	</machine>
+	<machine name="g9004.bin">
+		<description>g9004.bin</description>
+		<rom name="g9004.bin" size="3145728" crc="4631f941" md5="2d860cc07bc8a6bbdb0d73a09678c279" sha1="0fcc02355176e1c96043f4d827a3ff88d2d272df"/>
+	</machine>
+	<machine name="g9005.bin">
+		<description>g9005.bin</description>
+		<rom name="g9005.bin" size="3145728" crc="4f39783c" md5="3285ef5a23fdb908d77da525e694af03" sha1="54296f5cf1917c568bb29b0086641c282b8884bd"/>
+	</machine>
+	<machine name="g9006.bin">
+		<description>g9006.bin</description>
+		<rom name="g9006.bin" size="2097152" crc="d03cdb53" md5="cdb36911439289d3453060f58682057c" sha1="02727a217e654f3cdf5a3fcd33b2f38d404a467d"/>
+	</machine>
+	<machine name="g9007.bin">
+		<description>g9007.bin</description>
+		<rom name="g9007.bin" size="2097152" crc="b816446e" md5="290b6e63095a05ddffff33edc21df7fd" sha1="74ebc2988d251313e15b984da032f93014292965"/>
+	</machine>
+	<machine name="g9008.bin">
+		<description>g9008.bin</description>
+		<rom name="g9008.bin" size="2097152" crc="5de7d917" md5="0bee733207842672479cc0f2775290ba" sha1="86db4b22b54e8583e35717927ad66b7535bf33b4"/>
+	</machine>
+	<machine name="g9009.bin">
+		<description>g9009.bin</description>
+		<rom name="g9009.bin" size="2097152" crc="10fedb8f" md5="2b6ee5677a6233fd98f0b90b51684991" sha1="b0b447158cabb562e6bf4c0b829ed938b34afb52"/>
+	</machine>
+	<machine name="g9010.bin">
+		<description>g9010.bin</description>
+		<rom name="g9010.bin" size="2097152" crc="ce464f0e" md5="376f344f8ef5a4f8365867c9e94efb3e" sha1="a4dd8dc0b673afe7372ba9c05c8d6090302dcf4e"/>
+	</machine>
+	<machine name="g9011.bin">
+		<description>g9011.bin</description>
+		<rom name="g9011.bin" size="2097152" crc="42e3efdc" md5="c53faea21ca58de2282a8f1a210527ba" sha1="a0d3a216278aef5564dcbed83df0dd59222812c8"/>
+	</machine>
+	<machine name="g9012.bin">
+		<description>g9012.bin</description>
+		<rom name="g9012.bin" size="3145728" crc="90ef991e" md5="3ea974f31dc8739aa2624c9cdc9c4416" sha1="8c0bc5b66703efbdeef2d6ede5745aad89bd8a44"/>
+	</machine>
+	<machine name="g9013.bin">
+		<description>g9013.bin</description>
+		<rom name="g9013.bin" size="3145728" crc="5d09236f" md5="f1cb9e887bf4bc512d9535c89e420df7" sha1="b9b2b4a98a9d8f4c49aa1e5395e2279339517fdb"/>
+	</machine>
+	<machine name="TheRevengeOfTheShinobi.bin">
+		<description>TheRevengeOfTheShinobi.bin</description>
+		<rom name="TheRevengeOfTheShinobi.bin" size="524288" crc="5ca24f66" md5="093990d7bbbe87770be6dbf0b569b8e1" sha1="b1044e3b782351e69eba0abc94a3f08c379c27bc"/>
+	</machine>
+</datafile>
