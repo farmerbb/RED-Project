@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Contra Anniversary Collection</name>
+		<description>-insert description-</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="boy_Contra.gb">
+		<description>boy_Contra.gb</description>
+		<rom name="boy_Contra.gb" size="131072" crc="cc67a046" md5="62d484bc4988823a143e50fddaadae2f" sha1="6fea1350ac04f418095cca5f157a9c770a0505bc"/>
+	</machine>
+	<machine name="boy_OperationC.gb">
+		<description>boy_OperationC.gb</description>
+		<rom name="boy_OperationC.gb" size="131072" crc="a7a5d9c2" md5="a757dddda7b377c73cd8b7958b2115f6" sha1="bd528f1b20051502e2b4418845e0c6698e1c5b4b"/>
+	</machine>
+	<machine name="boy_Probotector.gb">
+		<description>boy_Probotector.gb</description>
+		<rom name="boy_Probotector.gb" size="131072" crc="1c03c0ee" md5="a6b8b5222f1cfc5162ce4fb1e29a8006" sha1="bc58585f8a1b2e27712ae5d44e3d851f4535a53f"/>
+	</machine>
+	<machine name="famicom_Contra.nes">
+		<description>famicom_Contra.nes</description>
+		<rom name="famicom_Contra.nes" size="262160" crc="b5213ea4" md5="bad34f8e2a18764b32658295c0e55a52" sha1="679e4d355bb050a0ca2cc4cd56283fe204c38d7b"/>
+	</machine>
+	<machine name="famicom_SuperContra.nes">
+		<description>famicom_SuperContra.nes</description>
+		<rom name="famicom_SuperContra.nes" size="262160" crc="6c2dc643" md5="aa05571a1c7d5eec12e08ecdd22d3de6" sha1="76984202875267f484a5730ea4e60b48525e98dc"/>
+	</machine>
+	<machine name="nes_Contra.nes">
+		<description>nes_Contra.nes</description>
+		<rom name="nes_Contra.nes" size="131088" crc="4652ae6d" md5="18b546346d1f28673df188332399eb30" sha1="55969f4cde0347b12d64fed896e10b60e2623111"/>
+	</machine>
+	<machine name="nes_ProbotectorII.nes">
+		<description>nes_ProbotectorII.nes</description>
+		<rom name="nes_ProbotectorII.nes" size="262160" crc="233be961" md5="73d166bf4d97cf45279298d73998b7de" sha1="70fe88d3300efaf8e2264224c587f483609295a7"/>
+	</machine>
+	<machine name="nes_SuperC.nes">
+		<description>nes_SuperC.nes</description>
+		<rom name="nes_SuperC.nes" size="262160" crc="4633bcce" md5="371060e1d5374cd45540332514420acb" sha1="83c558c4582cdab7f7898b425050e93497ff40fc"/>
+	</machine>
+	<machine name="sega_ContraHardCorps.bin">
+		<description>sega_ContraHardCorps.bin</description>
+		<rom name="sega_ContraHardCorps.bin" size="2097152" crc="74dded00" md5="04e4543a7c1d00fbba8d8365cbd18fa2" sha1="a2b264df56b2e024ccbb90d28b29b01d0f94acc1"/>
+	</machine>
+	<machine name="sega_ContraTheHardCore.BIN">
+		<description>sega_ContraTheHardCore.BIN</description>
+		<rom name="sega_ContraTheHardCore.BIN" size="2097152" crc="f1f4b361" md5="05510ac3fd5faf42232a9af15a937709" sha1="5cafbb15d304d7514c280f7a4ab41f6e2221b991"/>
+	</machine>
+	<machine name="sega_Probotector.BIN">
+		<description>sega_Probotector.BIN</description>
+		<rom name="sega_Probotector.BIN" size="2097152" crc="c14f4e78" md5="59b37a7b9936f11eb1eccc0daa715f45" sha1="1219efda8064da138bf0649c629828eb1a98f8a0"/>
+	</machine>
+	<machine name="sega_Probotector_hacked_WW.BIN">
+		<description>sega_Probotector_hacked_WW.BIN</description>
+		<rom name="sega_Probotector_hacked_WW.BIN" size="2097152" crc="5e42179d" md5="ad944a9fa2499391c115282a3b993a91" sha1="2c80b040a935dc92d05e37fe79b1a7a6e5f6bbe5"/>
+	</machine>
+	<machine name="snes_ContraIII.smc">
+		<description>snes_ContraIII.smc</description>
+		<rom name="snes_ContraIII.smc" size="1048576" crc="6128275a" md5="ee8d967297a0bdb4661cd6bf70c383f8" sha1="baddfec9f565e2083bac06dfdcd527fd869bb778"/>
+	</machine>
+	<machine name="snes_SuperProbotector.smc">
+		<description>snes_SuperProbotector.smc</description>
+		<rom name="snes_SuperProbotector.smc" size="1048576" crc="22d08e51" md5="797aab4e5ef7f61ac59334c16a4f0804" sha1="ea8dc2f783dda1ef57cc7f909d0f16edd9234be0"/>
+	</machine>
+	<machine name="sufami_ContraSpirits.smc">
+		<description>sufami_ContraSpirits.smc</description>
+		<rom name="sufami_ContraSpirits.smc" size="1048576" crc="8b037c37" md5="3c6bfe38d0dde432804c0c64db48578f" sha1="1e822c00cc87fa2ce0919b8bcf55d243599f99a1"/>
+	</machine>
+</datafile>
