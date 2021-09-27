@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Castlevania Advance Collection</name>
+		<description>-insert description-</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="01_Circle_EU.patch_210614m.bin">
+		<description>01_Circle_EU.patch_210614m.bin</description>
+		<rom name="01_Circle_EU.patch_210614m.bin" size="8388608" crc="050e2164" md5="4081d5667d931445a0a26153100e9fc3" sha1="30a2fd3fe95a8a84b02da7ddbc8b2a90e0553d9b"/>
+	</machine>
+	<machine name="01_Circle_JP.patch_210623m.bin">
+		<description>01_Circle_JP.patch_210623m.bin</description>
+		<rom name="01_Circle_JP.patch_210623m.bin" size="8388608" crc="1e60ec88" md5="a7f1cc981555e953032a5444f2b2e0e6" sha1="0952d6265017fc7c905d0ce0982681922e3140d5"/>
+	</machine>
+	<machine name="01_Circle_US.patch_210614m.bin">
+		<description>01_Circle_US.patch_210614m.bin</description>
+		<rom name="01_Circle_US.patch_210614m.bin" size="8388608" crc="14c1ab7c" md5="87a1bd6577b6702f97a60fc55772ad74" sha1="9483aa48b384ff3142c47fe81c13ca874a608eb0"/>
+	</machine>
+	<machine name="02_Byakuya_EU.patch_210520m.bin">
+		<description>02_Byakuya_EU.patch_210520m.bin</description>
+		<rom name="02_Byakuya_EU.patch_210520m.bin" size="8388608" crc="e0c4fd69" md5="9dc72587c935d493a4363f598faea56e" sha1="3997c7a3bd3b47165f78fe96e1d20e8037fea555"/>
+	</machine>
+	<machine name="02_Byakuya_JP.patch_210520m.bin">
+		<description>02_Byakuya_JP.patch_210520m.bin</description>
+		<rom name="02_Byakuya_JP.patch_210520m.bin" size="8388608" crc="247eeb20" md5="5ebc0f4becb9e921af11a46653ff6d81" sha1="094ed1081bc7aa69ac2214718f54b7f99517cad8"/>
+	</machine>
+	<machine name="02_Byakuya_US.patch_210520m.bin">
+		<description>02_Byakuya_US.patch_210520m.bin</description>
+		<rom name="02_Byakuya_US.patch_210520m.bin" size="8388608" crc="3a1e789a" md5="35db4a2bacdec253672db68e73a41005" sha1="58a562662f416846b7e3575da2844f2fda72f6c1"/>
+	</machine>
+	<machine name="03_Akatsuki_EU.patch_210623m.bin">
+		<description>03_Akatsuki_EU.patch_210623m.bin</description>
+		<rom name="03_Akatsuki_EU.patch_210623m.bin" size="8388608" crc="e8156354" md5="5914890e4fa2157e4df5388a038730f1" sha1="02dc76fdfe464877202b3d59cd102d626d194fe6"/>
+	</machine>
+	<machine name="03_Akatsuki_JP.patch_210623m.bin">
+		<description>03_Akatsuki_JP.patch_210623m.bin</description>
+		<rom name="03_Akatsuki_JP.patch_210623m.bin" size="8388608" crc="f5c8d8e8" md5="784b6d3c7eeb2c98078f5b7d7d637f75" sha1="7f513361dcb5321a1d430f2fd291eb8aac9ce319"/>
+	</machine>
+	<machine name="03_Akatsuki_US.patch_210623m.bin">
+		<description>03_Akatsuki_US.patch_210623m.bin</description>
+		<rom name="03_Akatsuki_US.patch_210623m.bin" size="8388608" crc="ca9b82dd" md5="899b136ff8391f574b52be34ddb683fc" sha1="f2869a861f1be637a1d1b57009cb42cc06b82e09"/>
+	</machine>
+	<machine name="AkumajouDraculaXX_0408.SFC">
+		<description>AkumajouDraculaXX_0408.SFC</description>
+		<rom name="AkumajouDraculaXX_0408.SFC" size="2097152" crc="d0e9f4f9" md5="6f2bcf23475bb7b169cc29d56ce4d185" sha1="9404f5b4ceb7d388db644c1d8d0798036aa5d5b7"/>
+	</machine>
+	<machine name="CastlevaniaDraculaX_0409.SFC">
+		<description>CastlevaniaDraculaX_0409.SFC</description>
+		<rom name="CastlevaniaDraculaX_0409.SFC" size="2097152" crc="49728d27" md5="b8e5a664c3198412e2da4ce787e3b770" sha1="31546aea85d2b20ae2bd224c6dfeaf57f0a46e95"/>
+	</machine>
+	<machine name="CastlevaniaVampiresKiss_0409.SFC">
+		<description>CastlevaniaVampiresKiss_0409.SFC</description>
+		<rom name="CastlevaniaVampiresKiss_0409.SFC" size="2097152" crc="592e68fa" md5="d4110cb12d297fba1eed539797978405" sha1="dcca983e783851ac6e8d77fa16eb1eaeb4a1cba5"/>
+	</machine>
+</datafile>
