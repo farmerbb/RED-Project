@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Neo Geo Pocket Color Selection Vol. 1</name>
+		<description>-insert description-</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc">
+		<description>Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc</description>
+		<rom name="Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc" size="2097152" crc="12afacb0" md5="2c7076bd626b8360f8d3834384323f30" sha1="aa17bd65849707cf13ca4891df44200f58d13599"/>
+	</machine>
+	<machine name="Crush Roller (World) (En,Ja).ngc">
+		<description>Crush Roller (World) (En,Ja).ngc</description>
+		<rom name="Crush Roller (World) (En,Ja).ngc" size="1048576" crc="f20ff9f2" md5="100f6086bbcd6bccd2ac6f79242f5a87" sha1="b68e7f5f43d35feda39f0c46ebd6baadc942ac4f"/>
+	</machine>
+	<machine name="Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc">
+		<description>Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc</description>
+		<rom name="Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc" size="2097152" crc="6f353f34" md5="fe0e58d34d650ae5174ca03d3efc67b0" sha1="727d8100fa7c4a39a6be9133bd903b868b4cc834"/>
+	</machine>
+	<machine name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc">
+		<description>Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc</description>
+		<rom name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" crc="a9119b5a" md5="690a3397f20e31b2c4a2833f51670245" sha1="ecfccd7e971d8e9d46b97aa05dc7eb61d69e16cd"/>
+	</machine>
+	<machine name="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc">
+		<description>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc</description>
+		<rom name="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" crc="47e490a2" md5="b361ed78f6126f94179dc69fe4c58781" sha1="7f2257fe6f9b90292d0332c06b9d68bfaeb2ed08"/>
+	</machine>
+	<machine name="Last Blade, The - Beyond the Destiny (Europe).ngc">
+		<description>Last Blade, The - Beyond the Destiny (Europe).ngc</description>
+		<rom name="Last Blade, The - Beyond the Destiny (Europe).ngc" size="2097152" crc="94fcfd1e" md5="83fa4cb3c629aa57c12f9cec52c5a53d" sha1="b7df1e56bc47266b65226413095e38896b38da07"/>
+	</machine>
+	<machine name="Metal Slug - 1st Mission (World) (En,Ja).ngc">
+		<description>Metal Slug - 1st Mission (World) (En,Ja).ngc</description>
+		<rom name="Metal Slug - 1st Mission (World) (En,Ja).ngc" size="2097152" crc="4ff91807" md5="4d3efef436c67d4f4e031951b97d64c8" sha1="3540bb6efbbc4f37992d2a871b8d83b4fca0e76e"/>
+	</machine>
+	<machine name="Metal Slug - 2nd Mission (World) (En,Ja).ngc">
+		<description>Metal Slug - 2nd Mission (World) (En,Ja).ngc</description>
+		<rom name="Metal Slug - 2nd Mission (World) (En,Ja).ngc" size="4194304" crc="ac549144" md5="a58f7c41cd9e6c96cd5b4b477f022570" sha1="9c1a829d4678dd9c51fdfe30c76b7f9670311bfb"/>
+	</machine>
+	<machine name="Neo Turf Masters (World) (En,Ja).ngc">
+		<description>Neo Turf Masters (World) (En,Ja).ngc</description>
+		<rom name="Neo Turf Masters (World) (En,Ja).ngc" size="2097152" crc="317a66d2" md5="e055837bb0e227c1ddc3e68b0aa89ae9" sha1="d425bb812290b93a800032925d7be14f75820159"/>
+	</machine>
+	<machine name="ngp_bios.ngp">
+		<description>ngp_bios.ngp</description>
+		<rom name="ngp_bios.ngp" size="65536" crc="6232df8d" md5="d87d876c4391935c9d48ef352a3ff02d" sha1="2f6429b68446536d8b03f35d02f1e98beb6460a0"/>
+	</machine>
+	<machine name="ngpc.default.wram">
+		<description>ngpc.default.wram</description>
+		<rom name="ngpc.default.wram" size="12288" crc="932d9671" md5="a53f9c596e7d07218285d4819d51ebeb" sha1="809ec31fb77d71df2600b3a29717df5a44403641"/>
+	</machine>
+	<machine name="ngpcbios.rom">
+		<description>ngpcbios.rom</description>
+		<rom name="ngpcbios.rom" size="65536" crc="6eeb6f40" md5="3655aacebb43a963607d4cf821fc1301" sha1="edc13192054a59be49c6d55f83b70e2510968e86"/>
+	</machine>
+	<machine name="Samurai Shodown_ 2 (JUE) [_].ngc">
+		<description>Samurai Shodown_ 2 (JUE) [_].ngc</description>
+		<rom name="Samurai Shodown_ 2 (JUE) [_].ngc" size="2097152" crc="4f7fb156" md5="8d6a36acd3b171970d87d2fca6796a4a" sha1="2ec4da369d3b91af15defa64429bd9daac7ee9b5"/>
+	</machine>
+	<machine name="SNK Gals' Fighters (Japan).ngc">
+		<description>SNK Gals' Fighters (Japan).ngc</description>
+		<rom name="SNK Gals' Fighters (Japan).ngc" size="2097152" crc="6a9ffa47" md5="3540951dfdba4697ee5f9d8b9356c18b" sha1="2f806c926a19b261c42e5a60d1ddd5d132ada942"/>
+	</machine>
+	<machine name="SNK Gals' Fighters (USA, Europe).ngc">
+		<description>SNK Gals' Fighters (USA, Europe).ngc</description>
+		<rom name="SNK Gals' Fighters (USA, Europe).ngc" size="2097152" crc="b02c2be7" md5="08922d2bdc6c80d56ddf50836ccad77c" sha1="09a74b42ef9b63aca675aead5854512ad0b585a1"/>
+	</machine>
+	<machine name="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc">
+		<description>SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc</description>
+		<rom name="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc" size="4194304" crc="b173030a" md5="dfea3ad9af4a631de6f97d86589b971e" sha1="7629ea5520d3daee4ef658d4f4b48f45e17217ae"/>
+	</machine>
+</datafile>
