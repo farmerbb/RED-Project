@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Genesis Mini JP</name>
+		<description>-insert description-</description>
+		<category>Standard DatFile</category>
+		<version>-insert version-</version>
+		<date>-insert date-</date>
+		<author>-insert author-</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="jp_de_Landstalker.bin">
+		<description>jp_de_Landstalker.bin</description>
+		<rom size="2097152" name="jp_de_Landstalker.bin" crc="FC64BB8C" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" />
+	</machine>
+	<machine name="jp_de_The_Story_of_Thor.bin">
+		<description>jp_de_The_Story_of_Thor.bin</description>
+		<rom size="3145728" name="jp_de_The_Story_of_Thor.bin" crc="244D768B" md5="0670b2bcabed94c9848a3390610ee879" sha1="cefcf3b07385062dcc185308249b55a39109d3fe" />
+	</machine>
+	<machine name="jp_etc_Alisia_Dragoon.bin">
+		<description>jp_etc_Alisia_Dragoon.bin</description>
+		<rom size="1048576" name="jp_etc_Alisia_Dragoon.bin" crc="4BFDFE9C" md5="651ba2f3cd428a9797da8314bdb5949b" sha1="f70985959d9d2cbcdae54f7e8260d3ffc9fefaa1" />
+	</machine>
+	<machine name="jp_etc_Castlevania_Bloodlines.bin">
+		<description>jp_etc_Castlevania_Bloodlines.bin</description>
+		<rom size="1048576" name="jp_etc_Castlevania_Bloodlines.bin" crc="FB1EA6DF" md5="0f04fc1b5bf8c9a887abcf14ce96b0cd" sha1="4809cf80ced70e77bc7479bb652a9d9fe22ce7e6" />
+	</machine>
+	<machine name="jp_etc_Comix_Zone.bin">
+		<description>jp_etc_Comix_Zone.bin</description>
+		<rom size="2097152" name="jp_etc_Comix_Zone.bin" crc="E45A15F4" md5="9bfbbf751196b934dc159cb34fa3494f" sha1="2427e7e3932da731eb172ae22ad779c0abfced13" />
+	</machine>
+	<machine name="jp_etc_Contra_Hard_Corps.bin">
+		<description>jp_etc_Contra_Hard_Corps.bin</description>
+		<rom size="2097152" name="jp_etc_Contra_Hard_Corps.bin" crc="042A81B0" md5="b552ccce25afbafe61c4a9026e6b1190" sha1="f9aa7a0e7ec07e0f1512b582c279e378eee7c902" />
+	</machine>
+	<machine name="jp_etc_Disney_s_Aladdin.bin">
+		<description>jp_etc_Disney_s_Aladdin.bin</description>
+		<rom size="2097152" name="jp_etc_Disney_s_Aladdin.bin" crc="ED427EA9" md5="a6fc42bd5d19e36e5d8a2d8c4f4e9d23" sha1="d21c085b8429edc2c5092cd74ef3c36d01bf987f" />
+	</machine>
+	<machine name="jp_etc_Dynamite_Headdy.bin">
+		<description>jp_etc_Dynamite_Headdy.bin</description>
+		<rom size="2097152" name="jp_etc_Dynamite_Headdy.bin" crc="3DFEEB77" md5="d11ec9b230e88403cd75ef186a884c97" sha1="e843decdff262791b1237f1545f5b17c56712d5f" />
+	</machine>
+	<machine name="jp_etc_Gauntlet_IV.bin">
+		<description>jp_etc_Gauntlet_IV.bin</description>
+		<rom size="1048576" name="jp_etc_Gauntlet_IV.bin" crc="3BF46DCE" md5="840f9f6fd4f22686b89cfd9a9ade105a" sha1="26c26ee2bb9571d51537d9328a5fd2a91b4e9dc1" />
+	</machine>
+	<machine name="jp_etc_Ghouls_n_Ghosts.bin">
+		<description>jp_etc_Ghouls_n_Ghosts.bin</description>
+		<rom size="655360" name="jp_etc_Ghouls_n_Ghosts.bin" crc="4F2561D5" md5="c61ff4bcdf10813c74f36ab57e29f646" sha1="aab6d20f01db51576b1d7cafab46e613dddf7f8a" />
+	</machine>
+	<machine name="jp_etc_Gunstar_Heroes.bin">
+		<description>jp_etc_Gunstar_Heroes.bin</description>
+		<rom size="1048576" name="jp_etc_Gunstar_Heroes.bin" crc="B813CF0D" md5="9a369cfc6355db48677771e345421e0e" sha1="7721e302555f16e3242ad4a47ed87a1de1882122" />
+	</machine>
+	<machine name="jp_etc_Landstalker.bin">
+		<description>jp_etc_Landstalker.bin</description>
+		<rom size="2097152" name="jp_etc_Landstalker.bin" crc="F2D14A6A" md5="dbaa50ee8b061b573c33337e18329ecd" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c" />
+	</machine>
+	<machine name="jp_etc_M_U_S_H_A.bin">
+		<description>jp_etc_M_U_S_H_A.bin</description>
+		<rom size="524288" name="jp_etc_M_U_S_H_A.bin" crc="EE61BAEA" md5="ff637ff16f31608375b0fc4b11c5c5b8" sha1="158c9644c7242087286c81038e691fbc90b736dd" />
+	</machine>
+	<machine name="jp_etc_Mega_Man_The_Wily_Wars.bin">
+		<description>jp_etc_Mega_Man_The_Wily_Wars.bin</description>
+		<rom size="2097152" name="jp_etc_Mega_Man_The_Wily_Wars.bin" crc="0CD405DB" md5="8e860e4f7c7ee5febad9134a56766112" sha1="26ad72719991e94dbe477c78e65d68f4a4fe51e6" />
+	</machine>
+	<machine name="jp_etc_Monster_World_IV.BIN">
+		<description>jp_etc_Monster_World_IV.BIN</description>
+		<rom size="2097152" name="jp_etc_Monster_World_IV.BIN" crc="D26A32B6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" />
+	</machine>
+	<machine name="jp_etc_Phantasy_Star_IV.bin">
+		<description>jp_etc_Phantasy_Star_IV.bin</description>
+		<rom size="4194304" name="jp_etc_Phantasy_Star_IV.bin" crc="2EE18BC3" md5="fb78e5fb68d21e38e5f11fd318db793c" sha1="0a872a253790001972c52bb515f7b209bf0c7bed" />
+	</machine>
+	<machine name="jp_etc_Puyo_Puyo.bin">
+		<description>jp_etc_Puyo_Puyo.bin</description>
+		<rom size="1048576" name="jp_etc_Puyo_Puyo.bin" crc="E32F0B1C" md5="9565c34a058fb301a4691174d2151858" sha1="a698c4eda62032d1f98b3e4f824b6475c2612859" />
+	</machine>
+	<machine name="jp_etc_Shining_Force.bin">
+		<description>jp_etc_Shining_Force.bin</description>
+		<rom size="2097152" name="jp_etc_Shining_Force.bin" crc="4391175E" md5="d5a3f42342db34f29d180d264da5cb66" sha1="1a267c5b2acc6fab0496b880c5c1a62a01420a1d" />
+	</machine>
+	<machine name="jp_etc_Shining_Force_II.bin">
+		<description>jp_etc_Shining_Force_II.bin</description>
+		<rom size="2097152" name="jp_etc_Shining_Force_II.bin" crc="D677EDD1" md5="3456cd758988ffb5760ed89ac206cfdb" sha1="50f91bd1a5f02337cb61bb14a1f9fd22c54aa598" />
+	</machine>
+	<machine name="jp_etc_Sonic_The_Hedgehog.bin">
+		<description>jp_etc_Sonic_The_Hedgehog.bin</description>
+		<rom size="524288" name="jp_etc_Sonic_The_Hedgehog.bin" crc="F9394E97" md5="1bc674be034e43c96b86487ac69d9293" sha1="6ddb7de1e17e7f6cdb88927bd906352030daa194" />
+	</machine>
+	<machine name="jp_etc_Sonic_The_Hedgehog_2.bin">
+		<description>jp_etc_Sonic_The_Hedgehog_2.bin</description>
+		<rom size="1048576" name="jp_etc_Sonic_The_Hedgehog_2.bin" crc="92D8817D" md5="2a4cc74873d3117629e454666e39e654" sha1="4050c7ba90a53138407c66dcae9891e5a5c73e8f" />
+	</machine>
+	<machine name="jp_etc_STREET_FIGHTER_II_SPECIAL_CHAMPION_EDITION.BIN">
+		<description>jp_etc_STREET_FIGHTER_II_SPECIAL_CHAMPION_EDITION.BIN</description>
+		<rom size="3145728" name="jp_etc_STREET_FIGHTER_II_SPECIAL_CHAMPION_EDITION.BIN" crc="A81527B7" md5="e3b495bfb3cce24a35baa0431d19c0bb" sha1="8e808ed1f7429f65d9e8a11db2ff1b4e4f96df7c" />
+	</machine>
+	<machine name="jp_etc_Streets_of_Rage_2.bin">
+		<description>jp_etc_Streets_of_Rage_2.bin</description>
+		<rom size="2097152" name="jp_etc_Streets_of_Rage_2.bin" crc="E01FA526" md5="cb75d5a6919b61efe917bea5762c1cb7" sha1="8b656eec9692d88bbbb84787142aa732b44ce0be" />
+	</machine>
+	<machine name="jp_etc_Target_Earth.bin">
+		<description>jp_etc_Target_Earth.bin</description>
+		<rom size="524288" name="jp_etc_Target_Earth.bin" crc="1D822C3A" md5="109cec8f208a5a99f09b3f878c5d735d" sha1="e9a02fb63f017115de977c199f6da9a5d7ed31ea" />
+	</machine>
+	<machine name="jp_etc_Tetris.bin">
+		<description>jp_etc_Tetris.bin</description>
+		<rom size="524288" name="jp_etc_Tetris.bin" crc="C8DD8841" md5="9ffa2c2e2f57ed445490306fc367bbe5" sha1="1079fee1fd044f16caf641d6b96f84143a6ceceb" />
+	</machine>
+	<machine name="jp_etc_The_Story_of_Thor.bin">
+		<description>jp_etc_The_Story_of_Thor.bin</description>
+		<rom size="3145728" name="jp_etc_The_Story_of_Thor.bin" crc="C4728225" md5="5a79de198ed6b1ece2518574fe78d962" sha1="2944910c07c02eace98c17d78d07bef7859d386a" />
+	</machine>
+	<machine name="jp_etc_World_of_Illusion_Starring_Mickey_Mouse_and_Donald_Duck.bin">
+		<description>jp_etc_World_of_Illusion_Starring_Mickey_Mouse_and_Donald_Duck.bin</description>
+		<rom size="1048576" name="jp_etc_World_of_Illusion_Starring_Mickey_Mouse_and_Donald_Duck.bin" crc="921EBD1C" md5="c2c5a4b990ce72f98b7b7f236e66c022" sha1="adb0a2edebb6f978c3217075a2f29003a8b025c6" />
+	</machine>
+	<machine name="jp_eu_Landstalker.bin">
+		<description>jp_eu_Landstalker.bin</description>
+		<rom size="2097152" name="jp_eu_Landstalker.bin" crc="1EC0EC97" md5="4feae5987b0c552b84620f3d48bd8c4b" sha1="3717be2ce3015ba3fb79f57ddafa69201615df63" />
+	</machine>
+	<machine name="jp_fr_Landstalker.bin">
+		<description>jp_fr_Landstalker.bin</description>
+		<rom size="2097152" name="jp_fr_Landstalker.bin" crc="365D282A" md5="a8e797ebaae6dc09020074b03b57ed75" sha1="ca034cc0e0fa2cbcef8bbe2bd0e066a719ac158f" />
+	</machine>
+	<machine name="jp_fr_The_Story_of_Thor.bin">
+		<description>jp_fr_The_Story_of_Thor.bin</description>
+		<rom size="3145728" name="jp_fr_The_Story_of_Thor.bin" crc="A9359029" md5="56364f465806b255777d545884568aff" sha1="c0b4ce1b6c17b5ba8240027e73bda44bd090faa3" />
+	</machine>
+	<machine name="jp_it_The_Story_of_Thor.bin">
+		<description>jp_it_The_Story_of_Thor.bin</description>
+		<rom size="3145728" name="jp_it_The_Story_of_Thor.bin" crc="8CD9053F" md5="9b18a3f750cc7000181f864d9898db37" sha1="30f6d0ba72372a09497829b5fdb5a3f27440bcaf" />
+	</machine>
+	<machine name="jp_jp_Alisia_Dragoon.bin">
+		<description>jp_jp_Alisia_Dragoon.bin</description>
+		<rom size="1048576" name="jp_jp_Alisia_Dragoon.bin" crc="3A6BF605" md5="18465670f6aee7a63344410c31ca0cc4" sha1="6cdbaafbc6095f17a79fd78a57d6189c779c3c3f" />
+	</machine>
+	<machine name="jp_jp_Castlevania_Bloodlines.bin">
+		<description>jp_jp_Castlevania_Bloodlines.bin</description>
+		<rom size="1048576" name="jp_jp_Castlevania_Bloodlines.bin" crc="DB03961B" md5="3fe739c40a79222801fcad6c753e6f11" sha1="aa3fe7971cdbf4cf8fa44e6dc09122b8cc6a319c" />
+	</machine>
+	<machine name="jp_jp_Columns.bin">
+		<description>jp_jp_Columns.bin</description>
+		<rom size="131072" name="jp_jp_Columns.bin" crc="D783C244" md5="b92d1477992ca143e02bf90ab2e2a118" sha1="17ae2595e4d3fb705c9f8f66d5938deca3f95c4e" />
+	</machine>
+	<machine name="jp_jp_Comix_Zone.bin">
+		<description>jp_jp_Comix_Zone.bin</description>
+		<rom size="2097152" name="jp_jp_Comix_Zone.bin" crc="7A6027B8" md5="d92ccdfd14118af824b98997ab639bb7" sha1="44f8c2a102971d0afcb0d9bd9081ccf51ff830a9" />
+	</machine>
+	<machine name="jp_jp_Contra_Hard_Corps.bin">
+		<description>jp_jp_Contra_Hard_Corps.bin</description>
+		<rom size="2097152" name="jp_jp_Contra_Hard_Corps.bin" crc="76C211CB" md5="18f0bcad4268865b67a4a907e68ab71a" sha1="cabe533d9a3ff14ca4bea80794d6b21a114608d2" />
+	</machine>
+	<machine name="jp_jp_Darius.bin">
+		<description>jp_jp_Darius.bin</description>
+		<rom size="4194304" name="jp_jp_Darius.bin" crc="26CA4234" md5="05dac074b9f194d74c44848eb15ad53f" sha1="4841d8f05a73cb7c5f98b710f14ebd72be1a6504" />
+	</machine>
+	<machine name="jp_jp_Disney_s_Aladdin.bin">
+		<description>jp_jp_Disney_s_Aladdin.bin</description>
+		<rom size="2097152" name="jp_jp_Disney_s_Aladdin.bin" crc="FB5AACF0" md5="d20edfb6060bd750de56f2887356f59b" sha1="43753dafd0b816c39aca87fc0788e598fb4bb4f3" />
+	</machine>
+	<machine name="jp_jp_Dyna_Brothers_2.bin">
+		<description>jp_jp_Dyna_Brothers_2.bin</description>
+		<rom size="2621440" name="jp_jp_Dyna_Brothers_2.bin" crc="DACD7C89" md5="2f16751a97945fe19c797d9888599d35" sha1="b289478cf8a436f966444be4cc7d8531979d7dce" />
+	</machine>
+	<machine name="jp_jp_Dynamite_Headdy.bin">
+		<description>jp_jp_Dynamite_Headdy.bin</description>
+		<rom size="2097152" name="jp_jp_Dynamite_Headdy.bin" crc="D03CDB53" md5="cdb36911439289d3453060f58682057c" sha1="02727a217e654f3cdf5a3fcd33b2f38d404a467d" />
+	</machine>
+	<machine name="jp_jp_Game_no_Kanzume.bin">
+		<description>jp_jp_Game_no_Kanzume.bin</description>
+		<rom size="3145728" name="jp_jp_Game_no_Kanzume.bin" crc="94C9DC2C" md5="07702e0df9e5913189ba91ccd34b7d55" sha1="1bf28b91d754a76373ff94730a55953dfbc46471" />
+	</machine>
+	<machine name="jp_jp_Gauntlet_IV.bin">
+		<description>jp_jp_Gauntlet_IV.bin</description>
+		<rom size="1048576" name="jp_jp_Gauntlet_IV.bin" crc="F9872055" md5="9aad96cc5364d2289f470b75c59907a5" sha1="30208982dd1f50634943d894e7458a556127f8e4" />
+	</machine>
+	<machine name="jp_jp_Ghouls_n_Ghosts.bin">
+		<description>jp_jp_Ghouls_n_Ghosts.bin</description>
+		<rom size="655360" name="jp_jp_Ghouls_n_Ghosts.bin" crc="5659F379" md5="203213c107fc17731dc7953343b5ffab" sha1="a08a5764dc8651d31ef72466028cfb87fb6dd166" />
+	</machine>
+	<machine name="jp_jp_Golden_Axe.bin">
+		<description>jp_jp_Golden_Axe.bin</description>
+		<rom size="524288" name="jp_jp_Golden_Axe.bin" crc="665D7DF9" md5="e4263c39487f0b55e8f33cbd5acd9b93" sha1="2ce17105ca916fbbe3ac9ae3a2086e66b07996dd" />
+	</machine>
+	<machine name="jp_jp_Gunstar_Heroes.bin">
+		<description>jp_jp_Gunstar_Heroes.bin</description>
+		<rom size="1048576" name="jp_jp_Gunstar_Heroes.bin" crc="1CFD0383" md5="bc578767a82f008cd2d3f4226a98ec32" sha1="64ae3ef9d063d21b290849809902c221f6ab10d5" />
+	</machine>
+	<machine name="jp_jp_Landstalker.bin">
+		<description>jp_jp_Landstalker.bin</description>
+		<rom size="2097152" name="jp_jp_Landstalker.bin" crc="B0AFA45A" md5="dcc153ec3ca6b4e84f987782038c82c0" sha1="6aca4adeeca0bb1b97bc7e1c2b48d432feb35267" />
+	</machine>
+	<machine name="jp_jp_Langrisser_II.bin">
+		<description>jp_jp_Langrisser_II.bin</description>
+		<rom size="2097152" name="jp_jp_Langrisser_II.bin" crc="4967C9F9" md5="a5de915f62156feb8680f9cf34017dbd" sha1="167944091348c89ce43dfa4854f8a51ed7276dde" />
+	</machine>
+	<machine name="jp_jp_Lord_Monarch.bin">
+		<description>jp_jp_Lord_Monarch.bin</description>
+		<rom size="2097152" name="jp_jp_Lord_Monarch.bin" crc="238BF5DB" md5="5e06d2de451ecc57a9a91577bb0dc59c" sha1="9b5c71d70de132c8ba6f2adfdeba43077f76ac3e" />
+	</machine>
+	<machine name="jp_jp_M_U_S_H_A.bin">
+		<description>jp_jp_M_U_S_H_A.bin</description>
+		<rom size="524288" name="jp_jp_M_U_S_H_A.bin" crc="12C68EEE" md5="587bf2b6522191bb880fd1b1ab48033f" sha1="d1ae64d4449ee5956245d0317fd4c5892f55913f" />
+	</machine>
+	<machine name="jp_jp_Mado_Monogatari_I.bin">
+		<description>jp_jp_Mado_Monogatari_I.bin</description>
+		<rom size="2097152" name="jp_jp_Mado_Monogatari_I.bin" crc="73916F06" md5="b6ddec0998382afa597ee9fdfd9d9fc4" sha1="95985d236b47dfb007bc79847d3fc385cd4b91c9" />
+	</machine>
+	<machine name="jp_jp_Marble_Madness.bin">
+		<description>jp_jp_Marble_Madness.bin</description>
+		<rom size="524288" name="jp_jp_Marble_Madness.bin" crc="775BC464" md5="23d2c1d23612890ffd137f56e0d37f30" sha1="ca343f3e4f945b6f58b08e276dff505ea1ace179" />
+	</machine>
+	<machine name="jp_jp_Mega_Man_The_Wily_Wars.bin">
+		<description>jp_jp_Mega_Man_The_Wily_Wars.bin</description>
+		<rom size="2097152" name="jp_jp_Mega_Man_The_Wily_Wars.bin" crc="E8F5668E" md5="f36771942c483192c6f4c3e1127888b1" sha1="77de1a2bdc359044e8aec5a3bcd6a5d878d23837" />
+	</machine>
+	<machine name="jp_jp_Monster_World_IV.bin">
+		<description>jp_jp_Monster_World_IV.bin</description>
+		<rom size="2097152" name="jp_jp_Monster_World_IV.bin" crc="D26A32B6" md5="cf4f52d57063cd381977bc02d757737f" sha1="7896311b5ccb3cef49d73a0a91f5b4566d6cc92d" />
+	</machine>
+	<machine name="jp_jp_Party_Quiz_MEGA_Q.bin">
+		<description>jp_jp_Party_Quiz_MEGA_Q.bin</description>
+		<rom size="1048576" name="jp_jp_Party_Quiz_MEGA_Q.bin" crc="AD8FFCB7" md5="d794a39f3b5d8a2066fe03cff0bd75d2" sha1="b31e3ae7886d6062808fcd57b0a3891ca11a0dd0" />
+	</machine>
+	<machine name="jp_jp_Phantasy_Star_IV.bin">
+		<description>jp_jp_Phantasy_Star_IV.bin</description>
+		<rom size="4194304" name="jp_jp_Phantasy_Star_IV.bin" crc="B23CD7AA" md5="705f36f4f50c49cc3dfa0999cc715cd9" sha1="e0ebd4ed95eeabb47b2c59b8fb779536fc397974" />
+	</machine>
+	<machine name="jp_jp_Puyo_Puyo.bin">
+		<description>jp_jp_Puyo_Puyo.bin</description>
+		<rom size="524288" name="jp_jp_Puyo_Puyo.bin" crc="7F26614E" md5="c723d1079157ab78e160b26ac5091d74" sha1="02656b5707cf9452d4cf48378ffd3a95dc84e9c5" />
+	</machine>
+	<machine name="jp_jp_Puyo_Puyo_2.bin">
+		<description>jp_jp_Puyo_Puyo_2.bin</description>
+		<rom size="2097152" name="jp_jp_Puyo_Puyo_2.bin" crc="4B0308C3" md5="3c8915254f1b7f25b0919cfab8c67258" sha1="168e11a2b6330c663bb0924e528a88443acf6c18" />
+	</machine>
+	<machine name="jp_jp_Rent_A_Hero.bin">
+		<description>jp_jp_Rent_A_Hero.bin</description>
+		<rom size="1048576" name="jp_jp_Rent_A_Hero.bin" crc="32589C1B" md5="407c519f3ec021805bae2dbc7664bc98" sha1="f3035eb5de98ac2b45e319ef1c38a2e890c034a7" />
+	</machine>
+	<machine name="jp_jp_Road_Rash_II.bin">
+		<description>jp_jp_Road_Rash_II.bin</description>
+		<rom size="1048576" name="jp_jp_Road_Rash_II.bin" crc="6CFA9048" md5="d248cf93526141751a08d2b7e1097f0c" sha1="534db7b1bbe571667fd8df575d5cdf3e7fa72ebb" />
+	</machine>
+	<machine name="jp_jp_Shining_Force.bin">
+		<description>jp_jp_Shining_Force.bin</description>
+		<rom size="2097152" name="jp_jp_Shining_Force.bin" crc="45416AA9" md5="1c8b419c9b1b7fa60780ff1873a8a2e2" sha1="bb9498f75b4025a432c1794a88af9d20331771e1" />
+	</machine>
+	<machine name="jp_jp_Shining_Force_II.bin">
+		<description>jp_jp_Shining_Force_II.bin</description>
+		<rom size="2097152" name="jp_jp_Shining_Force_II.bin" crc="78D4640A" md5="a467df6b37471ecb680c51ce82042106" sha1="13ac16bfe779ad4db5e277c6a5a6cac83025b572" />
+	</machine>
+	<machine name="jp_jp_Slap_Fight.bin">
+		<description>jp_jp_Slap_Fight.bin</description>
+		<rom size="1048576" name="jp_jp_Slap_Fight.bin" crc="EDCF1294" md5="91a9a4ed8ed0e5b4dcbdd375a5c0a2e3" sha1="0fddb2a24e2631f65f00521dc7565523c90bbaa8" />
+	</machine>
+	<machine name="jp_jp_Snow_Bros.bin">
+		<description>jp_jp_Snow_Bros.bin</description>
+		<rom size="1048576" name="jp_jp_Snow_Bros.bin" crc="1186D30E" md5="29d23894c1e9ee8b5ef55765c5ba5df6" sha1="971d55d2f4ab821058483de7c167fda23f18cbca" />
+	</machine>
+	<machine name="jp_jp_Sonic_The_Hedgehog.bin">
+		<description>jp_jp_Sonic_The_Hedgehog.bin</description>
+		<rom size="524288" name="jp_jp_Sonic_The_Hedgehog.bin" crc="6382B2C5" md5="c6c15aea60bda10ae11c6bc375296153" sha1="95b6aac7e11bb2d908aafa06973ffeb45817a992" />
+	</machine>
+	<machine name="jp_jp_Sonic_The_Hedgehog_2.bin">
+		<description>jp_jp_Sonic_The_Hedgehog_2.bin</description>
+		<rom size="1048576" name="jp_jp_Sonic_The_Hedgehog_2.bin" crc="92D8817D" md5="2a4cc74873d3117629e454666e39e654" sha1="4050c7ba90a53138407c66dcae9891e5a5c73e8f" />
+	</machine>
+	<machine name="jp_jp_Space_Harrier_II.bin">
+		<description>jp_jp_Space_Harrier_II.bin</description>
+		<rom size="524288" name="jp_jp_Space_Harrier_II.bin" crc="E5C9CBB0" md5="2864c05f9bf67f92af830f2fa7de1d61" sha1="db4285e4ffb69aa9f1ca68c4103fbfd0843f7b86" />
+	</machine>
+	<machine name="jp_jp_STREET_FIGHTER_II_SPECIAL_CHAMPION_EDITION.BIN">
+		<description>jp_jp_STREET_FIGHTER_II_SPECIAL_CHAMPION_EDITION.BIN</description>
+		<rom size="3145728" name="jp_jp_STREET_FIGHTER_II_SPECIAL_CHAMPION_EDITION.BIN" crc="95A351F5" md5="73e423b24b47abc3edfd6de4ede26541" sha1="9d507da08660ef27e45f54a214bea5ae9ee4cd3a" />
+	</machine>
+	<machine name="jp_jp_Streets_of_Rage_2.bin">
+		<description>jp_jp_Streets_of_Rage_2.bin</description>
+		<rom size="2097152" name="jp_jp_Streets_of_Rage_2.bin" crc="C48B3698" md5="f1f726e5aca9bf49df540bf189b75e05" sha1="0073a7e69f95739649a333de7f30d76edf39aabf" />
+	</machine>
+	<machine name="jp_jp_Super_Fantasy_Zone.bin">
+		<description>jp_jp_Super_Fantasy_Zone.bin</description>
+		<rom size="1048576" name="jp_jp_Super_Fantasy_Zone.bin" crc="D97D913D" md5="9ab60ccbb50445109f1acba46be14f50" sha1="71d3816e1fd6d49afb64631605dba40cc7f3b5b5" />
+	</machine>
+	<machine name="jp_jp_Tant_R.bin">
+		<description>jp_jp_Tant_R.bin</description>
+		<rom size="2097152" name="jp_jp_Tant_R.bin" crc="D2D2D437" md5="16b0f48a07baf1fa0df27453b7f008d4" sha1="2bf6965ee883a70b4f0842e9efa17c5e20b5cb47" />
+	</machine>
+	<machine name="jp_jp_Target_Earth.bin">
+		<description>jp_jp_Target_Earth.bin</description>
+		<rom size="524288" name="jp_jp_Target_Earth.bin" crc="01278F1C" md5="1d93a0b3b7c86b9957036677557c9efd" sha1="026d78be4549e3cfac64c08ebd2e43f634f5aa49" />
+	</machine>
+	<machine name="jp_jp_Tetris.bin">
+		<description>jp_jp_Tetris.bin</description>
+		<rom size="524288" name="jp_jp_Tetris.bin" crc="B6FB7A7D" md5="f5f0cf3a6765c50915bbb0af2c02723c" sha1="dea6ab2dd1aa05ef2119037223fc1bff0c0aa0ca" />
+	</machine>
+	<machine name="jp_jp_The_Hybrid_Front.bin">
+		<description>jp_jp_The_Hybrid_Front.bin</description>
+		<rom size="2097152" name="jp_jp_The_Hybrid_Front.bin" crc="A1F1CFE7" md5="28a72c6a6840088c4a97670139cae085" sha1="ed592c78ef60d91a6c5723d11cd553d3798524e1" />
+	</machine>
+	<machine name="jp_jp_The_Revenge_of_Shinobi.bin">
+		<description>jp_jp_The_Revenge_of_Shinobi.bin</description>
+		<rom size="524288" name="jp_jp_The_Revenge_of_Shinobi.bin" crc="5CA24F66" md5="093990d7bbbe87770be6dbf0b569b8e1" sha1="b1044e3b782351e69eba0abc94a3f08c379c27bc" />
+	</machine>
+	<machine name="jp_jp_The_Story_of_Thor.bin">
+		<description>jp_jp_The_Story_of_Thor.bin</description>
+		<rom size="3145728" name="jp_jp_The_Story_of_Thor.bin" crc="4F39783C" md5="3285ef5a23fdb908d77da525e694af03" sha1="54296f5cf1917c568bb29b0086641c282b8884bd" />
+	</machine>
+	<machine name="jp_jp_Thunder_Force_III.bin">
+		<description>jp_jp_Thunder_Force_III.bin</description>
+		<rom size="524288" name="jp_jp_Thunder_Force_III.bin" crc="1B3F399A" md5="64766dae889d039eb391bc5bf2973f5d" sha1="9eadee76eb0509d5a0f16372fc9eac7a883e5f2d" />
+	</machine>
+	<machine name="jp_jp_World_of_Illusion_Starring_Mickey_Mouse_and_Donald_Duc.bin">
+		<description>jp_jp_World_of_Illusion_Starring_Mickey_Mouse_and_Donald_Duc.bin</description>
+		<rom size="1048576" name="jp_jp_World_of_Illusion_Starring_Mickey_Mouse_and_Donald_Duc.bin" crc="277BDB4C" md5="b44c84ad8ffd258d016538a4a6ce4b2a" sha1="849f9707ba7c308a2833368c7fdf5960de78acfd" />
+	</machine>
+	<machine name="jp_jp_Wrestleball.bin">
+		<description>jp_jp_Wrestleball.bin</description>
+		<rom size="524288" name="jp_jp_Wrestleball.bin" crc="9CD65B76" md5="ab446f6f7d6874cb446e9ce40c6c0f8f" sha1="f22575bbd4c676218720306c6ba8721d68c21724" />
+	</machine>
+	<machine name="jp_jp_Yu_Yu_Hakusho.bin">
+		<description>jp_jp_Yu_Yu_Hakusho.bin</description>
+		<rom size="3145728" name="jp_jp_Yu_Yu_Hakusho.bin" crc="71CEAC6F" md5="8130283788f82677ec583b7f627dbf0c" sha1="89a70d374a3f3e2dc5b430e6d444bea243193b74" />
+	</machine>
+	<machine name="jp_ko_The_Story_of_Thor.bin">
+		<description>jp_ko_The_Story_of_Thor.bin</description>
+		<rom size="3145728" name="jp_ko_The_Story_of_Thor.bin" crc="EE1603C5" md5="492833310cf6106bc3db3a0167cce79a" sha1="e0a43fb3d6da940b1fda449753bffae637a802cd" />
+	</machine>
+	<machine name="jp_sp_Castlevania_Bloodlines.bin">
+		<description>jp_sp_Castlevania_Bloodlines.bin</description>
+		<rom size="1048576" name="jp_sp_Castlevania_Bloodlines.bin" crc="D45CEC47" md5="0bf1bd3bfbad49c45409016f3579f442" sha1="6603be439fd1385d5b40663d8fdc8c8d7ef8c56b" />
+	</machine>
+	<machine name="jp_sp_Contra_Hard_Corps.bin">
+		<description>jp_sp_Contra_Hard_Corps.bin</description>
+		<rom size="2097152" name="jp_sp_Contra_Hard_Corps.bin" crc="6ED9E471" md5="a46bbf43a8f349cb42eec80199add3fc" sha1="e71fb4c18f6e878f2ce8eb6c26c46523b19dbc0e" />
+	</machine>
+	<machine name="jp_sp_The_Story_of_Thor.bin">
+		<description>jp_sp_The_Story_of_Thor.bin</description>
+		<rom size="3145728" name="jp_sp_The_Story_of_Thor.bin" crc="DBF84CA5" md5="9188fd192fb9c12d34395521be900aac" sha1="ccc2c530f47f59383d9dc05a0eddb6bc1050d434" />
+	</machine>
+	<machine name="jp_us_Road_Rash_II.bin">
+		<description>jp_us_Road_Rash_II.bin</description>
+		<rom size="1048576" name="jp_us_Road_Rash_II.bin" crc="C25ABD9E" md5="b67a30513aa0ba4bc5795815e4df3a7c" sha1="873ed46f53fb70898bfd7bbf3af682762dcb58c1" />
+	</machine>
+</datafile>
