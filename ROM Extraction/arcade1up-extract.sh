@@ -4,6 +4,7 @@ ROM_LIST=(
   DigDugII.rom
   DigDug.rom
   Galaga.rom
+  Galaga88.sav
   Galaxian.rom
   Mappy.rom
   MsPacMan.rom
@@ -13,12 +14,17 @@ ROM_LIST=(
   PacMania.org.sav
   PacManPlus.rom
   PacMan.rom
+  RallyX.rom
+  Rompers.sav
+  RT-COLOR.rom
   SuperPacMan.rom
   SuperXevious.rom
+  TheTowerofDruaga.rom
   Xevious.rom
 )
 
 MD5_LIST=(
+  327b6cd567e2d060cb4fe77d424fc56f # Firmware.img
   459a8b91dcae47304330660660e98364 # Super PacMan Firmware.img
   5c8b642828dac046a4678670c70a1518 # BlackPacMan_8274_firmware.img
   67a8fe555e714f4cc9ef4712b9731dec # MsPacMan_10Game_Patch.img
@@ -53,6 +59,8 @@ extract-rom() {
     ;;
 
     DigDug.rom)
+      check-variant 1 8d3be278355f9f6213bfc2641768efb1
+      check-variant 2 c304db795e14e43d0863f50353f289f3
       extract-file dd1a.1     $((0x0))    $((0x1000))
       extract-file dd1a.2     $((0x1000)) $((0x1000))
       extract-file dd1a.3     $((0x2000)) $((0x1000))
@@ -95,6 +103,35 @@ extract-rom() {
       )
     ;;
 
+    Galaga88.sav)
+      copy-file   cus64-64a1.mcu NS1-MCU.rom
+      copy-file   g8_chr-0.bin   G8-CHR0.rom
+      copy-file   g8_chr-1.bin   G8-CHR1.rom
+      copy-file   g8_chr-2.bin   G8-CHR2.rom
+      copy-file   g8_chr-3.bin   G8-CHR3.rom
+      copy-file   g8_chr-8.bin   G8-CHR8.rom
+      copy-file   g8_obj-0.bin   G8-OBJ0.rom
+      copy-file   g8_obj-1.bin   G8-OBJ1.rom
+      copy-file   g8_obj-2.bin   G8-OBJ2.rom
+      copy-file   g8_obj-3.bin   G8-OBJ3.rom
+      copy-file   g8_obj-4.bin   G8-OBJ4.rom
+      copy-file   g8_obj-5.bin   G8-OBJ5.rom
+      copy-file   g81_p0.bin     G8-PRG0.rom
+      copy-file   g81_p1.bin     G8-PRG1.rom
+      copy-file   g81_p5.bin     G8-PRG5.rom
+      copy-file   g82_p6.bin     G8-PRG6.rom
+      copy-file   g82_p7.bin     G8-PRG7.rom
+      copy-file   g81_s0.bin     G8-SND0.rom
+      copy-file   g81_s1.bin     G8-SND1.rom
+      copy-file   g81_v0.bin     G8-VOI0.rom
+      copy-file   g81_v1.bin     G8-VOI1.rom
+      copy-file   g81_v2.bin     G8-VOI2.rom
+      copy-file   g81_v3.bin     G8-VOI3.rom
+      copy-file   g81_v4.bin     G8-VOI4.rom
+      copy-file   g81_v5.bin     G8-VOI5.rom
+      package-zip galaga88.zip
+    ;;
+
     Galaxian.rom)
       extract-file galmidw.u $((0x0))    $((0x800))
       extract-file galmidw.v $((0x800))  $((0x800))
@@ -125,6 +162,8 @@ extract-rom() {
     ;;
 
     MsPacMan.rom)
+      check-variant 1 e8fa67dc354487ecaead5185f702ac58
+      check-variant 2 fd6567dc1ad03f04646908365edcef60
       extract-file boot1     $((0x0))    $((0x1000))
       extract-file boot2     $((0x1000)) $((0x1000))
       extract-file boot3     $((0x2000)) $((0x1000))
@@ -214,6 +253,77 @@ extract-rom() {
       [[ $1 != *Plus* ]] && package-zip pacman.zip
     ;;
 
+    RallyX.rom)
+      extract-file 1b         $((0x0))    $((0x1000))
+      extract-file rallyxn.1e $((0x1000)) $((0x1000))
+      extract-file rallyxn.1h $((0x2000)) $((0x1000))
+      extract-file rallyxn.1k $((0x3000)) $((0x1000))
+      extract-file 8e         $((0x4000)) $((0x1000))
+      extract-file rx1-1.11n  $((0x5000)) $((0x20))
+      extract-file rx1-7.8p   $((0x5020)) $((0x100))
+      extract-file rx1-5.3p   $((0x5120)) $((0x100))
+      extract-file rx1-6.8m   $((0x5220)) $((0x100))
+      dummy-file   rx1-3.7k               $((0x20))
+      dummy-file   rx1-4.2m               $((0x100))
+      dummy-file   rx1-2.4n               $((0x20))
+      package-zip  rallyx.zip
+    ;;
+
+    RT-COLOR.rom)
+      extract-file rt1-1.3r       $((0x0))    $((0x200))
+      extract-file rt1-2.3s       $((0x200))  $((0x200))
+      extract-file rt1-3.4v       $((0x400))  $((0x800))
+      extract-file rt1-4.5v       $((0xC00))  $((0x800))
+      extract-file rt1-5.6u       $((0x1400)) $((0x20))
+      copy-file    cus60-60a1.mcu NS86MCU.rom
+      copy-file    rt1_7.7r       RT-CHR0.rom
+      copy-file    rt1_8.7s       RT-CHR1.rom
+      copy-file    rt1_5.4r       RT-CHR2.rom
+      copy-file    rt1_6.4s       RT-CHR3.rom
+      copy-file    rt3_1b.9c      RT-MPR0.rom
+      copy-file    rt1_17.f1      RT-MPR1.rom
+      copy-file    rt1_18.h1      RT-MPR2.rom
+      copy-file    rt3_19.k1      RT-MPR3.rom
+      copy-file    rt3_20.m1      RT-MPR4.rom
+      copy-file    rt1_9.12h      RT-OBJ0.rom
+      copy-file    rt1_10.12k     RT-OBJ1.rom
+      copy-file    rt1_11.12l     RT-OBJ2.rom
+      copy-file    rt1_12.12m     RT-OBJ3.rom
+      copy-file    rt1_13.12p     RT-OBJ4.rom
+      copy-file    rt1_14.12r     RT-OBJ5.rom
+      copy-file    rt1_15.12t     RT-OBJ6.rom
+      copy-file    rt1_16.12u     RT-OBJ7.rom
+      copy-file    rt3_2b.12c     RT-SPR0.rom
+      copy-file    rt3_3.12d      RT-SPR1.rom
+      copy-file    rt1_21.f3      RT-VOI0.rom
+      copy-file    rt2_22.h3      RT-VOI1.rom
+      copy-file    rt3_4.6b       RT-XMCU.rom
+      package-zip  rthunder.zip
+    ;;
+
+    Rompers.sav)
+      copy-file   cus64-64a1.mcu NS1-MCU.rom
+      copy-file   rp_chr-0.bin   RO-CHR0.rom
+      copy-file   rp_chr-1.bin   RO-CHR1.rom
+      copy-file   rp_chr-2.bin   RO-CHR2.rom
+      copy-file   rp_chr-3.bin   RO-CHR3.rom
+      copy-file   rp1_chr8.bin   RO-CHR8.rom
+      copy-file   rp_obj-0.bin   RO-OBJ0.rom
+      copy-file   rp_obj-1.bin   RO-OBJ1.rom
+      copy-file   rp_obj-2.bin   RO-OBJ2.rom
+      copy-file   rp_obj-3.bin   RO-OBJ3.rom
+      copy-file   rp_obj-4.bin   RO-OBJ4.rom
+      copy-file   rp1_obj5.bin   RO-OBJ5.rom
+      copy-file   rp1_obj6.bin   RO-OBJ6.rom
+      copy-file   rp1_prg4.bin   RO-PRG4.rom
+      copy-file   rp1_prg5.bin   RO-PRG5.rom
+      copy-file   rp1prg6b.bin   RO-PRG6.rom
+      copy-file   rp1prg7b.bin   RO-PRG7.rom
+      copy-file   rp1_snd0.bin   RO-SND0.rom
+      copy-file   rp_voi-0.bin   RO-VOI0.rom
+      package-zip rompers.zip
+    ;;
+
     SuperPacMan.rom)
       extract-file sp1-2.1c    $((0x0))    $((0x2000))
       extract-file sp1-1.1b    $((0x2000)) $((0x2000))
@@ -240,6 +350,20 @@ extract-rom() {
         xevious-shared
         package-zip  sxevious.zip
       )
+    ;;
+
+    TheTowerofDruaga.rom)
+      extract-file td2_3.1d $((0x0))    $((0x4000))
+      extract-file td2_1.1b $((0x4000)) $((0x4000))
+      extract-file td1_4.1k $((0x8000)) $((0x2000))
+      extract-file td1_5.3b $((0xA000)) $((0x1000))
+      extract-file td1_6.3m $((0xB000)) $((0x2000))
+      extract-file td1_7.3n $((0xD000)) $((0x2000))
+      extract-file td1-5.5b $((0xF000)) $((0x20))
+      extract-file td1-7.5k $((0xF020)) $((0x400))
+      extract-file td1-6.4c $((0xF420)) $((0x100))
+      extract-file td1-3.3m $((0xF520)) $((0x100))
+      package-zip  todruaga.zip
     ;;
 
     Xevious.rom)
