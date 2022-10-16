@@ -14,6 +14,7 @@ extract-rom() {
       split-file                                      tmnt.maincpu         $((0x40000))
       split-file                                      tmnt.k051960         $((0x100000))
       split-file                                      tmnt.proms           $((0x100))
+      patch-file                                      tmnt.maincpu.split0  $((0x15A0))
       dummy-file              963a25.d5                                    $((0x80000))
       copy-file               963e20.g13              tmnt.audiocpu
       copy-file               963a30.g7               tmnt.proms.split0
@@ -28,6 +29,7 @@ extract-rom() {
       package-zip             tmnt.zip
 
       split-file                                      tmntj.maincpu        $((0x40000))
+      patch-file                                      tmntj.maincpu.split0 $((0x15A8))
       deinterleave-file       963_223.j17+963_224.k17 tmntj.maincpu.split0
       deinterleave-file       963_221.j15+963_222.k15 tmntj.maincpu.split1
       package-zip             tmntj.zip
@@ -36,6 +38,7 @@ extract-rom() {
     TeenageMutantNinjaTurtles2)
       split-file                                        tmnt2.maincpu        $((0x40000))
       split-file                                        tmnt2.k053245        $((0x200000))
+      patch-file                                        tmnt2.maincpu.split0 $((0x19FA))
       copy-file               063b01.2f                 tmnt2.audiocpu
       copy-file               063b06.1d                 tmnt2.k053260
       copy-file               tmnt2_uaa.nv              tmnt2.eeprom
@@ -59,6 +62,10 @@ copy-file() {
 
 dummy-file() {
   dd if=/dev/zero of="$WORKING_DIR/roms/$1" count=$2 status=none iflag=count_bytes
+}
+
+patch-file() {
+  printf "$(printf '\\x%02X' $((0x60)))" | dd of="$1" bs=1 seek=$2 count=1 conv=notrunc &> /dev/null
 }
 
 deinterleave-file() {
