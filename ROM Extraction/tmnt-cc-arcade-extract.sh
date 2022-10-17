@@ -65,7 +65,7 @@ dummy-file() {
 }
 
 patch-file() {
-  printf "$(printf '\\x%02X' $((0x60)))" | dd of="$1" bs=1 seek=$2 count=1 conv=notrunc &> /dev/null
+  printf '\x60' | dd of="$1" bs=1 seek=$2 count=1 conv=notrunc status=none
 }
 
 deinterleave-file() {
