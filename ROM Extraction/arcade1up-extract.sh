@@ -25,6 +25,7 @@ ROM_LIST=(
 
 MD5_LIST=(
   327b6cd567e2d060cb4fe77d424fc56f # Firmware.img
+  375f370f96f3b6f033a474bc7b10fa66 # Firmware.img
   459a8b91dcae47304330660660e98364 # Super PacMan Firmware.img
   5c8b642828dac046a4678670c70a1518 # BlackPacMan_8274_firmware.img
   67a8fe555e714f4cc9ef4712b9731dec # MsPacMan_10Game_Patch.img
