@@ -26,10 +26,12 @@ for i in *.SR *.sr; do
     dd if=$i of=$DIR/${FILENAMES[$n]} skip=$(($INITIAL_OFFSET + ${OFFSETS[$n]})) count=${SIZES[$n]} status=none iflag=skip_bytes,count_bytes
   done
 
-  if [[ -n "$(find $DIR -maxdepth 1 -type f -name "*.qz" -print -quit)" ]]; then
-    for qz in $(ls -1 $DIR/*.qz); do
+  for ext in qz QZ; do
+    [[ -n "$(find $DIR -maxdepth 1 -type f -name "*.$ext" -print -quit)" ]] || continue
+
+    for qz in $(ls -1 $DIR/*.$ext); do
       ./offzip -Q -o -a $qz $DIR 0 > /dev/null
-      mv $DIR/00000004.* $(echo $qz | sed "s/.qz//") >/dev/null 2>&1 && rm $qz
+      mv $DIR/00000004.* $(echo $qz | sed "s/.$ext//") >/dev/null 2>&1 && rm $qz
     done
-  fi
+  done
 done
