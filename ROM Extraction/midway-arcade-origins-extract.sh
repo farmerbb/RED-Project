@@ -82,6 +82,30 @@ extract-rom() {
       package-zip                    720.zip
     ;;
 
+    ABEAST16)
+      deinterleave-file ABEAST16_V.68K         epr-11705.a7 epr-11704.a5 $((0x0))     $((0x40000))
+
+      extract-file      ABEAST16_V_TILES.ROM   opr-11674.a14             $((0x0))     $((0x20000))
+      extract-file      ABEAST16_V_TILES.ROM   opr-11675.a15             $((0x20000)) $((0x20000))
+      extract-file      ABEAST16_V_TILES.ROM   opr-11676.a16             $((0x40000)) $((0x20000))
+
+      deinterleave-file ABEAST16_V_SPRITES.ROM epr-11681.b5 epr-11677.b1 $((0x0))     $((0x40000))
+      deinterleave-file ABEAST16_V_SPRITES.ROM epr-11682.b6 epr-11678.b2 $((0x40000)) $((0x40000))
+      deinterleave-file ABEAST16_V_SPRITES.ROM epr-11683.b7 epr-11679.b3 $((0x80000)) $((0x40000))
+      deinterleave-file ABEAST16_V_SPRITES.ROM epr-11684.b8 epr-11680.b4 $((0xC0000)) $((0x40000))
+
+      # epr-11686.a10 is already decrypted and matches epr-11671.a10 from other Altered Beast sets.
+      # Despite this, MAME tries to decrypt it anyway and runs the game without sound.
+      # An altered MAME driver is needed in order to run the game correctly with working sound.
+      extract-file      ABEAST16_V_SOUND.ROM   epr-11686.a10             $((0x0))     $((0x8000))
+      extract-file      ABEAST16_V_SOUND.ROM   opr-11672.a11             $((0x8000))  $((0x20000))
+      extract-file      ABEAST16_V_SOUND.ROM   opr-11673.a12             $((0x28000)) $((0x20000))
+
+      dummy-file                               317-0066.key                           $((0x2000))
+      dummy-file                               315-5298.b9                            $((0xEB))
+      package-zip                              altbeast2.nosound.zip
+    ;;
+
     apb)
       deinterleave-file apb_a.t11  136051-2126.7l 136051-2127.7n $((0x0))     $((0x8000))
       deinterleave-file apb_a.t11  136051-7128.6f 136051-7129.6n $((0x8000))  $((0x20000))
@@ -304,6 +328,31 @@ extract-rom() {
       dummy-file                         74s472-136037-102.5l                            $((0x200))
       dummy-file                         82s129-136043-1103.4r                           $((0x100))
       package-zip                        gaunt2.zip
+    ;;
+
+    GAXE16)
+      # epr-12523.a7 and epr-12522.a5 do not match MAME.
+      # Single-byte differences scattered throughout.
+      deinterleave-file GoldenAxeProgram.rom epr-12523.a7 epr-12522.a5 $((0x0))      $((0x40000))
+      deinterleave-file GoldenAxeProgram.rom epr-12521.a8 epr-12519.a6 $((0x40000))  $((0x40000))
+
+      extract-file      GoldenAxeChars.rom   epr-12385.a14             $((0x0))      $((0x20000))
+      extract-file      GoldenAxeChars.rom   epr-12386.a15             $((0x20000))  $((0x20000))
+      extract-file      GoldenAxeChars.rom   epr-12387.a16             $((0x40000))  $((0x20000))
+
+      deinterleave-file GoldenAxeSprites.rom mpr-12379.b5 mpr-12378.b1 $((0x0))      $((0x40000))
+      deinterleave-file GoldenAxeSprites.rom mpr-12379.b5 mpr-12378.b1 $((0x100000)) $((0x40000))
+      deinterleave-file GoldenAxeSprites.rom mpr-12381.b6 mpr-12380.b2 $((0x40000))  $((0x40000))
+      deinterleave-file GoldenAxeSprites.rom mpr-12381.b6 mpr-12380.b2 $((0x140000)) $((0x40000))
+      deinterleave-file GoldenAxeSprites.rom mpr-12383.b7 mpr-12382.b3 $((0x80000))  $((0x40000))
+      deinterleave-file GoldenAxeSprites.rom mpr-12383.b7 mpr-12382.b3 $((0x180000)) $((0x40000))
+
+      extract-file      GoldenAxeSound.rom   epr-12390.a10             $((0x0))      $((0x8000))
+      extract-file      GoldenAxeSound.rom   mpr-12384.a11             $((0x8000))   $((0x20000))
+
+      dummy-file                             317-0112.c2                             $((0x1000))
+      dummy-file                             315-5298.b9                             $((0xEB))
+      package-zip                            goldnaxe2.noboot.zip
     ;;
 
     joust)
@@ -530,6 +579,30 @@ extract-rom() {
 
       dummy-file                       82s123.12d              $((0x20))
       package-zip                      shollow.zip
+    ;;
+
+    SHINOARC)
+      # These files match the shinobi6 set
+      deinterleave-file SHINOARC_V.68K         epr-11360.a7 epr-11359.a5 $((0x0))     $((0x40000))
+
+      # These files match the shinobi5 set
+      extract-file      SHINOARC_V_TILES.ROM   opr-11284.b9              $((0x0))     $((0x10000))
+      extract-file      SHINOARC_V_TILES.ROM   opr-11285.b10             $((0x10000)) $((0x10000))
+      extract-file      SHINOARC_V_TILES.ROM   opr-11286.b11             $((0x20000)) $((0x10000))
+
+      # These files match the shinobi5 set
+      deinterleave-file SHINOARC_V_SPRITES.ROM opr-11294.b5 opr-11290.b1 $((0x0))     $((0x20000))
+      deinterleave-file SHINOARC_V_SPRITES.ROM opr-11295.b6 opr-11291.b2 $((0x20000)) $((0x20000))
+      deinterleave-file SHINOARC_V_SPRITES.ROM opr-11296.b7 opr-11292.b3 $((0x40000)) $((0x20000))
+      deinterleave-file SHINOARC_V_SPRITES.ROM opr-11297.b8 opr-11293.b4 $((0x60000)) $((0x20000))
+
+      # epr-11361.a10 matches the shinobi6 set
+      # epr-11288.a8 and epr-11289.a9 match the shinobi5 set
+      extract-file      SHINOARC_V_SOUND.ROM   epr-11361.a10            $((0x0))     $((0x8000))
+      extract-file      SHINOARC_V_SOUND.ROM   epr-11288.a8             $((0x8000))  $((0x8000))
+      extract-file      SHINOARC_V_SOUND.ROM   epr-11289.a9             $((0x10000)) $((0x8000))
+
+      package-zip                              shinobi5+shinobi6.partial.zip
     ;;
 
     sinistar)
@@ -958,6 +1031,8 @@ extract-rom() {
 }
 
 GAMES_LIST=(
+  # Midway Arcade Origins (Xbox 360)
+  # All games except Marble Madness extract correctly
   _720
   apb
   archrivals
@@ -990,6 +1065,12 @@ GAMES_LIST=(
   wizardofwor
   xenophobe
   xybots
+
+  # Sega XBLA games
+  # NOTE: none of these will extract 100% correctly
+  ABEAST16
+  GAXE16
+  SHINOARC
 )
 
 if [[ -f ./decompress-sr-files.sh ]]; then
