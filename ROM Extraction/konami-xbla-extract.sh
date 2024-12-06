@@ -3,13 +3,25 @@
 ROM_LIST=(
   contra.rom
   Frogger.rom
+  Gyruss.rom
+  RushNAttack.rom
+  Scramble.rom
   Supercontra.rom
+  TimePilot.rom
+  TrackAndField.rom
+  YieArKungFu.rom
 )
 
 MD5_LIST=(
   094dc6223cb8da773f53d0e6ebdeb7aa # Contra
+  10ff61c9f1e57239acf8a402ec9dfdb2 # Track and Field
+  385164fe0eb34174ffd160ab98e4898d # Yie Ar Kung-Fu
+  72566a62a16aebe5f42c183d10af0bcb # Scramble
+  8f9f430355477cc9a480d8498b8221de # Time Pilot
   97af60f8bdf8c3785b027bb46dc52b4e # Super Contra
+  9f2b8cbf6197a442e64213bc2c8d2d01 # Rush'n Attack
   b972e1c15c73eb00606e3b378a0e1c82 # Frogger
+  ba6754ebc31c4a98eb303b314753aa46 # Gyruss
 )
 
 extract-rom() {
@@ -43,6 +55,58 @@ extract-rom() {
       package-zip  frogger.zip
     ;;
 
+    Gyruss.rom)
+      extract-file gyrussk.1   $((0x0))     $((0x2000))
+      extract-file gyrussk.2   $((0x2000))  $((0x2000))
+      extract-file gyrussk.3   $((0x4000))  $((0x2000))
+      extract-file gyrussk.1a  $((0x6000))  $((0x2000))
+      extract-file gyrussk.2a  $((0x8000))  $((0x2000))
+      extract-file gyrussk.9   $((0xA000))  $((0x2000))
+      extract-file gyrussk.3a  $((0xC000))  $((0x1000))
+      extract-file gyrussk.4   $((0xD000))  $((0x2000))
+      extract-file gyrussk.6   $((0xF000))  $((0x2000))
+      extract-file gyrussk.5   $((0x11000)) $((0x2000))
+      extract-file gyrussk.8   $((0x13000)) $((0x2000))
+      extract-file gyrussk.7   $((0x15000)) $((0x2000))
+      extract-file gyrussk.pr3 $((0x17000)) $((0x20))
+      extract-file gyrussk.pr1 $((0x17020)) $((0x100))
+      extract-file gyrussk.pr2 $((0x17120)) $((0x100))
+      package-zip  gyruss.zip
+    ;;
+
+    RushNAttack.rom)
+      extract-file 577h03.10c   $((0x0))     $((0x4000))
+      extract-file 577h02.8c    $((0x4000))  $((0x4000))
+      extract-file 577h01.7c    $((0x8000))  $((0x4000))
+      extract-file 577h07.3f    $((0xC000))  $((0x4000))
+      extract-file 577l06.5e    $((0x10000)) $((0x4000))
+      extract-file 577h05.4e    $((0x14000)) $((0x4000))
+      extract-file 577l08.4f    $((0x18000)) $((0x4000))
+      extract-file 577l04.3e    $((0x1C000)) $((0x4000))
+      extract-file 577h09.2f    $((0x20000)) $((0x20))
+      extract-file 577h10.5f    $((0x20020)) $((0x100))
+      extract-file 577h11.6f    $((0x20120)) $((0x100))
+      package-zip  rushatck.zip
+    ;;
+
+    Scramble.rom)
+      extract-file s1.2d        $((0x0))    $((0x800))
+      extract-file s2.2e        $((0x0800)) $((0x800))
+      extract-file s3.2f        $((0x1000)) $((0x800))
+      extract-file s4.2h        $((0x1800)) $((0x800))
+      extract-file s5.2j        $((0x2000)) $((0x800))
+      extract-file s6.2l        $((0x2800)) $((0x800))
+      extract-file s7.2m        $((0x3000)) $((0x800))
+      extract-file s8.2p        $((0x3800)) $((0x800))
+      extract-file ot1.5c       $((0x4000)) $((0x800))
+      extract-file ot2.5d       $((0x4800)) $((0x800))
+      extract-file ot3.5e       $((0x5000)) $((0x800))
+      extract-file c2.5f        $((0x5800)) $((0x800))
+      extract-file c1.5h        $((0x6000)) $((0x800))
+      extract-file c01s.6e      $((0x6800)) $((0x20))
+      package-zip  scramble.zip
+    ;;
+
     Supercontra.rom)
       extract-file            775-e02.k11                                       $((0x0))      $((0x10000))
       extract-file            775-e03.k13                                       $((0x10000))  $((0x10000))
@@ -71,6 +135,56 @@ extract-rom() {
       deinterleave-file-32bit 775-f05c.11d+775-f05g.10d+775-f06c.9d+775-f06g.8d
       deinterleave-file-32bit 775-f05d.11c+775-f05h.10c+775-f06d.9c+775-f06h.8c
       package-zip             scontra.zip
+    ;;
+
+    TimePilot.rom)
+      extract-file tm1         $((0x0))    $((0x2000))
+      extract-file tm2         $((0x2000)) $((0x2000))
+      extract-file tm3         $((0x4000)) $((0x2000))
+      extract-file tm7         $((0x6000)) $((0x1000))
+      extract-file tm6         $((0x7000)) $((0x2000))
+      extract-file tm4         $((0x9000)) $((0x2000))
+      extract-file tm5         $((0xB000)) $((0x2000))
+      extract-file timeplt.b4  $((0xD000)) $((0x20))
+      extract-file timeplt.b5  $((0xD020)) $((0x20))
+      extract-file timeplt.e9  $((0xD040)) $((0x100))
+      extract-file timeplt.e12 $((0xD140)) $((0x100))
+      package-zip  timeplt.zip
+    ;;
+
+    TrackAndField.rom)
+      extract-file a01_e01.bin  $((0x0))     $((0x2000))
+      extract-file a02_e02.bin  $((0x2000))  $((0x2000))
+      extract-file a03_k03.bin  $((0x4000))  $((0x2000))
+      extract-file a04_e04.bin  $((0x6000))  $((0x2000))
+      extract-file a05_e05.bin  $((0x8000))  $((0x2000))
+      extract-file c2_d13.bin   $((0xA000))  $((0x2000))
+      extract-file h16_e12.bin  $((0xC000))  $((0x2000))
+      extract-file h15_e11.bin  $((0xE000))  $((0x2000))
+      extract-file h14_e10.bin  $((0x10000)) $((0x2000))
+      extract-file c11_d06.bin  $((0x12000)) $((0x2000))
+      extract-file c12_d07.bin  $((0x14000)) $((0x2000))
+      extract-file c13_d08.bin  $((0x16000)) $((0x2000))
+      extract-file c14_d09.bin  $((0x18000)) $((0x2000))
+      extract-file 361b16.f1    $((0x1A000)) $((0x20))
+      extract-file 361b17.b16   $((0x1A020)) $((0x100))
+      extract-file 361b18.e15   $((0x1A120)) $((0x100))
+      extract-file c9_d15.bin   $((0x1A220)) $((0x2000))
+      package-zip  trackfld.zip
+    ;;
+
+    YieArKungFu.rom)
+      extract-file 407_i08.10d $((0x0))     $((0x4000))
+      extract-file 407_i07.8d  $((0x4000))  $((0x4000))
+      extract-file 407_c01.6h  $((0x8000))  $((0x2000))
+      extract-file 407_c02.7h  $((0xA000))  $((0x2000))
+      extract-file 407_d05.16h $((0xC000))  $((0x4000))
+      extract-file 407_d06.17h $((0x10000)) $((0x4000))
+      extract-file 407_d03.14h $((0x14000)) $((0x4000))
+      extract-file 407_d04.15h $((0x18000)) $((0x4000))
+      extract-file 407c10.1g   $((0x1C000)) $((0x20))
+      extract-file 407_c09.8b  $((0x1C020)) $((0x2000))
+      package-zip  yiear.zip
     ;;
   esac
 }
@@ -143,10 +257,12 @@ missing-dependency-extract360() {
 print-usage() {
   echo "$1"
   echo
-  echo "Usage: $0 <path-to-game>"
+  echo "Usage: $0 <path-to-game> [-a]"
   echo
   echo "  <path-to-game> is the path to the XBLA game copied from your console."
   echo "  These can be found on your USB drive within the \"Content\" directory."
+  echo
+  echo "  -a option extracts all ROMs, including unusable ones."
   exit 1
 }
 
@@ -191,6 +307,16 @@ mkdir -p "$WORKING_DIR/zips"
 
 START_DIR="$PWD"
 cd "$WORKING_DIR"
+
+if [[ $EXTRACT_ALL != 1 && $STFS_MD5 = ba6754ebc31c4a98eb303b314753aa46 ]]; then
+  echo
+  echo "Unfortunately, Gyruss is not usable with emulators. If you would"
+  echo "like to extract it anyway, re-run this script with the [-a] option."
+  echo
+
+  rm -r "$WORKING_DIR"
+  exit 1
+fi
 
 echo "Extracting STFS container..."
 cp "$STFS_PATH" stfs
