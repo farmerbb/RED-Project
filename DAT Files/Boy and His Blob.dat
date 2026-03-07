@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>A Boy and His Blob Retro Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://www.gog.com/en/game/a_boy_and_his_blob_retro_collection</homepage>
+		<url>https://www.gog.com/en/game/a_boy_and_his_blob_retro_collection</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="BoyAndHisBlob">
+		<description>A Boy And His Blob (NES)</description>
+		<rom name="Boy And His Blob.nes" size="262160" crc="eaf3472f" md5="48b467e35f7a30a6dae472d0255db30f" sha1="b221b123303843ec163c1be31fd6a9bd056fc46c" header="4E 45 53 1A 08 10 10 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="RescueOfPrincessBlobette">
+		<description>Rescue of Princess Blobette</description>
+		<rom name="Rescue of Princess Blobette.nes" size="262160" crc="a14997f8" md5="ef7b6e1c17662797aa272076b4cd93e4" sha1="3f6c5a2f0ed91049866b2a2e7ad5a2f4dbe29bd6" header="4E 45 53 1A 08 10 10 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="BoyAndHisBlob_gb">
+		<description>A Boy And His Blob (GB)</description>
+		<rom name="Boy And His Blob.gb" size="65536" crc="526f43ad" md5="6d9857f008022ec30769bb2546d88528" sha1="1c5878171c27ffe9af05e4eb128ec68d0ec4c903"/>
+	</machine>
+	<machine name="FushigiNaBlobby">
+		<description>Fushigi na Blobby: Princess Blob o Sukue! (Japan)</description>
+		<rom name="FushigiNaBlobby.gb" size="65536" crc="62c684cd" md5="16330bc60255413f6b76399f80ecb01b" sha1="70c14513b10aac3cd11b49c7ee48c6f718fd57f9"/>
+	</machine>
+</datafile>
