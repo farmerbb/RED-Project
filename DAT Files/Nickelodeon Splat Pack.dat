@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nickelodeon Splat Pack</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/3509130/Nickelodeon_Splat_Pack/</homepage>
+		<url>https://store.steampowered.com/app/3509130/Nickelodeon_Splat_Pack/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="NICKELODEON GUTS">
+		<description>NICKELODEON GUTS</description>
+		<rom name="snesNickelodeonGuts.smc" size="1572864" crc="3b1be8d0" md5="48c08361a55ab18d8e50ad95a1faf72b" sha1="a7398b21b6b3bee54e9c4a6fc417cb5d2305064f"/>
+	</machine>
+	<machine name="ROCKOS MODERN LIFE">
+		<description>Rocko's Modern Life: Spunky's Dangerous Day</description>
+		<rom name="snesRockosModernLife.smc" size="1572864" crc="56baf5ac" md5="ab6a2edb5b2a11249ae4e20282f96ce9" sha1="8d40f8438f7ed3645f30655689cb2c174d2c8501"/>
+	</machine>
+	<machine name="NICKELODEON AAAHH!!! REAL MONSTERS">
+		<description>AAAHH!!! Real Monsters</description>
+		<rom name="genAaahhRealMonsters.bin" size="2097152" crc="4406bf4a" md5="f6db9963ed9182acf0438932e28768bd" sha1="c67008bce1ac50864f6f026ed0df823be21fea89"/>
+	</machine>
+	<machine name="REAL MONSTERS">
+		<description>AAAHH!!! Real Monsters</description>
+		<rom name="snesAaahhRealMonsters.smc" size="2097152" crc="c094f4f3" md5="636a6f900221a972d048703b4771d585" sha1="aa097e75fe7ca780d9b79d586be9d5e19aeff598"/>
+	</machine>
+</datafile>
