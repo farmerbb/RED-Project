@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Ren &amp; Stimpy Happy, Happy, Joy, Joy, Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/3504600/Ren__Stimpy_Happy_Happy_Joy_Joy_Collection/</homepage>
+		<url>https://store.steampowered.com/app/3504600/Ren__Stimpy_Happy_Happy_Joy_Joy_Collection/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="BUCKEROOS8">
+		<description>Ren &amp; Stimpy: Buckeroo$! (8-bit)</description>
+		<rom name="nesBuckeroos.nes" size="262160" crc="049b5b52" md5="0450dd083adcc15006daac704d50db74" sha1="495343492cadae25047897c0771da4d49f21322b" header="4E 45 53 1A 08 10 40 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="BUCKEROOS16">
+		<description>Ren &amp; Stimpy: Buckeroo$! (16-bit)</description>
+		<rom name="snesBuckeroos.sfc" size="2097152" crc="003c9f3c" md5="2245cd69cda5e8f326225d45f22195b5" sha1="d054ff9a6fe37828c01bf8243fe8983df5b74198"/>
+	</machine>
+	<machine name="Space Cadet Adventures">
+		<description>Ren &amp; Stimpy: Space Cadet Adventures</description>
+		<rom name="gbSpaceCadetAdventurus.gb" size="262144" crc="69b3d97b" md5="c1c21560849cdd73a8180643fb63940f" sha1="3ed44915849255b20aff296ad97a48d9f162127c"/>
+	</machine>
+	<machine name="VEEDIOTS">
+		<description>Ren &amp; Stimpy: Veediots! (GB)</description>
+		<rom name="gbVeediots.gb" size="262144" crc="73e2ae11" md5="2d3eed56bb78aefe06c7072513990329" sha1="0cd34fc58af151e950a45b5d4c546a1f6139261d"/>
+	</machine>
+	<machine name="Ren &amp; Stimpy">
+		<description>Ren &amp; Stimpy: Veediots! (16-bit)</description>
+		<rom name="snesVeediots.sfc" size="2097152" crc="90790ff4" md5="0b6f0043e0304d140cf7ac3f543f1069" sha1="9326a9adcd274128f904388faaf31e6c0f735974"/>
+	</machine>
+	<machine name="Ren &amp; Stimpy Firedogs">
+		<description>Ren &amp; Stimpy: Firedogs</description>
+		<rom name="snesFireDogs.sfc" size="1048576" crc="e03d8b26" md5="8db151dc94c169c1b5d6dab224ac520d" sha1="0568e788a5bd0bd097b2348bdc5c3709c5896a6d"/>
+	</machine>
+	<machine name="Ren &amp; Stimpy Timewarp">
+		<description>Ren &amp; Stimpy: Time Warp</description>
+		<rom name="snesTimeWarp.sfc" size="2097152" crc="a90d3e38" md5="44dfa4c11fb4a5fcc133cc4f14ba56bf" sha1="65baddfc16eb986ad56be7d34e9fad28ae087e2c"/>
+	</machine>
+</datafile>
