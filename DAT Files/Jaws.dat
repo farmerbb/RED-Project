@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>JAWS: Retro Edition</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/3977380/JAWS_Retro_Edition/</homepage>
+		<url>https://store.steampowered.com/app/3977380/JAWS_Retro_Edition/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Jaws (USA)" id="1094">
+		<description>Jaws (USA)</description>
+		<rom name="Jaws.nes" size="65552" crc="3704dc46" md5="458f741fb3ac8f0bde60ad0df25b42a9" sha1="4d8b51b6116c0e009e1dad26f387bc957067f159" header="4E 45 53 1A 02 04 30 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="Jaws Enhanced Edition">
+		<description>Jaws Enhanced Edition</description>
+		<rom name="JawsEE.nes" size="196624" crc="3ea0d8a6" md5="7f4f773541fe70867f991b49e7f8563a" sha1="2d26f98a047f06134a2c09edc1632bf0beab84bd" header="4E 45 53 1A 08 08 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+</datafile>
