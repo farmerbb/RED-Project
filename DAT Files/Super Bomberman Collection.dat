@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Super Bomberman Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/3756010/SUPER_BOMBERMAN_COLLECTION/</homepage>
+		<url>https://store.steampowered.com/app/3756010/SUPER_BOMBERMAN_COLLECTION/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Bomberman (Japan) (En)">
+		<description>Bomberman (Japan) (En)</description>
+		<rom name="Bomberman.nes" size="40976" crc="0344672e" md5="e38d7f0a8e42e422e906b15f2329855b" sha1="3dc81fe5ce50132d39b564991d94929f9b1ad390" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="Bomberman II (Japan) (En)">
+		<description>Bomberman II (Japan) (En)</description>
+		<rom name="Bomberman 2.nes" size="131088" crc="506240e2" md5="aefd486e8853b53295b42eca52da4e32" sha1="a6b69a1f8a935339eb0237783e7d3afea138b25c" header="4E 45 53 1A 08 00 10 08 00 00 07 07 00 00 00 03"/>
+	</machine>
+	<machine name="Super Bomberman (Japan) (En)">
+		<description>Super Bomberman (Japan) (En)</description>
+		<rom name="Super Bomberman.jp.sfc" size="1048576" crc="bd966092" md5="86f145861400641dd5631a26874779eb" sha1="c0dedd43e6c6e97cae7415c6b884858e272f8848"/>
+	</machine>
+	<machine name="Super Bomberman (USA)">
+		<description>Super Bomberman (USA)</description>
+		<rom name="Super Bomberman.us.sfc" size="1048576" crc="b9108d2a" md5="826d51b2028108cc8708dad3a8002187" sha1="de47f8e7807940538044c3959f0bc21ed1fe6e2c"/>
+	</machine>
+	<machine name="Super Bomberman 2 (Japan) (En)">
+		<description>Super Bomberman 2 (Japan) (En)</description>
+		<rom name="Super Bomberman 2.jp.sfc" size="2097152" crc="89cdf520" md5="7e37f5583342b63b98664edf5d6a38e6" sha1="c3b8f6ad9b8246b40107ce9652893fa1561d4221"/>
+	</machine>
+	<machine name="Super Bomberman 2 (USA)">
+		<description>Super Bomberman 2 (USA)</description>
+		<rom name="Super Bomberman 2.us.sfc" size="2097152" crc="1d03978a" md5="8a77e035ea41894c2f74217a1c3d1853" sha1="724412b732d7563ed1ff1895a5d398e2235b8636"/>
+	</machine>
+	<machine name="Super Bomberman 3 (Japan)">
+		<description>Super Bomberman 3 (Japan)</description>
+		<rom name="Super Bomberman 3.jp.sfc" size="2097152" crc="896af562" md5="ac27400022a5f707e580ce7bb8fa5930" sha1="bfecb74044c7731a9c683e906a189bba9fdf86de"/>
+	</machine>
+	<machine name="Super Bomberman 3 (Europe)">
+		<description>Super Bomberman 3 (Europe)</description>
+		<rom name="Super Bomberman 3.eu.sfc" size="2097152" crc="9f40aaa3" md5="919eecb8b443e3948223a5f865819287" sha1="53468092ddae3cdc922f89906ef6dd438a149e1f"/>
+	</machine>
+	<machine name="Super Bomberman 4 (Japan)">
+		<description>Super Bomberman 4 (Japan)</description>
+		<rom name="Super Bomberman 4.jp.sfc" size="4194304" crc="1b4b05c1" md5="a8d9fd0109c3ee2bdbd219819ad1eb09" sha1="aef341bb6b79bee2d5fbbd52745e1dd273d48957"/>
+	</machine>
+	<machine name="Super Bomberman 4 (USA)">
+		<description>Super Bomberman 4 (USA)</description>
+		<rom name="Super Bomberman 4.us.sfc" size="4194304" crc="4dc7d0d3" md5="390fbd3349b4b763dbc365dab718f9cb" sha1="38f4394986bd39fcbe32a722a3fe103ee6177d9b"/>
+	</machine>
+	<machine name="Super Bomberman 5 (Japan)">
+		<description>Super Bomberman 5 (Japan)</description>
+		<rom name="Super Bomberman 5.jp.sfc" size="4194304" crc="4834fbbd" md5="1e4b0a1905a949d4911a0d29b553e178" sha1="8d91cfd67749b67e9e3b9f81f2d751aeb47390ba"/>
+	</machine>
+	<machine name="Super Bomberman 5 (USA)">
+		<description>Super Bomberman 5 (USA)</description>
+		<rom name="Super Bomberman 5.us.sfc" size="4194304" crc="c25ab56a" md5="bf19b8012b3e43b111cc05f9481b72ae" sha1="417d5ace7e51baafb69d20ce15ff0894d91c70c5"/>
+	</machine>
+</datafile>
