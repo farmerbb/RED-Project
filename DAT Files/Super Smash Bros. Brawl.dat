@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Super Smash Bros. Brawl</name>
+		<description></description>
+		<category>Standard DatFile</category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Donkey Kong">
+		<description>Donkey Kong</description>
+		<rom name="Donkey Kong (Super Smash Bros Brawl).nes" size="24592" crc="e40b593b" md5="40319cad12c80fc095901eb0182df838" sha1="d8dfacbfec34cdc871d73c901811551fe1706923" sha256="f9f026fd3560eeb03be9f6d1efa329b4c71d562caf06d4a5a691e5342f8da8e6" header="4E 45 53 1A 01 01 00 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="Super Mario Bros">
+		<description>Super Mario Bros</description>
+		<rom name="Super Mario Bros (Super Smash Bros Brawl).nes" size="40976" crc="3337ec46" md5="811b027eaf99c2def7b933c5208636de" sha1="ea343f4e445a9050d4b4fbac2c77d0693b1d0922" sha256="f61548fdf1670cffefcc4f0b7bdcdd9eaba0c226e3b74f8666071496988248de" header="4E 45 53 1A 02 01 01 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="The Legend of Zelda">
+		<description>The Legend of Zelda</description>
+		<rom name="Legend of Zelda (Super Smash Bros Brawl).nes" size="131088" crc="fdbe99a8" md5="f6de506f3019b88f35d62bfe4ff41fe2" sha1="5209732c16b6622a9b5d32a80b6ea4362b230df8" sha256="ef3ac77061eb270ab25e1ee8c1d72903aff00568f7c76dda1fccd8651501dd34" header="4E 45 53 1A 08 00 13 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="Kirby's Adventure">
+		<description>Kirby's Adventure</description>
+		<rom name="Kirbys Adventure (Super Smash Bros Brawl).nes" size="786448" crc="3c08a2d7" md5="82c9a43f1b20a8c45ccc80e8cb8e7448" sha1="f3f2989f5362cb0dd68cbbba554a0314199455f8" sha256="6a0b522a8c9b02ab16ce27d438b10c83f645152ff2adad2863252d16a7c51371" header="4E 45 53 1A 20 20 40 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="Kid Icarus">
+		<description>Kid Icarus</description>
+		<rom name="Kid Icarus (Super Smash Bros Brawl).nes" size="131088" crc="7bd47a89" md5="bef4a8b701b72a0b729f6958cfe80764" sha1="19095d19969a99eb2b3fbceae9de88c80ebebedc" sha256="4fd84bdfe2bc51821d5a19a4b7a1e50772065403766714dc64faa60c1d242839" header="4E 45 53 1A 08 00 12 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="Ice Climber">
+		<description>Ice Climber</description>
+		<rom name="Ice Climber (Super Smash Bros Brawl).nes" size="24592" crc="2dde4e67" md5="f28cdc2f909ad4661c27a076a5b61579" sha1="50d975bce27feb6bf7b7a22c97130c7c0f7148a3" sha256="3583d55e2d0575cec382823e46fcd596c2bc47dc5ca84f14ef5d7ec60554e79d" header="4E 45 53 1A 01 01 00 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="Super Mario Bros. 2">
+		<description>Super Mario Bros. 2</description>
+		<rom name="Super Mario Bros 2 (Super Smash Bros Brawl).nes" size="262160" crc="1bbab90a" md5="db08e9ae99e08374bd5763643b7eef8e" sha1="9c7ff8cb6b9656da334903e8c432cd1f5160978e" sha256="8578883a64b0112070bc0f8066e3d59178256c9273732aaeab227aaaa5760946" header="4E 45 53 1A 08 10 42 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="F-ZERO">
+		<description>F-ZERO</description>
+		<release name="F-ZERO" region="USA"/>
+		<rom name="F-Zero (Super Smash Bros Brawl).sfc" size="524288" crc="5e35f49c" md5="93654305e3f24e542a8ad45ff2d704cd" sha1="80d07f2330744153f3d9856c3ba243c99cddc4e7" sha256="265784a9d69e422edd335f2b1ce853256d8c284f23f99d16e9589ee169da7741"/>
+	</machine>
+	<machine name="Super Mario World">
+		<description>Super Mario World</description>
+		<release name="Super Mario World" region="USA"/>
+		<rom name="Super Mario World (Super Smash Bros Brawl).sfc" size="524288" crc="5d3c0fae" md5="7dfe85f3c7940c40c32731efe0da92ae" sha1="e23cb10e1ba86bbd1f583d3013a98368ae3301ba" sha256="2c2ccde435c6a7b7aea64a856caef23178f151fb609c712c856ee4db9936da8a"/>
+	</machine>
+	<machine name="Super Metroid (Japan)">
+		<description>Super Metroid (Japan)</description>
+		<release name="Super Metroid (Japan)" region="Japan"/>
+		<rom name="Super Metriod (Super Smash Bros Brawl).sfc" size="3145728" crc="ba3ef6e0" md5="6020d33959b58d33456b56ee70642adf" sha1="1b5b589901ee4f995dd8a55b160245d91497b6a9" sha256="3f93bba9cc3a78d5beadbd7ee996570e320bd0a54930b44417705a9e100710ab"/>
+	</machine>
+	<machine name="Starfox 64">
+		<description>Starfox 64</description>
+		<rom name="Starfox64 (Super Smash Bros Brawl).z64" size="12582912" crc="b1b5fc46" md5="741a94eee093c4c8684e66b89f8685e8" sha1="09f0d105f476b00efa5303a3ebc42e60a7753b7a" sha256="385bcf1901ed12fb1152f3c227d1968cc54ae41e8566da66695df71af40a573f"/>
+	</machine>
+	<machine name="Zelda.CZLE">
+		<description>Zelda.CZLE</description>
+		<rom name="Zelda (Super Smash Bros Brawl).z64" size="33554432" crc="32120c23" md5="57a9719ad547c516342e1a15d5c28c3d" sha1="41b3bdc48d98c48529219919015a1af22f5057c2" sha256="49acd3885f13b0730119b78fb970911cc8aba614fe383368015c21565983368d"/>
+	</machine>
+</datafile>
