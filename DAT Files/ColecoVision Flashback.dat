@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>ColecoVision Flashback</name>
+		<description>AtGames ColecoVision Flashback collection</description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/529860/ColecoVision_Flashback/</homepage>
+		<url>https://store.steampowered.com/app/529860/ColecoVision_Flashback/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="[BIOS] ColecoVision (USA, Europe)">
+		<description>[BIOS] ColecoVision (USA, Europe)</description>
+		<rom name="coleco.bios" size="8192" crc="3aa93ef3" md5="2c66f5911e5b42b8ebe113403548eee7" sha1="45bedc4cbdeac66c7df59e9e599195c778d86a92"/>
+	</machine>
+	<machine name="Antarctic Adventure (USA, Europe)">
+		<description>Antarctic Adventure (USA, Europe)</description>
+		<rom name="Antarctic Adventure (USA, Europe).col" size="16384" crc="275c800e" md5="1ea45edc04bc4df444a38e50f8a75d5d" sha1="00db7cf9bd66aecac3d9368dd205680781b2e542"/>
+	</machine>
+	<machine name="Aquattack (USA) (Alt)">
+		<description>Aquattack (USA) (Alt)</description>
+		<rom name="Aquattack (USA) (Alt).col" size="16384" crc="275a7013" md5="28f9a15d22e302ef1e293f8d9f65c7dd" sha1="76627fe3a0bbeca4f4cafd3427182eb8700e7677"/>
+	</machine>
+	<machine name="Brain Strainers (USA)">
+		<description>Brain Strainers (USA)</description>
+		<rom name="Brain Strainers (USA).col" size="16384" crc="829c967d" md5="302846579767d876883d8a560738daae" sha1="fe6235b99889388ff858c19eae7337dd0b75944a"/>
+	</machine>
+	<machine name="Bump 'n' Jump (USA, Europe)">
+		<description>Bump 'n' Jump (USA, Europe)</description>
+		<rom name="Bump 'n' Jump (USA, Europe).col" size="20480" crc="9e1fab59" md5="d365cf7b774679842a9f99953b97ab0a" sha1="8df20c9c151b01b0d859c0ab4753d5cce3956224"/>
+	</machine>
+	<machine name="Choplifter! (USA)">
+		<description>Choplifter! (USA)</description>
+		<rom name="Choplifter! (USA).col" size="16384" crc="030e0d48" md5="b3719118e9cfcc1234cd01c1e3fb84cf" sha1="3a7e5ea50495a666bac8df0b3b2c82b5be65ad18"/>
+	</machine>
+	<machine name="Cosmic Avenger (USA, Europe)">
+		<description>Cosmic Avenger (USA, Europe)</description>
+		<rom name="Cosmic Avenger (USA, Europe).col" size="16384" crc="39d4215b" md5="cfbd4a478e7019422c306837444d2e46" sha1="c8c2a70d3eab8a68ab1db04e766a6c70f02f02ca"/>
+	</machine>
+	<machine name="Evolution (USA) (Alt)">
+		<description>Evolution (USA) (Alt)</description>
+		<rom name="Evolution (USA) (Alt).col" size="16384" crc="dff01cf7" md5="74b7a74c714c1be14d58124e6f9797ab" sha1="acc3f1f3a7c129d736c3625667a3c1d942f12bbe"/>
+	</machine>
+	<machine name="Fathom (USA) (Alt)">
+		<description>Fathom (USA) (Alt)</description>
+		<rom name="Fathom (USA) (Alt).col" size="16384" crc="9eb58823" md5="1431444f24d188c87e16e307ee56a5d9" sha1="3f5f92dec13860bd1eb56cf77fbe3556246291c4"/>
+	</machine>
+	<machine name="Flipper Slipper (USA) (Alt)">
+		<description>Flipper Slipper (USA) (Alt)</description>
+		<rom name="Flipper Slipper (USA) (Alt).col" size="16384" crc="7e97a22e" md5="677dc48bdaf746d48068d8ad0dff19de" sha1="3b5823bd966e042df81cf42dc07aef990e41fd88"/>
+	</machine>
+	<machine name="Fortune Builder (USA)">
+		<description>Fortune Builder (USA)</description>
+		<rom name="Fortune Builder (USA).col" size="32768" crc="65bbbcb4" md5="b6e01df73b83911cadb4840e5fd920f1" sha1="dd3461f5b79fe581b8e14685a5b8810b18d84dfe"/>
+	</machine>
+	<machine name="Frantic Freddy (USA)">
+		<description>Frantic Freddy (USA)</description>
+		<rom name="Frantic Freddy (USA).col" size="16384" crc="8615c6e8" md5="721b56f46c0b5714aebef48049c6ae80" sha1="4f4ef29dbb730583bdf6da75aa7fe7b4f144216a"/>
+	</machine>
+	<machine name="Frenzy (USA, Europe)">
+		<description>Frenzy (USA, Europe)</description>
+		<rom name="Frenzy (USA, Europe).col" size="20480" crc="3cacddfb" md5="ec8f7fea2f00df94ded932d49bd8a7f9" sha1="9fae20696149c1dba5203e1600565917c8981d81"/>
+	</machine>
+	<machine name="Gateway to Apshai (USA, Europe)">
+		<description>Gateway to Apshai (USA, Europe)</description>
+		<rom name="Gateway to Apshai (USA, Europe).col" size="12288" crc="fdb75be6" md5="7262176bb5917af526243438f6c8d9e4" sha1="837a192ee27ab78c4ab914b45b9ba55e5847cf37"/>
+	</machine>
+	<machine name="Gust Buster (USA) (Alt)">
+		<description>Gust Buster (USA) (Alt)</description>
+		<rom name="Gust Buster (USA) (Alt).col" size="16384" crc="f2cac67c" md5="05c76213b0cabc7a2b6ded94bed25ccc" sha1="550901882d369064779956704b2925e4e9b8be1f"/>
+	</machine>
+	<machine name="Heist, The (USA) (Alt)">
+		<description>Heist, The (USA) (Alt)</description>
+		<rom name="Heist, The (USA) (Alt).col" size="24576" crc="6f2e2d84" md5="06e96d4b3f9e2e1cfbc006eead39d0b9" sha1="01092a3afacb7e013c220c1aa6ce3c72ca400b5f"/>
+	</machine>
+	<machine name="Jumpman Junior (USA, Europe)">
+		<description>Jumpman Junior (USA, Europe)</description>
+		<rom name="Jumpman Junior (USA, Europe).col" size="16384" crc="060c69e8" md5="5454538f617f2ccf56cb7e0f5a45d11b" sha1="b79d4312e2d5fc30e37ee46916dc31908c84590e"/>
+	</machine>
+	<machine name="Jungle Hunt (USA) (Alt)">
+		<description>Jungle Hunt (USA) (Alt)</description>
+		<rom name="Jungle Hunt (USA) (Alt).col" size="24576" crc="e8858484" md5="e6b4bc4610bd159c4d5ba682d5bf4119" sha1="d41bec8f571f3250668bb1cec5dc0bf7de74bb7d"/>
+	</machine>
+	<machine name="Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)">
+		<description>Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)</description>
+		<rom name="Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).col" size="24576" crc="b24f10fd" md5="3a1ef8e754016c87ead2335d7641f27a" sha1="b29cd441e9edebc37abc08c3fd932f1d4185bacd"/>
+	</machine>
+	<machine name="Moonsweeper (USA, Europe)">
+		<description>Moonsweeper (USA, Europe)</description>
+		<rom name="Moonsweeper (USA, Europe).col" size="16384" crc="8a303f5a" md5="42447cf41e7afb267c262e578f0f24b1" sha1="eeccf73225e03ce10f6f6a02a808dc04f5bb0242"/>
+	</machine>
+	<machine name="Mountain King (USA)">
+		<description>Mountain King (USA)</description>
+		<rom name="Mountain King (USA).col" size="16384" crc="c173bbec" md5="bb79207c51e772fd26276712cc4e6927" sha1="46602df46117513d7166eba81e2e3546246adf94"/>
+	</machine>
+	<machine name="Ms. Space Fury (Digital Press) (2001)">
+		<description>Ms. Space Fury (Digital Press) (2001)</description>
+		<rom name="Ms. Space Fury (Digital Press) (2001).rom" size="32256" crc="dffd8cb4" md5="7de8f21a2f924753ee47d7336b8d6d70" sha1="891444b0f3d311ce09c6553027bdab39a95839dd"/>
+	</machine>
+	<machine name="Nova Blast (USA, Europe)">
+		<description>Nova Blast (USA, Europe)</description>
+		<rom name="Nova Blast (USA, Europe).col" size="12288" crc="4491a35b" md5="745067096d2dda2c62874b60bab4f625" sha1="2c35f5b2eb5914a14e544e00c67d4cb5582832d8"/>
+	</machine>
+	<machine name="Oil's Well (USA)">
+		<description>Oil's Well (USA)</description>
+		<rom name="Oil's Well (USA).col" size="16384" crc="add10242" md5="e7d10b763454692ea8a6da95fccdbd87" sha1="779e43f183dbdb692dc26ae41dde6b35891f8f8b"/>
+	</machine>
+	<machine name="Omega Race (USA, Europe) (Alt)">
+		<description>Omega Race (USA, Europe) (Alt)</description>
+		<rom name="Omega Race (USA, Europe) (Alt).col" size="16384" crc="9921ecb5" md5="e7af8dc8712a761c418e91598a5eee1c" sha1="84f4b6fa6ab30b6c2e2b79bf61c5bb3421530303"/>
+	</machine>
+	<machine name="Pepper II (USA, Europe)">
+		<description>Pepper II (USA, Europe)</description>
+		<rom name="Pepper II (USA, Europe).col" size="16384" crc="53b85e20" md5="679f02b1d1a7d68af42735d67cbccaff" sha1="0983d0a562ccb3d4ac88d8ae26cf29a465075067"/>
+	</machine>
+	<machine name="Quest for Quintana Roo (USA)">
+		<description>Quest for Quintana Roo (USA)</description>
+		<rom name="Quest for Quintana Roo (USA).col" size="16384" crc="eec81c42" md5="446256285c3b1dcf012d36b26f8fdb6b" sha1="1aef03f7d0bdaa701517a1ad6a75ab8820674f15"/>
+	</machine>
+	<machine name="Rolloverture (USA) (Alt)">
+		<description>Rolloverture (USA) (Alt)</description>
+		<rom name="Rolloverture (USA) (Alt).col" size="16384" crc="e4585c0a" md5="3cd028c84f0a5ec849d87bef5516d080" sha1="2943b5d1274864e013b774108ef9c8d0cff25159"/>
+	</machine>
+	<machine name="Sammy Lightfoot (USA) (Alt)">
+		<description>Sammy Lightfoot (USA) (Alt)</description>
+		<rom name="Sammy Lightfoot (USA) (Alt).col" size="16384" crc="c5f69a1b" md5="7a70637bbc173a9dcefb2f1db6c7dc44" sha1="88fa56b294294110a4cc2c0f109e09e8c1cdeae9"/>
+	</machine>
+	<machine name="Sir Lancelot (USA) (Alt)">
+		<description>Sir Lancelot (USA) (Alt)</description>
+		<rom name="Sir Lancelot (USA) (Alt).col" size="16384" crc="dd76775d" md5="535518cce43a9c0921179b840a704593" sha1="4309865f8a18ee611be95445fcaba000e9e321bd"/>
+	</machine>
+	<machine name="Slurpy (USA) (Alt)">
+		<description>Slurpy (USA) (Alt)</description>
+		<rom name="Slurpy (USA) (Alt).col" size="16384" crc="c4cfaaf8" md5="e777712eafedd220588e2ddbe062bbe2" sha1="491a086710845fbaa8bd2605de225e482fd877e3"/>
+	</machine>
+	<machine name="Space Fury (USA, Europe)">
+		<description>Space Fury (USA, Europe)</description>
+		<rom name="Space Fury (USA, Europe).col" size="16384" crc="df8de30f" md5="f821cf20b7faa5c2cb738cd8aa90dc95" sha1="f400e1e368ae420a97015674a28db91b4bea15a6"/>
+	</machine>
+	<machine name="Space Panic (USA, Europe)">
+		<description>Space Panic (USA, Europe)</description>
+		<rom name="Space Panic (USA, Europe).col" size="16384" crc="5bdf2997" md5="2a1f023ee4798230e59bfa14cf6c497a" sha1="530870501f322f1d72e820a722790d300f43a6de"/>
+	</machine>
+	<machine name="Squish'em Featuring Sam (USA) (Alt)">
+		<description>Squish'em Featuring Sam (USA) (Alt)</description>
+		<rom name="Squish'em Featuring Sam (USA) (Alt).col" size="16384" crc="6c82e0cc" md5="6db4f3854bccfe59dd628bbdd862420d" sha1="d4c1a98a35dc79727b6e8838b1b0815919496601"/>
+	</machine>
+	<machine name="Super Cross Force (USA, Europe)">
+		<description>Super Cross Force (USA, Europe)</description>
+		<rom name="Super Cross Force (USA, Europe).col" size="12288" crc="84350129" md5="633d8d532b8c2435ec6635be1fff1391" sha1="42a22d2314081450e8cb2a5e8ba4aa0987971063"/>
+	</machine>
+	<machine name="Threshold (USA)">
+		<description>Threshold (USA)</description>
+		<rom name="Threshold (USA).col" size="16384" crc="1593f7df" md5="e932f6f176f98f5fe85ced5401c51750" sha1="7f71c024d7d85627b893d28131d284dde25577b8"/>
+	</machine>
+	<machine name="Tournament Tennis (USA)">
+		<description>Tournament Tennis (USA)</description>
+		<rom name="Tournament Tennis (USA).col" size="16384" crc="c1d5a702" md5="b85e0c632b351c3d42a2be4198cfa663" sha1="0f113cda3b12253d1d42e994896db3f88a5b884d"/>
+	</machine>
+	<machine name="Venture (USA, Europe)">
+		<description>Venture (USA, Europe)</description>
+		<rom name="Venture (USA, Europe).col" size="16384" crc="8e5a4aa3" md5="ad22023a11a3bcb107610d2af5a6be77" sha1="9cf7e7439d1719152ed28c1123ae8ad68175412f"/>
+	</machine>
+	<machine name="War Room (USA)">
+		<description>War Room (USA)</description>
+		<rom name="War Room (USA).col" size="24576" crc="261b7d56" md5="0d59da8c315d22f58909c73b851299ee" sha1="031eaec9188105150460ff354fe50e22ce738c53"/>
+	</machine>
+	<machine name="Wing War (USA) (Alt)">
+		<description>Wing War (USA) (Alt)</description>
+		<rom name="Wing War (USA) (Alt).col" size="16384" crc="04eeef44" md5="35f537368236774c2e9d05b3048de6ca" sha1="e2b351b83cb85239d4a03b629dfd2f707cc54fd1"/>
+	</machine>
+	<machine name="Zaxxon (USA, Europe)">
+		<description>Zaxxon (USA, Europe)</description>
+		<rom name="Zaxxon (USA, Europe).col" size="24576" crc="8cb0891a" md5="7c677f80c4ee957559d7abebd8ee1be1" sha1="1733b3407939f5c37e39d5494abfa4137f500707"/>
+	</machine>
+</datafile>
