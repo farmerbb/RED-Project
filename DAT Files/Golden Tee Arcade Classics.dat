@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Golden Tee Arcade Classics</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://www.gog.com/en/game/golden_tee_arcade_classics</homepage>
+		<url>https://www.gog.com/en/game/golden_tee_arcade_classics</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="gt2k">
+		<description>Golden Tee 2K</description>
+		<rom name="gt2k_prom0_v1.00.prom0" size="524288" crc="b83d7b67" sha1="9e3c4f5d09ae63d75f4c9499b0a09acea7b022b2" region="maindata" offset="0"/>
+		<rom name="gt2k_prom1_v1.00.prom1" size="524288" crc="89bd952d" sha1="8b49610b9947dbc4cb3ab28f6aed31d8b848a2bf" region="maindata" offset="1"/>
+		<rom name="gt2k_prom2_v1.00.prom2" size="524288" crc="b603d283" sha1="dc02b4969f96a089766b07eb45a2eb6be6ae0aad" region="maindata" offset="2"/>
+		<rom name="gt2k_prom3_v1.00.prom3" size="524288" crc="85ba9e2d" sha1="f026d6dcf91848a40bcc9f9ba5e9262de33c30d1" region="maindata" offset="3"/>
+		<rom name="gt2knr_u88_v1.0.u88" size="131072" crc="2cee9e98" sha1="02edac7abab2335c1cd824d1d9b26aa32238a2de" region="soundcpu" offset="10000"/>
+		<rom name="gt2k_grom0_0.grm0_0" size="524288" crc="038a9a4c" sha1="a6fb0968d021717d867fe17e6d44eeee1f963728" region="grom" offset="0"/>
+		<rom name="gt2k_grom0_1.grm0_1" size="524288" crc="4d756218" sha1="12c132ce36e5c03fd8f3feb6046ee84c406bd173" region="grom" offset="1"/>
+		<rom name="gt2k_grom0_2.grm0_2" size="524288" crc="638f2797" sha1="d41a0429958950170fbe4b536eda80562625b49d" region="grom" offset="2"/>
+		<rom name="gt2k_grom0_3.grm0_3" size="524288" crc="ac551e1e" sha1="2fca150e34e8bcbcc26c6391e9e628666949288b" region="grom" offset="3"/>
+		<rom name="gt2k_grom1_0.grm1_0" size="524288" crc="8b79d6e2" sha1="b4aeac78a470bd8b9f557ded39775cb56f525cce" region="grom" offset="200000"/>
+		<rom name="gt2k_grom1_1.grm1_1" size="524288" crc="84ef1803" sha1="c4e2f0451a35874603cc767b4dbb566b2507ae39" region="grom" offset="200001"/>
+		<rom name="gt2k_grom1_2.grm1_2" size="524288" crc="d73d8afc" sha1="2fced1ee7dd11c6db07750f617356c6608ac0291" region="grom" offset="200002"/>
+		<rom name="gt2k_grom1_3.grm1_3" size="524288" crc="59f48688" sha1="37b2c84e487f4f3a9145bef34c573a3716b4a6a7" region="grom" offset="200003"/>
+		<rom name="gt2k_grom2_0.grm2_0" size="524288" crc="cc11b93f" sha1="f281448c8fa23595dd2664cc8c168565b60d4fc1" region="grom" offset="400000"/>
+		<rom name="gt2k_grom2_1.grm2_1" size="524288" crc="1c3a0126" sha1="3f9de1239dd64b9f50220842ffcf3e0f8928d2dc" region="grom" offset="400001"/>
+		<rom name="gt2k_grom2_2.grm2_2" size="524288" crc="97814df5" sha1="fcbb9ca08cbcef20231e602c99cd14e7905b2110" region="grom" offset="400002"/>
+		<rom name="gt2k_grom2_3.grm2_3" size="524288" crc="f0f7373f" sha1="6d71f338992598feffd9b4ac26bd0cf2f9edb53e" region="grom" offset="400003"/>
+		<rom name="gt2k_srom0_nr.srom0" size="1048576" crc="44983bd7" sha1="a6ac966ec113b079434d7f871e4ce7266206d234" region="ensoniq.0" offset="0"/>
+		<rom name="gt2k_srom1_nr.srom1" size="524288" crc="1b3f18b6" sha1="3b65de6a90c5ede183b5f8ca1875736bc1425772" region="ensoniq.0" offset="200000"/>
+	</machine>
+	<machine name="gt3d">
+		<description>Golden Tee 3D Golf</description>
+		<rom name="gtg3_prom0_v1.93n.prom0" size="524288" crc="cacacb44" sha1="747f48a52e140ab3e321b8f6a96f06bc70dc7cfa" region="maindata" offset="0"/>
+		<rom name="gtg3_prom1_v1.93n.prom1" size="524288" crc="4c172d7f" sha1="d4217d5d4d561e46e0213e6f8dc8d9a874f86877" region="maindata" offset="1"/>
+		<rom name="gtg3_prom2_v1.93n.prom2" size="524288" crc="b53fe6f0" sha1="4fbaa2f2a877c051b06ffa570e40156142d8e6bf" region="maindata" offset="2"/>
+		<rom name="gtg3_prom3_v1.93n.prom3" size="524288" crc="78468761" sha1="f3a785dffa5269b5dbd3aee63ed97fe8b8cdcc0e" region="maindata" offset="3"/>
+		<rom name="gtg3nr_u88_v1.0.u88" size="131072" crc="2cee9e98" sha1="02edac7abab2335c1cd824d1d9b26aa32238a2de" region="soundcpu" offset="10000"/>
+		<rom name="gtg3_grom0_0.grm0_0" size="524288" crc="1b10379d" sha1="b6d61771e2bc3909ea4229777867b217a3e9e580" region="grom" offset="0"/>
+		<rom name="gtg3_grom0_1.grm0_1" size="524288" crc="3b852e1a" sha1="4b3653d55c52fc2eb5438d1604247a8e68d569a5" region="grom" offset="1"/>
+		<rom name="gtg3_grom0_2.grm0_2" size="524288" crc="d43ffb35" sha1="748be07e03bbbb40cd7a725c708cacc46f33d9ca" region="grom" offset="2"/>
+		<rom name="gtg3_grom0_3.grm0_3" size="524288" crc="2d24e93e" sha1="505272c1a509d013c2ce9fb8e8e0ac88870d74e7" region="grom" offset="3"/>
+		<rom name="gtg3_grom1_0.grm1_0" size="524288" crc="4476b239" sha1="71b8258ca94859eb4bdf83b855a87aff79d3df2b" region="grom" offset="200000"/>
+		<rom name="gtg3_grom1_1.grm1_1" size="524288" crc="0aadfad2" sha1="56a283b30a13b77ec53b7ae2b4129d44b7fa25d4" region="grom" offset="200001"/>
+		<rom name="gtg3_grom1_2.grm1_2" size="524288" crc="27871980" sha1="fe473d12cb4805e25dcac8f9ae187891936b961b" region="grom" offset="200002"/>
+		<rom name="gtg3_grom1_3.grm1_3" size="524288" crc="7dbc242b" sha1="9aa5074cad633446e0110a1a3d9c6e1f2158070a" region="grom" offset="200003"/>
+		<rom name="gtg3_grom2_0_t.grm2_0" size="524288" crc="80ae7148" sha1="e19d3390a2a0dad260d770fdbbb64d1f8e43d53f" region="grom" offset="400000"/>
+		<rom name="gtg3_grom2_1_t.grm2_1" size="524288" crc="0f85a618" sha1="d9ced21c20f9ed6b7f19e7645d75b239ea709b79" region="grom" offset="400001"/>
+		<rom name="gtg3_grom2_2_t.grm2_2" size="524288" crc="09ca5fbf" sha1="6a6ed4d5d76035d8acc33c6494fba6012194362e" region="grom" offset="400002"/>
+		<rom name="gtg3_grom2_3_t.grm2_3" size="524288" crc="d136853a" sha1="0777d6bfab9e3d57c2a61d058fd185fc1f547698" region="grom" offset="400003"/>
+		<rom name="gtg3_srom0_nr.srom0" size="1048576" crc="44983bd7" sha1="a6ac966ec113b079434d7f871e4ce7266206d234" region="ensoniq.0" offset="0"/>
+		<rom name="gtg3_srom1_nr.srom1" size="524288" crc="1b3f18b6" sha1="3b65de6a90c5ede183b5f8ca1875736bc1425772" region="ensoniq.0" offset="200000"/>
+	</machine>
+	<machine name="gt97">
+		<description>Golden Tee '97</description>
+		<rom name="gt97_prom0_v1.30.prom0" size="524288" crc="7490ba4e" sha1="b833d4175617727b3dc80e242457996a2efb844c" region="maindata" offset="0"/>
+		<rom name="gt97_prom1_v1.30.prom1" size="524288" crc="71f9c5f3" sha1="c472aa1bcc217656f409614b73f0b7662215c202" region="maindata" offset="1"/>
+		<rom name="gt97_prom2_v1.30.prom2" size="524288" crc="8292b51a" sha1="f8167b0aef87fb286006a17043de041c71afe41d" region="maindata" offset="2"/>
+		<rom name="gt97_prom3_v1.30.prom3" size="524288" crc="64539f72" sha1="58fccee17987cb010d9b7f3b8f060a1b1040b21f" region="maindata" offset="3"/>
+		<rom name="gt97nr_u88_v1.0.u88" size="131072" crc="2cee9e98" sha1="02edac7abab2335c1cd824d1d9b26aa32238a2de" region="soundcpu" offset="10000"/>
+		<rom name="gt97_grom0_0.grm0_0" size="524288" crc="81784aaf" sha1="9544ed2087ca5f71c747e3b782513614937a51ed" region="grom" offset="0"/>
+		<rom name="gt97_grom0_1.grm0_1" size="524288" crc="345bda44" sha1="b6d66c99bd68396e1e94ece76989a6190571ae14" region="grom" offset="1"/>
+		<rom name="gt97_grom0_2.grm0_2" size="524288" crc="b2beb40d" sha1="2b955919e7e5f9093eb3a856f93c39684437b371" region="grom" offset="2"/>
+		<rom name="gt97_grom0_3.grm0_3" size="524288" crc="7cef32ff" sha1="614c6aa26398d054a087dfe5e75cef78e6096f30" region="grom" offset="3"/>
+		<rom name="gt97_grom1_0.grm1_0" size="524288" crc="1cc4c309" sha1="ef15f663ad1ea14c25f08fb6c1d5a58a38834ae6" region="grom" offset="200000"/>
+		<rom name="gt97_grom1_1.grm1_1" size="524288" crc="512cea45" sha1="03b229317c8f357fa2d2ead93bf519251edc6605" region="grom" offset="200001"/>
+		<rom name="gt97_grom1_2.grm1_2" size="524288" crc="0599b505" sha1="13078eae4051b3a4c1955cc246e58ef51ee2e53a" region="grom" offset="200002"/>
+		<rom name="gt97_grom1_3.grm1_3" size="524288" crc="257eacc9" sha1="2d03c38965930c4c1da4aa86583bb19c5f135100" region="grom" offset="200003"/>
+		<rom name="gt97_grom2_0.grm2_0" size="524288" crc="95b6e7ee" sha1="c27f69f69927e75ec8cba0df5c12e10418a53bbc" region="grom" offset="400000"/>
+		<rom name="gt97_grom2_1.grm2_1" size="524288" crc="afd558b4" sha1="0571bfc2b0131cdd62f92641dd1acf7b10ae09d8" region="grom" offset="400001"/>
+		<rom name="gt97_grom2_2.grm2_2" size="524288" crc="5b7a8733" sha1="e0a947ebabc8e6ab23b375afef49cd4be7d6d570" region="grom" offset="400002"/>
+		<rom name="gt97_grom2_3.grm2_3" size="524288" crc="72e8ae60" sha1="410da9970c50021f1724c8c51678691322eece92" region="grom" offset="400003"/>
+		<rom name="gt97_srom0_nr.srom0" size="1048576" crc="44983bd7" sha1="a6ac966ec113b079434d7f871e4ce7266206d234" region="ensoniq.0" offset="0"/>
+		<rom name="gt97_srom1_nr.srom1" size="524288" crc="1b3f18b6" sha1="3b65de6a90c5ede183b5f8ca1875736bc1425772" region="ensoniq.0" offset="200000"/>
+	</machine>
+	<machine name="gt98">
+		<description>Golden Tee '98</description>
+		<rom name="gt98_prom0_v1.10.prom0" size="524288" crc="dd93ab2a" sha1="b7eb6331f781422d6d46babcc24a85ae36b25914" region="maindata" offset="0"/>
+		<rom name="gt98_prom1_v1.10.prom1" size="524288" crc="6ea92960" sha1="05d22ad6c6027afe7ebb3bc7c70f58d840ed3d4e" region="maindata" offset="1"/>
+		<rom name="gt98_prom2_v1.10.prom2" size="524288" crc="27a8a15f" sha1="f1eb7b24f9cb77877ceaa033abfde124e159cb2b" region="maindata" offset="2"/>
+		<rom name="gt98_prom3_v1.10.prom3" size="524288" crc="d61f2bb2" sha1="6eb9f779b78ef396eff6dbc25fd6dba128c77124" region="maindata" offset="3"/>
+		<rom name="gt98nr_u88_v1.0.u88" size="131072" crc="2cee9e98" sha1="02edac7abab2335c1cd824d1d9b26aa32238a2de" region="soundcpu" offset="10000"/>
+		<rom name="gt98_grom0_0.grm0_0" size="524288" crc="2d79492b" sha1="16d66d937c34ddf616f31cba0d285326a31cad85" region="grom" offset="0"/>
+		<rom name="gt98_grom0_1.grm0_1" size="524288" crc="79afda1a" sha1="77a9883f14b58ceece9c76ce88bb900bc4accf25" region="grom" offset="1"/>
+		<rom name="gt98_grom0_2.grm0_2" size="524288" crc="8c381f56" sha1="41a5b70f9e524a1cade031f864350ec75c08c956" region="grom" offset="2"/>
+		<rom name="gt98_grom0_3.grm0_3" size="524288" crc="46c35ba6" sha1="a1976dd8710442cdb92c47f778acacba4380731b" region="grom" offset="3"/>
+		<rom name="gt98_grom1_0.grm1_0" size="524288" crc="b07bc634" sha1="48a9aeafaf844374d129d209884ec3a23abe249f" region="grom" offset="200000"/>
+		<rom name="gt98_grom1_1.grm1_1" size="524288" crc="b23d59a7" sha1="be68da263691e297b266e81485f5f28a5a5ad2f2" region="grom" offset="200001"/>
+		<rom name="gt98_grom1_2.grm1_2" size="524288" crc="9c113abc" sha1="8cb23da237dce73bbd283662c6344876d1c352f3" region="grom" offset="200002"/>
+		<rom name="gt98_grom1_3.grm1_3" size="524288" crc="231bbe58" sha1="b662a2ffd881a22ec0503810dca8bd61a4994463" region="grom" offset="200003"/>
+		<rom name="gt98_grom2_0.grm2_0" size="524288" crc="db5cec87" sha1="831cebd0c90c118d007b737b2eb5fb374a86cf4b" region="grom" offset="400000"/>
+		<rom name="gt98_grom2_1.grm2_1" size="524288" crc="c74fc7d3" sha1="38581876d4557f79acbc2c639bd4188a49d3b7cc" region="grom" offset="400001"/>
+		<rom name="gt98_grom2_2.grm2_2" size="524288" crc="1227609d" sha1="5a586d2383c9090ff3847abd2c645354dacd400f" region="grom" offset="400002"/>
+		<rom name="gt98_grom2_3.grm2_3" size="524288" crc="78745131" sha1="c430be4cb650f1f6265406ca8fcad8df809282f5" region="grom" offset="400003"/>
+		<rom name="gt98_srom0_nr.srom0" size="1048576" crc="44983bd7" sha1="a6ac966ec113b079434d7f871e4ce7266206d234" region="ensoniq.0" offset="0"/>
+		<rom name="gt98_srom1_nr.srom1" size="524288" crc="1b3f18b6" sha1="3b65de6a90c5ede183b5f8ca1875736bc1425772" region="ensoniq.0" offset="200000"/>
+	</machine>
+	<machine name="gt99">
+		<description>Golden Tee '99</description>
+		<rom name="gt99_prom0_v1.00.prom0" size="524288" crc="1ca05267" sha1="431788db68122df5b6c0642ffc84954fb3043295" region="maindata" offset="0"/>
+		<rom name="gt99_prom1_v1.00.prom1" size="524288" crc="4fb757fa" sha1="9efa6f933b20e5a6de9a5da3c0197cf29c8f1df2" region="maindata" offset="1"/>
+		<rom name="gt99_prom2_v1.00.prom2" size="524288" crc="3eb2b13a" sha1="6b6b79c7f07cc345f392d12625548c8fae6a1d42" region="maindata" offset="2"/>
+		<rom name="gt99_prom3_v1.00.prom3" size="524288" crc="03454e7d" sha1="be885433830976b6c684e944f1d3a96d261b27f2" region="maindata" offset="3"/>
+		<rom name="gt99nr_u88_v1.0.u88" size="131072" crc="2cee9e98" sha1="02edac7abab2335c1cd824d1d9b26aa32238a2de" region="soundcpu" offset="10000"/>
+		<rom name="gt99_grom0_0.grm0_0" size="524288" crc="038a9a4c" sha1="a6fb0968d021717d867fe17e6d44eeee1f963728" region="grom" offset="0"/>
+		<rom name="gt99_grom0_1.grm0_1" size="524288" crc="4d756218" sha1="12c132ce36e5c03fd8f3feb6046ee84c406bd173" region="grom" offset="1"/>
+		<rom name="gt99_grom0_2.grm0_2" size="524288" crc="638f2797" sha1="d41a0429958950170fbe4b536eda80562625b49d" region="grom" offset="2"/>
+		<rom name="gt99_grom0_3.grm0_3" size="524288" crc="ac551e1e" sha1="2fca150e34e8bcbcc26c6391e9e628666949288b" region="grom" offset="3"/>
+		<rom name="gt99_grom1_0.grm1_0" size="524288" crc="8b79d6e2" sha1="b4aeac78a470bd8b9f557ded39775cb56f525cce" region="grom" offset="200000"/>
+		<rom name="gt99_grom1_1.grm1_1" size="524288" crc="84ef1803" sha1="c4e2f0451a35874603cc767b4dbb566b2507ae39" region="grom" offset="200001"/>
+		<rom name="gt99_grom1_2.grm1_2" size="524288" crc="d73d8afc" sha1="2fced1ee7dd11c6db07750f617356c6608ac0291" region="grom" offset="200002"/>
+		<rom name="gt99_grom1_3.grm1_3" size="524288" crc="59f48688" sha1="37b2c84e487f4f3a9145bef34c573a3716b4a6a7" region="grom" offset="200003"/>
+		<rom name="gt99_grom2_0.grm2_0" size="524288" crc="693d9d68" sha1="c8f0a5ca72b239aed8150a79f330b109bd6c3d95" region="grom" offset="400000"/>
+		<rom name="gt99_grom2_1.grm2_1" size="524288" crc="2c0b8b8c" sha1="f36c40b29ad9a4849f12eaa79c6b26aa85ca6ee9" region="grom" offset="400001"/>
+		<rom name="gt99_grom2_2.grm2_2" size="524288" crc="ba1b5961" sha1="d9078653edafb1aaabf2fe040b77a194b3a34863" region="grom" offset="400002"/>
+		<rom name="gt99_grom2_3.grm2_3" size="524288" crc="cfccd5c2" sha1="6d87675e9cdaebc801a6f52688e0a142f578d36d" region="grom" offset="400003"/>
+		<rom name="gt99_srom0_nr.srom0" size="1048576" crc="44983bd7" sha1="a6ac966ec113b079434d7f871e4ce7266206d234" region="ensoniq.0" offset="0"/>
+		<rom name="gt99_srom1_nr.srom1" size="524288" crc="1b3f18b6" sha1="3b65de6a90c5ede183b5f8ca1875736bc1425772" region="ensoniq.0" offset="200000"/>
+	</machine>
+	<machine name="gtclassc">
+		<description>Golden Tee Classic</description>
+		<rom name="gt_classic_prom0_v1.00.prom0" size="524288" crc="a57e6ef0" sha1="9a67b8d9314a774654f89343df2e6a6fd3cfef01" region="maindata" offset="0"/>
+		<rom name="gt_classic_prom1_v1.00.prom1" size="524288" crc="15f8a831" sha1="982675b26f5f19aaf7d8adc73474e05dd82c56a3" region="maindata" offset="1"/>
+		<rom name="gt_classic_prom2_v1.00.prom2" size="524288" crc="2f260a93" sha1="b953e003a588e6c1d7d7c065afd6cdfefb526642" region="maindata" offset="2"/>
+		<rom name="gt_classic_prom3_v1.00.prom3" size="524288" crc="03a1fcdd" sha1="6cf96de58231a3734adc272c2631d09b93eca8ad" region="maindata" offset="3"/>
+		<rom name="gt_classicnr_u88_v1.0.u88" size="131072" crc="2cee9e98" sha1="02edac7abab2335c1cd824d1d9b26aa32238a2de" region="soundcpu" offset="10000"/>
+		<rom name="gt_classic_grom0_0.grm0_0" size="524288" crc="038a9a4c" sha1="a6fb0968d021717d867fe17e6d44eeee1f963728" region="grom" offset="0"/>
+		<rom name="gt_classic_grom0_1.grm0_1" size="524288" crc="4d756218" sha1="12c132ce36e5c03fd8f3feb6046ee84c406bd173" region="grom" offset="1"/>
+		<rom name="gt_classic_grom0_2.grm0_2" size="524288" crc="638f2797" sha1="d41a0429958950170fbe4b536eda80562625b49d" region="grom" offset="2"/>
+		<rom name="gt_classic_grom0_3.grm0_3" size="524288" crc="ac551e1e" sha1="2fca150e34e8bcbcc26c6391e9e628666949288b" region="grom" offset="3"/>
+		<rom name="gt_classic_grom1_0.grm1_0" size="524288" crc="8b79d6e2" sha1="b4aeac78a470bd8b9f557ded39775cb56f525cce" region="grom" offset="200000"/>
+		<rom name="gt_classic_grom1_1.grm1_1" size="524288" crc="84ef1803" sha1="c4e2f0451a35874603cc767b4dbb566b2507ae39" region="grom" offset="200001"/>
+		<rom name="gt_classic_grom1_2.grm1_2" size="524288" crc="d73d8afc" sha1="2fced1ee7dd11c6db07750f617356c6608ac0291" region="grom" offset="200002"/>
+		<rom name="gt_classic_grom1_3.grm1_3" size="524288" crc="59f48688" sha1="37b2c84e487f4f3a9145bef34c573a3716b4a6a7" region="grom" offset="200003"/>
+		<rom name="gt_classic_grom2_0.grm2_0" size="524288" crc="c4f54398" sha1="08e57ef5cb56c793edc677d53b2e036acf558564" region="grom" offset="400000"/>
+		<rom name="gt_classic_grom2_1.grm2_1" size="524288" crc="2c1f83cf" sha1="a5a8724c59177fbf2a676ece0e93a08a3a1b0d68" region="grom" offset="400001"/>
+		<rom name="gt_classic_grom2_2.grm2_2" size="524288" crc="607657a6" sha1="705e8c6878e9b2f4da510c198f7ac8987869fce3" region="grom" offset="400002"/>
+		<rom name="gt_classic_grom2_3.grm2_3" size="524288" crc="7ad615c1" sha1="b5360885f775ba5e5e13fa624091cca6e3e6948a" region="grom" offset="400003"/>
+		<rom name="gt_classic_srom0.nr" size="1048576" crc="44983bd7" sha1="a6ac966ec113b079434d7f871e4ce7266206d234" region="ensoniq.0" offset="0"/>
+		<rom name="gt_classic_srom1.nr" size="524288" crc="1b3f18b6" sha1="3b65de6a90c5ede183b5f8ca1875736bc1425772" region="ensoniq.0" offset="200000"/>
+	</machine>
+	<machine name="shufshot">
+		<description>Shuffleshot</description>
+		<rom name="shot_prom0_v1.40.prom0" size="131072" crc="33c0c98b" sha1="9960a1e8131e5dde33450560665f315e5a97dc05" region="maindata" offset="0"/>
+		<rom name="shot_prom1_v1.40.prom1" size="131072" crc="d30a8831" sha1="3a7937b542f703dfc2ae74b6fdb2ac6a8e22bdbd" region="maindata" offset="1"/>
+		<rom name="shot_prom2_v1.40.prom2" size="131072" crc="ea10ada8" sha1="e8167def9929876f6d2b4771b265114d9b04136e" region="maindata" offset="2"/>
+		<rom name="shot_prom3_v1.40.prom3" size="131072" crc="4b28f28b" sha1="602e230cc69ae872e40d72c85ec66f111826c15e" region="maindata" offset="3"/>
+		<rom name="shotsnd_u88_v1.1.u88" size="131072" crc="e37d599d" sha1="105f91e968ecf553d910a97726ddc536289bbb2b" region="soundcpu" offset="10000"/>
+		<rom name="shf_grom0_0.grm0_0" size="524288" crc="832a3d6a" sha1="443328fa61b79c93ec6c9d24893b2ec38358a905" region="grom" offset="0"/>
+		<rom name="shf_grom0_1.grm0_1" size="524288" crc="155e48a2" sha1="187d65423ff9a3d6b6c34c885a1b2397fa5371cf" region="grom" offset="1"/>
+		<rom name="shf_grom0_2.grm0_2" size="524288" crc="9f2b470d" sha1="012e917856042cbe00d476e3220a7f9c841bd199" region="grom" offset="2"/>
+		<rom name="shf_grom0_3.grm0_3" size="524288" crc="3855a16a" sha1="f8c03efab87ddcb6940f657ad1f0138ceaa2118e" region="grom" offset="3"/>
+		<rom name="shf_grom1_0.grm1_0" size="524288" crc="ed140389" sha1="f438a887b44a277f81e954bef73ac478eaff58c8" region="grom" offset="200000"/>
+		<rom name="shf_grom1_1.grm1_1" size="524288" crc="bd2ffbca" sha1="667692ce61a4896ceecf2a2bb37f742f175a6152" region="grom" offset="200001"/>
+		<rom name="shf_grom1_2.grm1_2" size="524288" crc="c6de4187" sha1="4854604330bb14f862abe22d755e08b54e0b1a04" region="grom" offset="200002"/>
+		<rom name="shf_grom1_3.grm1_3" size="524288" crc="0c707aa2" sha1="1da83523e04eeae4dbc8748a31a074331bf975d1" region="grom" offset="200003"/>
+		<rom name="shf_grom2_0.grm2_0" size="524288" crc="529b4259" sha1="4f98f28c83c3f8f822ea45d31be526af4a504cbc" region="grom" offset="400000"/>
+		<rom name="shf_grom2_1.grm2_1" size="524288" crc="4b52ab1a" sha1="5c438df7f2edea8f4d8734408fd94acf9d340755" region="grom" offset="400001"/>
+		<rom name="shf_grom2_2.grm2_2" size="524288" crc="f45fad03" sha1="3ff062928ef5bcdce8748ddd972c5da67207227a" region="grom" offset="400002"/>
+		<rom name="shf_grom2_3.grm2_3" size="524288" crc="1bcb26c8" sha1="49e730c56c4a3171a2962fa65f3b16481590c636" region="grom" offset="400003"/>
+		<rom name="shfa_grom3_0.grm3_0" size="524288" crc="c5afc9d1" sha1="db1f1559b26d2a7c21486f005fffae16e74af1c6" region="grom" offset="600000"/>
+		<rom name="shfa_grom3_1.grm3_1" size="524288" crc="70dd7b68" sha1="305bfcefb24f68bed4055c0e8819c31c95f7f853" region="grom" offset="600001"/>
+		<rom name="shfa_grom3_2.grm3_2" size="524288" crc="da56512d" sha1="dce114b079ff06693a8ec8247c3d4e87969d686f" region="grom" offset="600002"/>
+		<rom name="shfa_grom3_3.grm3_3" size="524288" crc="21727c50" sha1="db7f16f045f04b3bcb4b968344bc2eb641658add" region="grom" offset="600003"/>
+		<rom name="shf_srom0.srom0" size="524288" crc="9a3cb6c9" sha1="2af3ce3b1cd7688199195a66cf01bb83775d42fa" region="ensoniq.0" offset="0"/>
+		<rom name="shf_srom1.srom1" size="524288" crc="8c89948a" sha1="1054eca5de352c17f34f31ef16297ba6177a37ba" region="ensoniq.0" offset="200000"/>
+	</machine>
+	<machine name="wcbowldx">
+		<description>World Class Bowling Deluxe</description>
+		<rom name="wcbd_prom0_2.00.prom0" size="131072" crc="280df7f0" sha1="dacffe8fc21263093b0f4a4fbf444abd49afbff1" region="maindata" offset="0"/>
+		<rom name="wcbd_prom1_2.00.prom1" size="131072" crc="526eded0" sha1="106d5503ed4db2411e1f3446d613eac525a8a9cc" region="maindata" offset="1"/>
+		<rom name="wcbd_prom2_2.00.prom2" size="131072" crc="cb263173" sha1="66acafaa9aba375124921774efc152e2a298a464" region="maindata" offset="2"/>
+		<rom name="wcbd_prom3_2.00.prom3" size="131072" crc="43ecad0b" sha1="890a843c162c052a790e432db10f968875be835c" region="maindata" offset="3"/>
+		<rom name="wcbsnd_u88_4.01.u88" merge="wcbsnd_u88_4.01.u88" size="131072" crc="e97a6d28" sha1="96d7b7856918abcc460083f2a46582ba2a689288" region="soundcpu" offset="10000"/>
+		<rom name="wcbd_grom0_0_s.grm0_0" merge="wcb_grom0_0_s.grm0_0" size="524288" crc="6fcb4246" sha1="91fb5d18ea9494b08251d1e611c80414df3aad66" region="grom" offset="0"/>
+		<rom name="wcbd_grom0_1_s.grm0_1" merge="wcb_grom0_1_s.grm0_1" size="524288" crc="2ae31f45" sha1="85218aa9a7ca7c6870427ffbd08b78255813ff90" region="grom" offset="1"/>
+		<rom name="wcbd_grom0_2_s.grm0_2" merge="wcb_grom0_2_s.grm0_2" size="524288" crc="bccc0f35" sha1="2389662e881e86f8cdb36eb2a082923d976676c8" region="grom" offset="2"/>
+		<rom name="wcbd_grom0_3_s.grm0_3" merge="wcb_grom0_3_s.grm0_3" size="524288" crc="ab1da462" sha1="3f3a4a083483d2d95d5ef540eea077cad799fcb7" region="grom" offset="3"/>
+		<rom name="wcbd_grom1_0_s.grm1_0" merge="wcb_grom1_0_s.grm1_0" size="524288" crc="bdfafd1f" sha1="bc0e6fe83d3f8e88c2e55ba3a436875d5470de5b" region="grom" offset="200000"/>
+		<rom name="wcbd_grom1_1_s.grm1_1" merge="wcb_grom1_1_s.grm1_1" size="524288" crc="7d6baa2e" sha1="c47854b064aa96d2581c23afe13cd05a36f9dae3" region="grom" offset="200001"/>
+		<rom name="wcbd_grom1_2_s.grm1_2" merge="wcb_grom1_2_s.grm1_2" size="524288" crc="7513d3de" sha1="b17650ed5210860c3bde53647a30f8fce67aaa38" region="grom" offset="200002"/>
+		<rom name="wcbd_grom1_3_s.grm1_3" merge="wcb_grom1_3_s.grm1_3" size="524288" crc="e46877e6" sha1="f50c904ec5b2b8cbc92f2b28641433c91ee17af5" region="grom" offset="200003"/>
+		<rom name="wcbd_grom2_0_s.grm2_0" size="262144" crc="3b4c5a5c" sha1="152cbc5d1aa84012f49fa13d91fd89a10f874508" region="grom" offset="400000"/>
+		<rom name="wcbd_grom2_1_s.grm2_1" size="262144" crc="ed0b9b26" sha1="5173e3936cae419255b3034e2b8a69f6bd136b93" region="grom" offset="400001"/>
+		<rom name="wcbd_grom2_2_s.grm2_2" size="262144" crc="4b9e345e" sha1="6842a8a6690db8478bdbb8e8119d3eef5e77439b" region="grom" offset="400002"/>
+		<rom name="wcbd_grom2_3_s.grm2_3" size="262144" crc="4e13ee7a" sha1="245ce87cd6839119a9a976b9a90cd1028aa3e291" region="grom" offset="400003"/>
+		<rom name="wcb_srom0_s.srom0" merge="wcb_srom0_s.srom0" size="524288" crc="d42dd283" sha1="8ef75c398d1c51d2d7d299ac309a2352179864d9" region="ensoniq.0" offset="0"/>
+		<rom name="wcb_srom1_s.srom1" merge="wcb_srom1_s.srom1" size="524288" crc="7a69ab54" sha1="d1f9194446e235af69c6ff28af0dccc44ab9b5d3" region="ensoniq.0" offset="200000"/>
+		<rom name="wcb_srom2_s.srom2" merge="wcb_srom2_s.srom2" size="524288" crc="346530a2" sha1="9951971ad6d368fb718027e18331d12f0a72970c" region="ensoniq.1" offset="0"/>
+		<rom name="wcb_srom3_s.srom3" merge="wcb_srom3_s.srom3" size="262144" crc="1dfe3a31" sha1="94947f495692288fbf14fc7796a84c5548a2e8a8" region="ensoniq.1" offset="200000"/>
+	</machine>
+</datafile>
