@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Mega Man Legacy Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/363440/Mega_Man_Legacy_Collection/</homepage>
+		<url>https://store.steampowered.com/app/363440/Mega_Man_Legacy_Collection/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Rockman1">
+		<description>Rockman 1 (J)</description>
+		<rom name="Rockman 1 (J).nes" size="131088" crc="77d3c5f8" md5="31b6014705c24cc87dde2273278f1cd0" sha1="a62f997da28e2776dc4fe7b6a32f9179e971e4c0" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="MegaMan1">
+		<description>Mega Man 1 (U) (Legacy Collection)</description>
+		<rom name="Mega Man 1 (U) (Legacy Collection).nes" size="131088" crc="b889deea" md5="25c0027afe1f960d5f48878b272b677c" sha1="fd7690e5ef2693fc30ec80062f7e4060e4fd33e5" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="Rockman2">
+		<description>Rockman 2 (J)</description>
+		<rom name="Rockman 2 (J).nes" size="262160" crc="ee7f1751" md5="4c992bbddcc0702e531eb8c9dad78e53" sha1="883ccf8256558b783bd3ac85492f9001cfdaa54d" header="4E 45 53 1A 10 00 10 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="MegaMan2">
+		<description>Mega Man 2 (U) (Legacy Collection)</description>
+		<rom name="Mega Man 2 (U) (Legacy Collection).nes" size="262160" crc="4072a491" md5="8d2bd80a536a628725f56de750fa3aa9" sha1="61fcaf303709f87df7ab1ae9a225b9934c9d2704" header="4E 45 53 1A 10 00 10 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="Rockman3">
+		<description>Rockman 3 (J)</description>
+		<rom name="Rockman 3 (J).nes" size="393232" crc="fcd80415" md5="b24d6fb41b89a7575093ba27882ec018" sha1="df033bec111bbd9466bc972cfabb79770bd27576" header="4E 45 53 1A 10 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="MegaMan3">
+		<description>Mega Man 3 (U) (Legacy Collection)</description>
+		<rom name="Mega Man 3 (U) (Legacy Collection).nes" size="393232" crc="7cbfc9bc" md5="e7d60d6e1eb6ee8da8eae261466f87ec" sha1="1e0d2578a3aa26320760f7ff04ef17c83873c727" header="4E 45 53 1A 10 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="Rockman4">
+		<description>Rockman 4 (J)</description>
+		<rom name="Rockman 4 (J).nes" size="524304" crc="9378fdb4" md5="75e1d0a0b90c1099be6a650d5cd6e205" sha1="8783fd948330a130ba2074f3dff435d479b6a19c" header="4E 45 53 1A 20 00 40 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="MegaMan4">
+		<description>Mega Man 4 (U) (Legacy Collection)</description>
+		<rom name="Mega Man 4 (U) (Legacy Collection).nes" size="524304" crc="6db3d71f" md5="96311ba196bb5ba1f59a2bd23215e76f" sha1="fe3a72adfc1e0094c1655e11331530c1958c3e10" header="4E 45 53 1A 20 00 40 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="Rockman5">
+		<description>Rockman 5 (J)</description>
+		<rom name="Rockman 5 (J).nes" size="524304" crc="7e9259bf" md5="a850e746c243b873c6e558605b378908" sha1="1616c4b3b25b6dbb14eee506f0eca32e7e477f3b" header="4E 45 53 1A 10 20 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="MegaMan5">
+		<description>Mega Man 5 (U) (Legacy Collection)</description>
+		<rom name="Mega Man 5 (U) (Legacy Collection).nes" size="524304" crc="ebf521a2" md5="f5d14b2570b1a715b63caf191c774b63" sha1="f4c62aee99978484a1e9238c299addd1d4514eb0" header="4E 45 53 1A 10 20 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="Rockman6">
+		<description>Rockman 6 (J)</description>
+		<rom name="Rockman 6 (J).nes" size="524304" crc="4f7f15f5" md5="d9a4eed8b3c13a6bd74b2e9d20385afb" sha1="a1457985695066da2e3748eabaeb86e1adf78311" header="4E 45 53 1A 20 00 40 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="MegaMan6">
+		<description>Mega Man 6 (U) (Legacy Collection)</description>
+		<rom name="Mega Man 6 (U) (Legacy Collection).nes" size="524304" crc="bede169e" md5="d5f9c0eb0a2fb45d15965813b737b939" sha1="8dd6ba340a1289c7e89fa54bf9065b4abaf64e19" header="4E 45 53 1A 20 00 40 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+</datafile>
