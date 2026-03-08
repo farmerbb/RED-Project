@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Gimmick! Special Edition</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/2131800/Gimmick_Special_Edition/</homepage>
+		<url>https://store.steampowered.com/app/2131800/Gimmick_Special_Edition/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Gimmick">
+		<description>Gimmick! Special Edition</description>
+		<rom name="Gimmick.nes" size="393232" crc="ee8879d5" md5="5ff815533e1044d2c1035a65be37f8f1" sha1="bb19be49dad26236b03c91d086e90abdbc94da1d" header="4E 45 53 1A 10 10 50 48 00 00 00 00 00 00 00 01"/>
+	</machine>
+</datafile>
