@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bubsy Two-Fur</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/426630/Bubsy_TwoFur/</homepage>
+		<url>https://store.steampowered.com/app/426630/Bubsy_TwoFur/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="789C">
+		<description>Select game (USA)</description>
+		<rom name="bubsy_0" size="262144" crc="a0f1ea97" md5="bd40d25691872d6324b5cae99a90ba0e" sha1="ebca69fde1658b9f197acc1b5d12e621ccea3b6a"/>
+	</machine>
+	<machine name="795A">
+		<description>Bubsy in: Claws Encounters of the Furred Kind</description>
+		<rom name="bubsy_1" size="2097152" crc="c19f0876" md5="8cba8604cf93352dbf518592f67204c1" sha1="e6bad5b0708b16d898ba3fe848baa5451824f3aa"/>
+	</machine>
+	<machine name="3F6C">
+		<description>BUBSY II (USA)</description>
+		<rom name="bubsy_2" size="2097152" crc="9582f89f" md5="b7dcd461c6c7e97e4254daf0888b27c3" sha1="1f4cb2040b793179d5ba219d366363816558306b"/>
+	</machine>
+</datafile>
