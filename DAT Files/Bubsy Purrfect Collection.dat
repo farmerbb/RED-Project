@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bubsy in: The Purrfect Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/3039890/Bubsy_in_The_Purrfect_Collection/</homepage>
+		<url>https://store.steampowered.com/app/3039890/Bubsy_in_The_Purrfect_Collection/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Bubsy (USA)">
+		<description>Bubsy in: Claws Encounters of the Furred Kind</description>
+		<rom name="Bubsy1SNES.sfc" size="2097152" crc="2526fd7a" md5="da9e1ba86705de2a09dbed9c69e0bced" sha1="6e461b93f82d2c7271e92df080ed98f86e0af0f9"/>
+	</machine>
+	<machine name="Bubsy (Japan)">
+		<description>Bubsy in: Claws Encounters of the Furred Kind</description>
+		<rom name="BubsyJP.sfc" size="2097152" crc="2ccf2681" md5="acef13f027de29098660d7b9ce4366f5" sha1="02ba5662fb33e846e6160a95735312b8c45881a6"/>
+	</machine>
+	<machine name="Bubsy (World)">
+		<description>Bubsy in: Claws Encounters of the Furred Kind</description>
+		<rom name="Bubsy1GEN.md" size="2097152" crc="92ed7344" md5="eadd7ba6a8e3afad2b7da85d52a44970" sha1="804b32ec216bdc1ca2aad33af7e4bd0a324d82f2"/>
+	</machine>
+	<machine name="BUBSY II">
+		<description>BUBSY II</description>
+		<rom name="Bubsy2GB.gb" size="262144" crc="52436a3d" md5="3a26bd9e9e3bf4f52b4803934071f71d" sha1="1fb725f0ae0e63a218ef2c41e39aae2243d47282"/>
+	</machine>
+	<machine name="BUBSY 2 (World)">
+		<description>BUBSY 2 (World)</description>
+		<rom name="Bubsy2GEN.md" size="2097152" crc="0c3eb60d" md5="dbc476a44579ae16799d5d52cffb48bb" sha1="d6d8ba8fe300d0b360a5c0e389cf66807e834081"/>
+	</machine>
+	<machine name="BUBSY II (USA)">
+		<description>BUBSY II (USA)</description>
+		<rom name="Bubsy2SNES.sfc" size="2097152" crc="da10bca5" md5="bf457c617fe0fa2ede2c51afe011a28c" sha1="d7ee2cb172ad6e8ea3604a4a2c1a02487719ef7a"/>
+	</machine>
+	<machine name="BubsyJAG">
+		<description>Bubsy in: Fractured Furry Tales</description>
+		<rom name="BubsyJAG.j64" size="2097152" crc="2e17d5da" md5="c3ad2c75c5339125661845720da3895d" sha1="752d6e1ed185f9db49230f42319a573a44e32397"/>
+	</machine>
+	<machine name="BUBSY_3D">
+		<description>Bubsy 3D - Furbitten Planet</description>
+		<rom name="Bubsy 3D - Furbitten Planet.bin" size="742658112" crc="0a5e646c" md5="9ca7ad7f64c462fe51e816b732a34c01" sha1="2d8ee0d6e7c2bd0364451e2c8c98fd57f7fd3994"/>
+	</machine>
+</datafile>
