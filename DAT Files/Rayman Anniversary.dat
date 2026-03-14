@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Rayman: 30th Anniversary Edition</name>
+		<description></description>
+		<category>Standard DatFile</category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/</homepage>
+		<url>https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Rayman (PS1)">
+		<description>Rayman (PS1)</description>
+		<rom name="Rayman_SLUS00005_SCEA_EN_patched.bin" size="619255728" crc="eab3d724" md5="b01baa120903025f07e64a50454b572b" sha1="c24e6bb3a9304f1f4efb9cf038719f4c82d10919"/>
+	</machine>
+	<machine name="Rayman Prototype">
+		<description>Rayman Prototype</description>
+		<rom name="rayman_prototype.sfc" size="1048576" crc="366d9177" md5="d613e071ddd175a39d674c07579dcd4d" sha1="cc97835e5789e6b708cadf6d7213ac0bae5716e9"/>
+	</machine>
+	<machine name="Rayman (1995) (UBI Soft)">
+		<description>Rayman (1995) (UBI Soft)</description>
+		<rom name="Rayman (1995) (UBI Soft).jag" size="4194304" crc="a9f8a00e" md5="c0ebfa0c65145bc59ca3bad632d85a39" sha1="d22912992fd966365a1221886e0fc5303ef04a59"/>
+	</machine>
+	<machine name="Rayman Jag Prototype">
+		<description>Rayman Jag Prototype</description>
+		<rom name="Rayman_Jag_Proto.jag" size="2088960" crc="6ac6acf5" md5="0a5372fd4da20a0b9286213185f1f5a8" sha1="e9e181ca7d8e6aaa8183944fc8294edbcd36c614"/>
+	</machine>
+	<machine name="cgb" isbios="yes">
+		<description>cgb [BOOT]</description>
+		<rom name="cgb_boot.bin" size="2304" crc="87d2b4f9" md5="6b68be48dab6a7298a8c07e00c136b4e" sha1="9884b972110a63c9e86fb3bd241bd2e39ca82bb9"/>
+		<rom name="dmg_boot.bin" size="256" crc="4942f9d4" md5="60f1d849a435e9053b8ac0fd5776804a" sha1="da853c8102acfff6b8e5a973ce0cd181f3dbb709"/>
+	</machine>
+	<machine name="RAYMAN.AYQE" romof="cgb">
+		<description>RAYMAN.AYQE</description>
+		<rom name="gbc_rayman.gbc" size="4194304" crc="eda12f0d" md5="b941941050fc32406eca4733926a3779" sha1="5a6999c0ca4be80a6259664fdffbc79fd4bb1ed6"/>
+	</machine>
+	<machine name="RAYMAN (USA)">
+		<description>RAYMAN (USA)</description>
+		<rom name="rayman_advance.gba" size="8388608" crc="8aba5ab8" md5="616f80f482ade86d88021b41587aa600" sha1="ff8a41c781735d2b4fe6cde65e82fb5a68f77f8b"/>
+	</machine>
+</datafile>
