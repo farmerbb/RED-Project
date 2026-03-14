@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Videopac Collection 1</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/2193100/Videopac_Collection_1/</homepage>
+		<url>https://store.steampowered.com/app/2193100/Videopac_Collection_1/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="g7400" isbios="yes">
+		<description>g7400</description>
+		<rom name="g7400.bin" size="1024" crc="e20a9f41" md5="c500ff71236068e0dc0d0603d265ae76" sha1="5130243429b40b01a14e1304d0394b8459a6fbae"/>
+	</machine>
+	<machine name="vp_03">
+		<description>Football (USA, Europe)</description>
+		<rom name="vp_03.bin" size="2048" crc="f9084aa3" md5="5a64c4ea84e12a04a7f0070ed13a9507" sha1="364504ffce1108bcf09a5cc784f7ea2cf141f7b8"/>
+	</machine>
+	<machine name="vp_04">
+		<description>Armored Encounter + Sub Chase (USA, Europe)</description>
+		<rom name="vp_04.bin" size="2048" crc="5ae57a8c" md5="8b4c318129a28e313dc89fe73269be61" sha1="086a29eb625c935295157ce62ca9717dffff2af0"/>
+	</machine>
+	<machine name="vp_08">
+		<description>Baseball (USA, Europe)</description>
+		<rom name="vp_08.bin" size="2048" crc="b07748e7" md5="ff418e9819cbcd10f02225f7fa3b2362" sha1="14a37a38c582d8822cb78fb0aace221a2fa9a44c"/>
+	</machine>
+	<machine name="vp_10">
+		<description>Golf (Europe)</description>
+		<rom name="vp_10.bin" size="2048" crc="14b6cc76" md5="a251791690a6f2efdd26f924dcf45928" sha1="c2bf8d92b8827e3071d6ce4c43e34b21afc54f8d"/>
+	</machine>
+	<machine name="vp_30">
+		<description>War of Nerves (USA, Europe)</description>
+		<rom name="vp_30.bin" size="2048" crc="58fa6766" md5="30249d4a85b18f0320f1b5a00e55b5c7" sha1="e56b674c832e5a7cad977cc76779548fdd2f338e"/>
+	</machine>
+	<machine name="vp_34pl">
+		<description>Satellite Attack (Europe)</description>
+		<rom name="vp_34pl.bin" size="8192" crc="b4735e6b" md5="5e7d8fea7993a4630d45042d03b420fd" sha1="8bec213886d026040ed2037f01e8e9f81fa395b9"/>
+	</machine>
+	<machine name="vp_39pl">
+		<description>Freedom Fighters (Europe)</description>
+		<rom name="vp_39pl.bin" size="8192" crc="1931f5c5" md5="a14d88d80f5caa4781245ef2cde27279" sha1="3f8d6cd5bed5244b400c69640065c77ec103a6cd"/>
+	</machine>
+	<machine name="vp_40">
+		<description>4 in 1 Row (Europe)</description>
+		<rom name="vp_40.bin" size="4096" crc="3bfef56b" md5="61923d4fa32f8a6c3531a77031bd1494" sha1="e9a8996c4fb87120d8620ab8876b90ddb48335db"/>
+	</machine>
+	<machine name="vp_52">
+		<description>Killer Bees (Europe)</description>
+		<rom name="vp_52.bin" size="8192" crc="dee70b33" md5="d9722861bc5d7f611c21abf26cf8fd5b" sha1="9253586337917bda0b7c43dbb251999b6c974f30"/>
+	</machine>
+	<machine name="vp_53">
+		<description>Nightmare (Europe)</description>
+		<rom name="vp_53.bin" size="8192" crc="26b0ff5b" md5="161bf3c8571385b96680b1ba21d62076" sha1="c8988f13c2af7632de6ef326ed617279bf6c8221"/>
+	</machine>
+</datafile>
