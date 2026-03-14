@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Jurassic Park Classic Games Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/2673080/Jurassic_Park_Classic_Games_Collection/</homepage>
+		<url>https://store.steampowered.com/app/2673080/Jurassic_Park_Classic_Games_Collection/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="jp1n">
+		<description>Jurassic Park 8-BIT</description>
+		<rom name="jp1n.nes" size="262160" crc="9fe3fe12" md5="bd9ad7116f352107ff5a5d80b6008857" sha1="f452fbd862fd9bb7376175147bfd6ff6c1be3b74" header="4E 45 53 1A 08 10 40 08 00 00 07 00 00 00 00 01"/>
+	</machine>
+	<machine name="JP1">
+		<description>Jurassic Park PORTABLE</description>
+		<rom name="jp1g.gb" size="262144" crc="005e5e3f" md5="2e9fa0faf7589fdb355427808ded931c" sha1="fd5df64a376786d7bd287cadc2dc1ef66bfa637a"/>
+	</machine>
+	<machine name="JURASSIC PARK (USA)">
+		<description>Jurassic Park 16-BIT</description>
+		<rom name="jp1s.sfc" size="2097152" crc="f6ef008e" md5="1203cc506ba2159ad29704f31311a032" sha1="de9f07e375191b0e9ea60c7180a24e3f94039006"/>
+	</machine>
+	<machine name="JURASSIC PARK (USA)">
+		<description>Jurassic Park GENESIS</description>
+		<rom name="jp1m.gen" size="2097152" crc="29cf48de" md5="830851664156354197fd9543b97a59ef" sha1="067cab7bceaab25eeb9b44ad90f73ea8a9f9bf69"/>
+	</machine>
+	<machine name="JURASSIC PARK 2 (USA)">
+		<description>Jurassic Park Part 2: The Chaos Continues 16-BIT</description>
+		<rom name="jp2s.sfc" size="2097152" crc="b0882828" md5="19e50b031c296c43fbbbcebe66bd6633" sha1="204a03c9b26793db19a4756725d9ed7cfdaf0ceb"/>
+	</machine>
+	<machine name="JP2">
+		<description>Jurassic Park Part 2: The Chaos Continues PORTABLE</description>
+		<rom name="jp2g.gb" size="262144" crc="095c3d47" md5="d6cb91d1abe2a3ee95a5f12c05161663" sha1="09c1bd947fc57fd49354c0b30cd8cc13a4a5ef22"/>
+	</machine>
+	<machine name="JURASSIC PARK: RAMPAGE EDITION (World)">
+		<description>Jurassic Park: Rampage Edition GENESIS</description>
+		<rom name="jp2m.gen" size="2097152" crc="926ffa86" md5="3e1582234a21f250375a3d222f6d03ed" sha1="bca8ddb200a224529d2357e693af222a875e3e5f"/>
+	</machine>
+</datafile>
