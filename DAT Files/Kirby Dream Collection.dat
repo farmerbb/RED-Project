@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Kirby's Dream Collection Special Edition</name>
+		<description></description>
+		<category></category>
+		<version>SUKE01</version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage></homepage>
+		<url>https://en.wikipedia.org/wiki/Kirby%27s_Dream_Collection</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="cgb" isbios="yes">
+		<description>cgb [BOOT]</description>
+		<rom name="dmg_boot.bin" size="256" crc="4942f9d4" md5="60f1d849a435e9053b8ac0fd5776804a" sha1="da853c8102acfff6b8e5a973ce0cd181f3dbb709"/>
+		<rom name="cgb_boot.bin" size="2304" crc="87d2b4f9" md5="6b68be48dab6a7298a8c07e00c136b4e" sha1="9884b972110a63c9e86fb3bd241bd2e39ca82bb9"/>
+		<rom name="cgb_boot_fast.bin" size="33" crc="28488c2f" md5="23980475669cb0d640a6478b8c9897b2" sha1="482fe6c97ac898f4a85dd1021edafa2317e705a7"/>
+	</machine>
+	<machine name="ADF9">
+		<description>Kirby's Dream Land</description>
+		<rom name="Kirby Dream Land.gb" size="262144" crc="40f25740" md5="a66e4918edcd042ec171a57fe3ce36c3" sha1="90979baa1d0e24b41b5c304c5ddaf77450692d5a"/>
+	</machine>
+	<machine name="DC99">
+		<description>Kirby's Dream Land 2</description>
+		<rom name="Kirbys Dream Land 2.gb" size="524288" crc="8dc07c35" md5="ddb5bfae32b0ca39cf8ab6c46880126c" sha1="8a2898ffa17e25f43793f40c88421d840d372d3c"/>
+	</machine>
+	<machine name="Kirby's Adventure">
+		<description>Kirby's Adventure</description>
+		<rom name="Kirbys Adventure.nes" size="786448" crc="c68f0885" md5="a3dde61df4bc4ebce2a60c2cf869081e" sha1="5c2810bca7659f3aeb4a993b1c38f228b0fc1c0e" header="4E 45 53 1A 20 20 42 08 00 00 70 00 00 00 00 01"/>
+	</machine>
+	<machine name="3955">
+		<description>Kirby Super Star (USA)</description>
+		<rom name="Kirby Super Star.sfc" size="4194304" crc="eb740641" md5="5e0be1a462ffaca1351d446b96b25b74" sha1="364b82e4775120d1f60be8b7d11c2933edebff5b"/>
+	</machine>
+	<machine name="DB83">
+		<description>Kirby's Dream Land 3 (USA)</description>
+		<rom name="Kirby Dream Land 3.sfc" size="4194304" crc="a291000c" md5="e16973dbf9e17644ddb36290e8b7039a" sha1="f844c3c92deb5755f2eab6c5b053731743d9c95f"/>
+	</machine>
+	<machine name="NK4E">
+		<description>Kirby 64: The Crystal Shards (USA)</description>
+		<rom name="Kirby 64.NK4E.z64" size="33554432" crc="20a1c120" md5="d33e4254336383a17ff4728360562ada" sha1="6cea2d46b929a3bb347b060a77fccc83526fb855"/>
+	</machine>
+</datafile>
