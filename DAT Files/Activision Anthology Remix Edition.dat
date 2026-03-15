@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+    <header>
+        <name>Activision Anthology: Remix Edition</name>
+        <description></description>
+        <category></category>
+        <version></version>
+        <date></date>
+        <author></author>
+        <email></email>
+        <homepage></homepage>
+        <url>https://www.mobygames.com/game/25422/activision-anthology-remix-edition/</url>
+        <comment></comment>
+        <clrmamepro/>
+    </header>
+    <machine name="Atlantis">
+        <description>Atlantis</description>
+        <rom name="Atlantis (Activision Anthology - Remix Edition).a26" size="4096" crc="c22e6a25" md5="cb8afcbc4a779b588b0428ea7af211d5" sha1="87b234b3893d4e8e9f27ec2f2bb83e985e72b4b3"/>
+    </machine>
+    <machine name="atlant2">
+        <description>Atlantis II (USA)</description>
+        <rom name="Atlantis II (USA).a26" size="4096" crc="ba5566aa" md5="826481f6fc53ea47c9f272f7050eedf7" sha1="f4e838de9159c149ac080ab85e4f830d5b299963"/>
+    </machine>
+    <machine name="Barnstorming">
+        <description>Barnstorming (USA)</description>
+        <rom name="Barnstorming (USA).a26" size="4096" crc="4a005181" md5="f8240e62d8c0a64a61e19388414e3104" sha1="372663097b419ced64f44ef743fe8d0af4317f46"/>
+    </machine>
+    <machine name="PeteRoseBaseball">
+        <description>Baseball (USA) (Activision Anthology - Remix Edition)</description>
+        <rom name="Baseball (USA) (Activision Anthology - Remix Edition).a26" size="16384" crc="ef851fa2" md5="9848b5ef7a0c02fe808b920a2ac566d2" sha1="f1c850e0e7f0d6ff47dd7a64d5d04a7caa803fbb"/>
+    </machine>
+    <machine name="Beamrider">
+        <description>Beamrider (USA)</description>
+        <rom name="Beamrider (USA).a26" size="8192" crc="1618565b" md5="79ab4123a83dc11d468fb2108ea09e2e" sha1="47619edb352f7f955f811cbb03a00746c8e099b1"/>
+    </machine>
+    <machine name="human">
+        <description>Bloody Human Freeway (USA) (Proto)</description>
+        <rom name="Bloody Human Freeway (USA) (Proto).a26" size="2048" crc="7afb2277" md5="1086ff69f82b68d6776634f336fb4857" sha1="feb0d05f4f9203d6f4df01095cebacae9ad3f42f"/>
+    </machine>
+    <machine name="Boxing">
+        <description>Boxing (USA)</description>
+        <rom name="Boxing (USA).a26" size="2048" crc="9ece0021" md5="c3ef5c4653212088eda54dc91d787870" sha1="14b9cd91188c7fb0d4566442d639870f8d6f174d"/>
+    </machine>
+    <machine name="Bridge">
+        <description>Bridge (USA)</description>
+        <rom name="Bridge (USA).a26" size="4096" crc="9c71d175" md5="cfd6a8b23d12b0462baf6a05ef347cd8" sha1="2873eb6effd35003d13e2f8f997b76dbc85d0f64"/>
+    </machine>
+    <machine name="Checkers">
+        <description>Checkers (USA)</description>
+        <rom name="Checkers (USA).a26" size="2048" crc="e74f1b59" md5="3f5a43602f960ede330cd2f43a25139e" sha1="39b5bb27a6c4cb6532bd9d4cc520415c59dac653"/>
+    </machine>
+    <machine name="ChopperCommand">
+        <description>Chopper Command (USA)</description>
+        <rom name="Chopper Command (USA).a26" size="4096" crc="1dfa64df" md5="c1cb228470a87beb5f36e90ac745da26" sha1="51a53bbfdbcc22925515ae0af79df434df6ee68a"/>
+    </machine>
+    <machine name="climber">
+        <description>Climber 5</description>
+        <rom name="Climber 5 (Aftermarket) (Unl) (Activision Anthology - Remix Edition).a26" size="4096" crc="9a44da87" md5="2d4198d1a1c2dd89d8555c66bf90da74" sha1="7435f9e6be312675a4d1663394ffce61567eeb75"/>
+    </machine>
+    <machine name="Commando">
+        <description>Commando (USA) (Alt)</description>
+        <rom name="Commando (USA) (Alt).a26" size="16384" crc="2c698b31" md5="61631c2f96221527e7da9802b4704f93" sha1="e47de0536a874a500bd6586eb6ec819e14b47f12"/>
+    </machine>
+    <machine name="cosmark">
+        <description>Cosmic Ark (USA)</description>
+        <rom name="Cosmic Ark (USA).a26" size="4096" crc="cb374f0e" md5="ab5bf1ef5e463ad1cbb11b6a33797228" sha1="187983fd14d37498437d0ef8f3fbd05675feb6ae"/>
+    </machine>
+    <machine name="CosmicCommuter">
+        <description>Cosmic Commuter (USA)</description>
+        <rom name="Cosmic Commuter (USA).a26" size="4096" crc="4939ba40" md5="133b56de011d562cbab665968bde352b" sha1="3717c97bbb0f547e4389db8fc954d1bad992444c"/>
+    </machine>
+    <machine name="Crackpots">
+        <description>Crackpots (USA)</description>
+        <rom name="Crackpots (USA).a26" size="4096" crc="ecd891b3" md5="a184846d8904396830951217b47d13d9" sha1="6ee0a26af4643ff250198dfc1c2b7c6568b4f207"/>
+    </machine>
+    <machine name="Decathlon">
+        <description>Activision Decathlon, The</description>
+        <rom name="Activision Decathlon, The (Activision Anthology - Remix Edition).a26" size="8192" crc="91b8f1b2" md5="ac7c2260378975614192ca2bc3d20e0b" sha1="717656f561823edaa69240471c3106963f5c307e"/>
+    </machine>
+    <machine name="DemonAttack">
+        <description>Demon Attack</description>
+        <rom name="Demon Attack (Activision Anthology - Remix Edition).a26" size="4096" crc="40dbe6d9" md5="bcb2967b6a9254bcccaf906468a22241" sha1="66d49e5c029919ead4e890b5d3d93ce6b96a71b4"/>
+    </machine>
+    <machine name="Dolphin">
+        <description>Dolphin (USA)</description>
+        <rom name="Dolphin (USA).a26" size="4096" crc="9e38a7b9" md5="ca09fa7406b7d2aea10d969b6fc90195" sha1="e3985d759f8a8f4705f543ce7eb5e93bf63722b5"/>
+    </machine>
+    <machine name="DoubleDukes">
+        <description>Double Dragon</description>
+        <rom name="Double Dragon (PAL) (Activision Anthology - Remix Edition).a26" size="16384" crc="d08bc204" md5="47464694e9cce07fdbfd096605bf39d4" sha1="251e02ac583d84eb43f1451d55b62c7c70e9644f"/>
+    </machine>
+    <machine name="dragfire">
+        <description>Dragonfire (USA)</description>
+        <rom name="Dragonfire (USA).a26" size="4096" crc="ba5dc02c" md5="41810dd94bd0de1110bedc5092bef5b0" sha1="b446381fe480156077b0b3c51747d156e5dde89f"/>
+    </machine>
+    <machine name="Dragster">
+        <description>Dragster</description>
+        <rom name="Dragster (Activision Anthology - Remix Edition).a26" size="4096" crc="211df7d1" md5="63a6eda1da30446569ac76211d0f861c" sha1="a3ad9e4b84f3a6dbfc027a3a6c26911ad8908861"/>
+    </machine>
+    <machine name="Enduro">
+        <description>Enduro (USA)</description>
+        <rom name="Enduro (USA).a26" size="4096" crc="2ef17b2e" md5="94b92a882f6dbaa6993a46e2dcc58402" sha1="82e9b2dd6d99f15381506a76ef958a1773a7ba21"/>
+    </machine>
+    <machine name="fathom">
+        <description>Fathom (USA)</description>
+        <rom name="Fathom (USA).a26" size="8192" crc="93da13cc" md5="0b55399cf640a2a00ba72dd155a0c140" sha1="686427cc47b69980d292d04597270347942773ff"/>
+    </machine>
+    <machine name="ffighter">
+        <description>Fire Fighter (USA)</description>
+        <rom name="Fire Fighter (USA).a26" size="4096" crc="e361fb42" md5="d09f1830fb316515b90694c45728d702" sha1="f76cc14afd7aef367c5a5defbd84f3bbb2f98ba3"/>
+    </machine>
+    <machine name="FishingDerby">
+        <description>Fishing Derby</description>
+        <rom name="FishingDerby (Activision Anthology - Remix Edition).a26" size="4096" crc="604ce356" md5="85227160f37aaa29f5e3a6c7a3219f54" sha1="679e8765306f94f0a7e976d3d2257741917f30e9"/>
+    </machine>
+    <machine name="Freeway">
+        <description>Freeway</description>
+        <rom name="Freeway (Activision Anthology - Remix Edition).a26" size="4096" crc="6ffc5fee" md5="851cc1f3c64eaedd10361ea26345acea" sha1="68e429f37887efcc2d509943df4589a3467c346f"/>
+    </machine>
+    <machine name="Frostbite">
+        <description>Frostbite</description>
+        <rom name="Frostbite (Activision Anthology - Remix Edition).a26" size="4096" crc="9d88d250" md5="5a93265095146458df2baf2162014889" sha1="58a6f82434ccf49ca420596809ce9545373845a2"/>
+    </machine>
+    <machine name="Ghostbusters2">
+        <description>Ghostbusters (USA)</description>
+        <rom name="Ghostbusters (USA).a26" size="8192" crc="45443d13" md5="e314b42761cd13c03def744b4afc7b1b" sha1="5ed0b2cb346d20720e3c526da331551aa16a23a4"/>
+    </machine>
+    <machine name="GrandPrix">
+        <description>Grand Prix (USA)</description>
+        <rom name="Grand Prix (USA).a26" size="4096" crc="e855273d" md5="2903896d88a341511586d69fcfc20f7d" sha1="24fab817728216582b6d95558c361ace66abf96f"/>
+    </machine>
+    <machine name="HERO">
+        <description>H.E.R.O. (USA)</description>
+        <rom name="H.E.R.O. (USA).a26" size="8192" crc="721e95b7" md5="fca4a5be1251927027f2c24774a02160" sha1="282f94817401e3725c622b73a0c05685ce761783"/>
+    </machine>
+    <machine name="IceHockey">
+        <description>Ice Hockey (USA)</description>
+        <rom name="Ice Hockey (USA).a26" size="4096" crc="adab8cdf" md5="a4c08c4994eb9d24fb78be1793e82e26" sha1="21de0f034e5dad03fa91eb7ae6cc081c142be35c"/>
+    </machine>
+    <machine name="Kabobber">
+        <description>Kabobber (USA) (Proto)</description>
+        <rom name="Kabobber (USA) (Proto).a26" size="4096" crc="9517ee0e" md5="b9d1e3be30b131324482345959aed5e5" sha1="ce8ac88b799c282567495ce509402a5a4c2c4d82"/>
+    </machine>
+    <machine name="Kaboom">
+        <description>Kaboom!</description>
+        <rom name="Kaboom (Activision Anthology - Remix Edition).a26" size="4096" crc="3afc6836" md5="af6ab88d3d7c7417db2b3b3c70b0da0a" sha1="46d4f6ded6b87858f84db9df53fd69a62a06ab28"/>
+    </machine>
+    <machine name="KeystoneKapers">
+        <description>Keystone Kapers</description>
+        <rom name="Keystone Kapers (Activision Anthology - Remix Edition).a26" size="4096" crc="5d27f7fb" md5="6c1f3f2e359dbf55df462ccbcdd2f6bf" sha1="525e9054343916e2a7271278cf3610e0ed1efb71"/>
+    </machine>
+    <machine name="kungfu1">
+        <description>Kung-Fu Master (USA)</description>
+        <rom name="Kung-Fu Master (USA).a26" size="8192" crc="5fea6e51" md5="5b92a93b23523ff16e2789b820e2a4c5" sha1="3b93a34ba2a6b7db387ea588c48d939eee5d71a1"/>
+    </machine>
+    <machine name="Laserblast">
+        <description>Laser Blast</description>
+        <rom name="Laser Blast (Activision Anthology - Remix Edition).a26" size="4096" crc="f870e4eb" md5="d5e27051512c1e7445a9bf91501bda09" sha1="32e2f2992db4eb752e8a240b80c09f10673a3abb"/>
+    </machine>
+    <machine name="lasgates">
+        <description>Laser Gates (USA)</description>
+        <rom name="Laser Gates (USA).a26" size="4096" crc="4b7865af" md5="1fa58679d4a39052bd9db059e8cda4ad" sha1="cdf55b73b4322428a001e545019eaa591d3479cf"/>
+    </machine>
+    <machine name="Megamania">
+        <description>MegaMania - A Space Nightmare (USA)</description>
+        <rom name="MegaMania - A Space Nightmare (USA).a26" size="4096" crc="33edc33e" md5="318a9d6dda791268df92d72679914ac3" sha1="9c5748b38661dbadcbc9cd1ec6a6b0c550b0e3da"/>
+    </machine>
+    <machine name="Moonsweeper">
+        <description>Moonsweeper</description>
+        <rom name="Moonsweeper (Activision Anthology - Remix Edition).a26" size="8192" crc="bb513282" md5="b06050f686c6b857d0df1b79fea47bb4" sha1="2bb48d52aa43b10cdd29a1ceb2bd0c83aefbf96a"/>
+    </machine>
+    <machine name="noescape">
+        <description>No Escape! (USA)</description>
+        <rom name="No Escape! (USA).a26" size="4096" crc="8941caea" md5="b6d52a0cf53ad4216feb04147301f87d" sha1="e2e8750b8856dd44d914c43a7d277188cc148e5c"/>
+    </machine>
+    <machine name="Oink">
+        <description>Oink! (USA)</description>
+        <rom name="Oink! (USA).a26" size="4096" crc="86f99b5e" md5="c9c25fc536de9a7cdc5b9a916c459110" sha1="ea674cf2c90d407b8f8b96eac692690b602b73f9"/>
+    </machine>
+    <machine name="okie">
+        <description>Okie Dokie</description>
+        <rom name="Okie Dokie (Aftermarket) (Unl) (Activision Anthology - Remix Edition).a26" size="2048" crc="e3900b50" md5="2f3f598bb513f4a0b44a4640b0ea383a" sha1="b1584f4821421433463f35e2273f569dae12f9d4"/>
+    </machine>
+    <machine name="oystron">
+        <description>Oystron</description>
+        <rom name="Oystron (Aftermarket) (Unl) (Activision Anthology - Remix Edition).a26" size="4096" crc="8155dccf" md5="91f0a708eeb93c133e9672ad2c8e0429" sha1="412e8a2438379878ee4de5c6bf4e5a9ee2707c8b"/>
+    </machine>
+    <machine name="Pitfall">
+        <description>Pitfall! - Pitfall Harry's Jungle Adventure (USA)</description>
+        <rom name="Pitfall (USA).a26" size="4096" crc="42ad47bf" md5="3e90cf23106f2e08b2781e41299de556" sha1="8d525480445d48cc48460dc666ebad78c8fb7b73"/>
+    </machine>
+    <machine name="Pitfall2">
+        <description>David Crane's Pitfall II - Lost Caverns (USA)</description>
+        <rom name="Pitfall II (USA).a26" size="10495" crc="097ce7ad" md5="6d842c96d5a01967be9680080dd5be54" sha1="920cfbd517764ad3fa6a7425c031bd72dc7d927c"/>
+    </machine>
+    <machine name="PlaqueAttack">
+        <description>Plaque Attack (USA)</description>
+        <rom name="Plaque Attack (USA).a26" size="4096" crc="d5a5eb9e" md5="da4e3396aa2db3bd667f83a1cb9e4a36" sha1="103398dd35ebd39450c5cac760fa332aac3f9458"/>
+    </machine>
+    <machine name="PressureCooker">
+        <description>Pressure Cooker (USA)</description>
+        <rom name="Pressure Cooker (USA).a26" size="8192" crc="ccf597d8" md5="97d079315c09796ff6d95a06e4b70171" sha1="8b001373be485060f88182e9a7afcf55b4d07a57"/>
+    </machine>
+    <machine name="PrivateEye">
+        <description>Private Eye (USA)</description>
+        <rom name="Private Eye (USA).a26" size="8192" crc="ea3bff1c" md5="ef3a4f64b6494ba770862768caf04b86" sha1="1ea6bea907a6b5607c76f222730f812a99cd1015"/>
+    </machine>
+    <machine name="quick">
+        <description>Quick Step! (USA)</description>
+        <rom name="Quick Step (USA).a26" size="4096" crc="057440fe" md5="7eba20c2291a982214cc7cbe8d0b47cd" sha1="33a47f79610c4525802c9881f67ad1f3f8c1b55d"/>
+    </machine>
+    <machine name="sphinx">
+        <description>Riddle of the Sphinx (USA)</description>
+        <rom name="Riddle of the Sphinx (USA).a26" size="4096" crc="183a87e3" md5="a995b6cbdb1f0433abc74050808590e6" sha1="acb2430b4e6c72ce13f321d9d3a38986dc4768ef"/>
+    </machine>
+    <machine name="Rampage">
+        <description>Rampage! (USA)</description>
+        <rom name="Rampage! (USA).a26" size="16384" crc="f0b446ac" md5="5e1b4629426f4992cf3b2905a696e1a7" sha1="7bb7df255829d5fbbee0d944915e50f89a5e7075"/>
+    </machine>
+    <machine name="RiverRaid">
+        <description>River Raid (USA)</description>
+        <rom name="River Raid (USA).a26" size="4096" crc="c3eb7e1e" md5="393948436d1f4cc3192410bb918f9724" sha1="40329780402f8247f294fe884ffc56cc3da0c62d"/>
+    </machine>
+    <machine name="RiverRaid2">
+        <description>River Raid 2</description>
+        <rom name="River Raid 2 (Activision Anthology - Remix Edition).a26" size="16384" crc="e0166b13" md5="deb39482e77f984d4ce73be9fd8adabd" sha1="dfa7f8f4cc177f3724f9198739ff2daf34d43773"/>
+    </machine>
+    <machine name="RobotTank">
+        <description>Robot Tank (USA)</description>
+        <rom name="Robot Tank (USA).a26" size="8192" crc="e127c012" md5="4f618c2429138e0280969193ed6c107e" sha1="21a3ee57cb622f410ffd51986ab80acadb8d44b7"/>
+    </machine>
+    <machine name="Seaquest">
+        <description>Seaquest (USA)</description>
+        <rom name="Seaquest (USA).a26" size="4096" crc="8658e8d9" md5="240bfbac5163af4df5ae713985386f92" sha1="7324a1ebc695a477c8884718ffcad27732a98ab0"/>
+    </machine>
+    <machine name="shootgal">
+        <description>Shootin' Gallery (USA)</description>
+        <rom name="Shootin' Gallery (USA).a26" size="4096" crc="b89aff8b" md5="b5a1a189601a785bdb2f02a424080412" sha1="cfb4b41e318c7cd0070e75e412f67c973e124d8e"/>
+    </machine>
+    <machine name="skatebo">
+        <description>Skate Boardin' (USA) (Activision Anthology - Remix Edition)</description>
+        <rom name="Skate Boardin' (USA) (Activision Anthology - Remix Edition).a26" size="8192" crc="49739144" md5="7f9fbe3e00a21ea06e6ae5e0e5db2143" sha1="06d634a4ab6e1cc54ca61df16244e2e1d883e638"/>
+    </machine>
+    <machine name="skeleton">
+        <description>Skeleton+</description>
+        <rom name="Skeleton Plus (Aftermarket) (Unl) (Activision Anthology - Remix Edition).a26" size="4096" crc="914ce6b7" md5="f98d869f287d2ce4f8fb36e0686929d9" sha1="6b4b60266e87caa679dd8e1c82bb7f5fa912c699"/>
+    </machine>
+    <machine name="Skiing">
+        <description>Skiing</description>
+        <rom name="Skiing (Activision Anthology - Remix Edition).a26" size="4096" crc="5cc5c3d1" md5="60bbd425cb7214ddb9f9a31948e91ecb" sha1="2d2ca8f51e4a08a6283c7d3673f60c1dbad3e0f3"/>
+    </machine>
+    <machine name="Skyjinks">
+        <description>Skyjinks</description>
+        <rom name="Skyjinks (Activision Anthology - Remix Edition).a26" size="4096" crc="5ecdbb48" md5="8bd8f65377023bdb7c5fcf46ddda5d31" sha1="2f44179acd0b731315b8d41f12a362b0a437a481"/>
+    </machine>
+    <machine name="skypat">
+        <description>Sky Patrol (USA) (Proto)</description>
+        <rom name="Sky Patrol (USA) (Proto).a26" size="8192" crc="a1ecdf0e" md5="4c9307de724c36fd487af6c99ca078f2" sha1="fc5f1e30db3b2469c9701dadfa95f3268fd1e4cb"/>
+    </machine>
+    <machine name="solar">
+        <description>Solar Storm (USA)</description>
+        <rom name="Solar Storm (USA).a26" size="4096" crc="a970b3e3" md5="97842fe847e8eb71263d6f92f7e122bd" sha1="ec65ef9e47239a7d15db9bca7e625b166e8ac242"/>
+    </machine>
+    <machine name="SpaceShuttle">
+        <description>Space Shuttle - A Journey into Space (USA)</description>
+        <rom name="Space Shuttle - A Journey into Space (USA).a26" size="8192" crc="dd210cf3" md5="5894c9c0c1e7e29f3ab86c6d3f673361" sha1="bcec5a66f8dff1a751769626b0fce305fab44ca2"/>
+    </machine>
+    <machine name="spatreat">
+        <description>Space Treat</description>
+        <rom name="Space Treat (Aftermarket) (Unl) (Activision Anthology - Remix Edition).a26" size="4096" crc="724e6b61" md5="d0d19e6bcd346407aa76ec4f97381fdf" sha1="8a380c9c949a854b2a2f30284fa61b1e45704bdd"/>
+    </machine>
+    <machine name="SpiderFighter">
+        <description>Spider Fighter (USA)</description>
+        <rom name="Spider Fighter (USA).a26" size="4096" crc="bf0941f6" md5="24d018c4a6de7e5bd19a36f2b879b335" sha1="06820ad3c957913847f9849d920bc8725f535f11"/>
+    </machine>
+    <machine name="Stampede">
+        <description>Stampede</description>
+        <rom name="Stampede (Activision Anthology - Remix Edition).a26" size="4096" crc="b8ba939c" md5="e66e5af5dea661d58420088368e4ef0d" sha1="c72af293dc2235d36640865fb01438219efd0d92"/>
+    </machine>
+    <machine name="Starmaster">
+        <description>StarMaster (USA)</description>
+        <rom name="StarMaster (USA).a26" size="4096" crc="25248b4b" md5="d69559f9c9dc6ef528d841bf9d91b275" sha1="814876ed270114912363e4718a84123dee213b6f"/>
+    </machine>
+    <machine name="starvoy">
+        <description>Star Voyager (USA)</description>
+        <rom name="Star Voyager (USA).a26" size="4096" crc="4fe8477f" md5="813985a940aa739cc28df19e0edd4722" sha1="ccc5b829c4aa71acb7976e741fdbf59c8ef9eb55"/>
+    </machine>
+    <machine name="subterra">
+        <description>Subterranea (USA)</description>
+        <rom name="Subterranea (USA).a26" size="8192" crc="2ab951f7" md5="93c52141d3c4e1b5574d072f1afde6cd" sha1="2abc6bbcab27985f19e42915530fd556b6b1ae23"/>
+    </machine>
+    <machine name="Tennis">
+        <description>Tennis</description>
+        <rom name="Tennis (Activision Anthology - Remix Edition).a26" size="4096" crc="f7df5fa0" md5="aca09ffea77174b148b96b205109db4d" sha1="c9a5504fd30565ed5c3a06777bb3c67941b34e22"/>
+    </machine>
+    <machine name="Thwocker">
+        <description>Thwocker (USA) (Proto)</description>
+        <rom name="Thwocker (USA) (Proto).a26" size="8192" crc="b60ab310" md5="c032c2bd7017fdfbba9a105ec50f800e" sha1="53ee70d4b35ee3df3ffb95fa360bddb4f2f56ab2"/>
+    </machine>
+    <machine name="TitleMatchProWrestling">
+        <description>Title Match Pro Wrestling (USA) (Activision Anthology - Remix Edition)</description>
+        <rom name="Title Match Pro Wrestling (USA) (Activision Anthology - Remix Edition).a26" size="8192" crc="b6f28c18" md5="3b9480bb6fb1e358c9c0a64e86945aee" sha1="add2d8f2a5242e54f817a8e8dc99716bca86758f"/>
+    </machine>
+    <machine name="Tomcat">
+        <description>Tomcat - The F-14 Fighter Simulator (Europe) (Activision Anthology - Remix Edition) (PAL)</description>
+        <rom name="Tomcat - The F-14 Fighter Simulator (Europe) (Activision Anthology - Remix Edition) (PAL).a26" size="16384" crc="cb5d1c42" md5="155fa7f479dcba3b10b1494e236d6010" sha1="d85e90adbb4106b9c14ec95de4798111331e939c"/>
+    </machine>
+    <machine name="tricksht">
+        <description>Trick Shot (USA)</description>
+        <rom name="Trick Shot (USA).a26" size="4096" crc="d1ce4634" md5="24df052902aa9de21c2b2525eb84a255" sha1="86c563db11db9afbffbd73c55e9fae9b2f69be4f"/>
+    </machine>
+    <machine name="vaultass">
+        <description>Vault Assault</description>
+        <rom name="Vault Assault (Aftermarket) (Unl) (Activision Anthology - Remix Edition).a26" size="4096" crc="0fbee2ab" md5="bf7389cbfee666b33b8a88cc6c830edd" sha1="31fde0bfae55443ec146a14c9a08d6f84292b86f"/>
+    </machine>
+    <machine name="venetian">
+        <description>Venetian Blinds Demo (USA) (Demo)</description>
+        <rom name="Venetian Blinds Demo (USA) (Demo).a26" size="2048" crc="1f0d3562" md5="d08fccfbebaa531c4a4fa7359393a0a9" sha1="81f485b545445080e009adf0f2e93dd4f16b92ce"/>
+    </machine>
+    <machine name="euchre">
+        <description>Video Euchre</description>
+        <rom name="Video Euchre (Aftermarket) (Unl) (Activision Anthology - Remix Edition).a26" size="4096" crc="b600ae88" md5="6205855cc848d1f6c4551391b9bfa279" sha1="47c2b4444b374352e5be15efc9330ddfec3ca71c"/>
+    </machine>
+    <machine name="wingwar">
+        <description>Wing War</description>
+        <rom name="Wing War (Activision Anthology - Remix Edition).a26" size="8192" crc="8a38509e" md5="9d2938eb2b17bb73e9a79bbc06053506" sha1="16df34446af2e6035ca871a00e1e8a008cfb8df4"/>
+    </machine>
+    <machine name="proto1">
+        <description>SCRMNN (USA) (Proto)</description>
+        <rom name="SCRMNN (USA) (Proto).a26" size="4096" crc="6b0672a6" md5="ee681f566aad6c07c61bbbfc66d74a27" sha1="d93c86970d3df29326acc35c0ce6679b83c2aff2"/>
+    </machine>
+    <machine name="proto2">
+        <description>Hard Head</description>
+        <rom name="Hard Head (PAL) (Proto) (Activision Anthology - Remix Edition).a26" size="4096" crc="3f805ade" md5="cfa4e5f53965e45907f875a26d83b8fc" sha1="7cc127158706e46fa5d71c15537a30484531eb41"/>
+    </machine>
+</datafile>
