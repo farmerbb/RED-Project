@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+    <header>
+        <name>Activision's Atari 2600 Action Pack</name>
+        <description></description>
+        <category></category>
+        <version></version>
+        <date></date>
+        <author></author>
+        <email></email>
+        <homepage></homepage>
+        <url>https://www.mobygames.com/game/1879/activisions-atari-2600-action-pack/</url>
+        <comment></comment>
+        <clrmamepro/>
+    </header>
+    <machine name="BOXING">
+        <description>Boxing (USA)</description>
+        <rom name="Boxing (USA).a26" size="2048" crc="9ece0021" md5="c3ef5c4653212088eda54dc91d787870" sha1="14b9cd91188c7fb0d4566442d639870f8d6f174d"/>
+    </machine>
+    <machine name="CHOPPER">
+        <description>Chopper Command (USA)</description>
+        <rom name="Chopper Command (USA).a26" size="4096" crc="1dfa64df" md5="c1cb228470a87beb5f36e90ac745da26" sha1="51a53bbfdbcc22925515ae0af79df434df6ee68a"/>
+    </machine>
+    <machine name="COSMIC">
+        <description>Cosmic Commuter (USA)</description>
+        <rom name="Cosmic Commuter (USA).a26" size="4096" crc="4939ba40" md5="133b56de011d562cbab665968bde352b" sha1="3717c97bbb0f547e4389db8fc954d1bad992444c"/>
+    </machine>
+    <machine name="CRACKPOT">
+        <description>Crackpots (USA)</description>
+        <rom name="Crackpots (USA).a26" size="4096" crc="ecd891b3" md5="a184846d8904396830951217b47d13d9" sha1="6ee0a26af4643ff250198dfc1c2b7c6568b4f207"/>
+    </machine>
+    <machine name="FISHDERB">
+        <description>Fishing Derby (USA)</description>
+        <rom name="Fishing Derby (USA).a26" size="2048" crc="204c928f" md5="b8865f05676e64f3bec72b9defdacfa7" sha1="531e995aef6cd47b0efea72ae3e56aeee449d798"/>
+    </machine>
+    <machine name="FREEWAY">
+        <description>Freeway (USA)</description>
+        <rom name="Freeway (USA).a26" size="2048" crc="b13ec413" md5="8e0ab801b1705a740b476b7f588c6d16" sha1="91cc7e5cd6c0d4a6f42ed66353b7ee7bb972fa3f"/>
+    </machine>
+    <machine name="GRNDPRIX">
+        <description>Grand Prix (USA)</description>
+        <rom name="Grand Prix (USA).a26" size="4096" crc="e855273d" md5="2903896d88a341511586d69fcfc20f7d" sha1="24fab817728216582b6d95558c361ace66abf96f"/>
+    </machine>
+    <machine name="KABOOM">
+        <description>Kaboom! (USA)</description>
+        <rom name="Kaboom (USA).a26" size="2048" crc="813f00f6" md5="5428cdfada281c569c74c7308c7f2c26" sha1="40d4df4f8e4a69a299ae7678c17e72bedeb70105"/>
+    </machine>
+    <machine name="PITFALL">
+        <description>Pitfall! - Pitfall Harry's Jungle Adventure (USA)</description>
+        <rom name="Pitfall (USA).a26" size="4096" crc="42ad47bf" md5="3e90cf23106f2e08b2781e41299de556" sha1="8d525480445d48cc48460dc666ebad78c8fb7b73"/>
+    </machine>
+    <machine name="RIVRAID">
+        <description>River Raid (USA)</description>
+        <rom name="River Raid (USA).a26" size="4096" crc="c3eb7e1e" md5="393948436d1f4cc3192410bb918f9724" sha1="40329780402f8247f294fe884ffc56cc3da0c62d"/>
+    </machine>
+    <machine name="SEAQUEST">
+        <description>Seaquest (USA)</description>
+        <rom name="Seaquest (USA).a26" size="4096" crc="8658e8d9" md5="240bfbac5163af4df5ae713985386f92" sha1="7324a1ebc695a477c8884718ffcad27732a98ab0"/>
+    </machine>
+    <machine name="SKYJINKS">
+        <description>Sky Jinks (USA)</description>
+        <rom name="Sky Jinks (USA).a26" size="2048" crc="96f8cf59" md5="2a0ba55e56e7a596146fa729acf0e109" sha1="105f722dcf9a89b683c10ddd7f684c5966c8e1db"/>
+    </machine>
+    <machine name="SPIDERFI">
+        <description>Spider Fighter (USA)</description>
+        <rom name="Spider Fighter (USA).a26" size="4096" crc="bf0941f6" md5="24d018c4a6de7e5bd19a36f2b879b335" sha1="06820ad3c957913847f9849d920bc8725f535f11"/>
+    </machine>
+
+    <machine name="FRSTBITE">
+        <description>Frostbite</description>
+        <rom name="Frostbite (PAL).a26" size="4096" crc="9d88d250" md5="5a93265095146458df2baf2162014889" sha1="58a6f82434ccf49ca420596809ce9545373845a2"/>
+    </machine>
+    <machine name="HERO">
+        <description>H.E.R.O.</description>
+        <rom name="H.E.R.O. (PAL) [a1].a26" size="8192" crc="cf55d3da" md5="66b92ede655b73b402ecd1f4d8cd9c50" sha1="e136698b5a9a0aaf83bf3350c497d811e3e833bb"/>
+    </machine>
+</datafile>
