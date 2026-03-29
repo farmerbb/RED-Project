@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MARVEL MaXimum Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/3931060/MARVEL_MaXimum_Collection/</homepage>
+		<url>https://store.steampowered.com/app/3931060/MARVEL_MaXimum_Collection/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Captain America and The Avengers (NES)">
+		<description>Captain America and The Avengers</description>
+		<rom name="CaptainAmericaNES.nes" size="262160" crc="74bc1e56" md5="3d91dde48c3f5dda35ff19443f996e78" sha1="db5b4e4a5a64cb1c059721972af33a4fdd616578" header="4E 45 53 1A 08 10 40 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="Captain America and The Avengers (Genesis)">
+		<description>Captain America and The Avengers (Japan)</description>
+		<rom name="CaptainAmericaGEN.bin" size="1048576" crc="09cbd94c" md5="8cb7cf4fd403f6faec238b97a0cf1359" sha1="e4e2efdc33703447f62212ff83b77282d80bf7c6"/>
+	</machine>
+	<machine name="Maximum Carnage (Genesis)">
+		<description>Spider-Man/Venom: Maximum Carnage</description>
+		<rom name="MaximumCarnageGEN.bin" size="2097152" crc="f4726918" md5="6f5baac0812db4ceeecdbb9a3062cf10" sha1="8ad3133e02747c3966ad6cfa206f483fb78cf1b1"/>
+	</machine>
+	<machine name="Maximum Carnage (SNES)">
+		<description>Spider-Man/Venom: Maximum Carnage</description>
+		<rom name="MaximumCarnageSNES.sfc" size="2097152" crc="9d840d0b" md5="76b4558ee02f046168bd9e6b3f2642e7" sha1="c82dff7c20967e20a849673cd0f0a1a670a17097"/>
+	</machine>
+	<machine name="Separation Anxiety (Genesis)">
+		<description>Venom/Spider-Man: Separation Anxiety (World)</description>
+		<rom name="SeparationAnxietyGEN.bin" size="3145728" crc="337cda6d" md5="3e7bb422a490100e5ef44c75e5a4919c" sha1="2025e4ddd9d8b0816523425993154f469919455b"/>
+	</machine>
+	<machine name="Separation Anxiety (SNES)">
+		<description>Venom/Spider-Man: Separation Anxiety (USA)</description>
+		<rom name="SeparationAnxietySNES.sfc" size="3145728" crc="b264f6d0" md5="ef390b5f9eb0c9ad3893a93cd4873f78" sha1="2c54f05ee6d7a61ffd146bd4a932af1cfcf98597"/>
+	</machine>
+	<machine name="Arcade's Revenge (SNES)">
+		<description>Spider-Man/X-Men: Arcade's Revenge</description>
+		<rom name="X-menArcadesRevengeSNES.sfc" size="1048576" crc="b07ffb8a" md5="7398d0bfc067e010e357486546fc47c5" sha1="ec6bd15f34e41fae55ce1332b0e8048cd69f2c00"/>
+	</machine>
+	<machine name="Arcade's Revenge (Genesis)">
+		<description>Spider-Man/X-Men: Arcade's Revenge</description>
+		<rom name="X-menArcadesRevengeGEN.bin" size="1048576" crc="b3a67ed5" md5="c62557c957e70234df4094a67c8a4b3e" sha1="f864904e386c55962c38edef736f57c7906370c4"/>
+	</machine>
+	<machine name="Arcade's Revenge (Game Boy)">
+		<description>Spider-Man/X-Men: Arcade's Revenge</description>
+		<rom name="X-menArcadesRevengeGB.gb" size="131072" crc="1496a089" md5="8a79409b2c768ffa3563a501d6db26fa" sha1="260bba1e81660aa6580faa4fb06523d768c0bf68"/>
+	</machine>
+	<machine name="Arcade's Revenge (Game Gear)">
+		<description>Spider-Man/X-Men: Arcade's Revenge</description>
+		<rom name="X-menArcadesRevengeGG.gg" size="524288" crc="7ca0fb6b" md5="c7850a354d01346af335667d68beac60" sha1="08c5062d34d91007ce6860938e78bd5f61809202"/>
+	</machine>
+	<machine name="Silver Surfer (NES)">
+		<description>Silver Surfer</description>
+		<rom name="silversurfernes.nes" size="393232" crc="221541e2" md5="83c55ad48cf98b313ea121f9adacf126" sha1="31c4750340f1cd03df1d9fcb2b33fc2e2661ca5e" header="4E 45 53 1A 08 20 40 08 00 00 07 00 00 00 00 01"/>
+	</machine>
+
+	<machine name="captaven">
+		<description>Captain America and The Avengers (Asia Rev 1.4)</description>
+		<rom name="hn_00-4.1e" size="131072" crc="147fb094" sha1="6bd759c42f4b7f9e1c3f2d3ece0b3ec72de1a982" region="maincpu" offset="0"/>
+		<rom name="hn_01-4.1h" size="131072" crc="11ecdb95" sha1="832b56f05ae7e15e67fbdd321da8c1cc5e7629a0" region="maincpu" offset="1"/>
+		<rom name="hn_02-4.1k" size="131072" crc="35d2681f" sha1="3af7d959dc4842238a7f79926adf449cb7f0b2e9" region="maincpu" offset="2"/>
+		<rom name="hn_03-4.1m" size="131072" crc="3b59ba05" sha1="400e868e59977e56a4fa1870321c643983ba4162" region="maincpu" offset="3"/>
+		<rom name="man-12.3e" size="131072" crc="d6261e98" sha1="f3707be37ca926d9a341b9253a6bb2f3de0e25f6" region="maincpu" offset="80000"/>
+		<rom name="man-13.3h" size="131072" crc="40f0764d" sha1="a6715c4a2accacf96f41c885579f314367c70dde" region="maincpu" offset="80001"/>
+		<rom name="man-14.3k" size="131072" crc="7cb9a4bd" sha1="0af1a7bf0fcfa3cc14b38d92f19e97ad6e5541dd" region="maincpu" offset="80002"/>
+		<rom name="man-15.3m" size="131072" crc="c7854fe8" sha1="ffa87dcda44fa0111de6ab317b77dd2bde015890" region="maincpu" offset="80003"/>
+		<rom name="hj_08.17k" size="65536" crc="361fbd16" sha1="c4bbaf74e09c263044be74bb2c98caf6cfcab618" region="audiocpu" offset="0"/>
+		<rom name="man-00.8a" size="524288" crc="7855a607" sha1="fa0be080515482281e5a12fe172eeb9a21af0820" region="tiles1" offset="0"/>
+		<rom name="man-05.16a" size="1048576" crc="d44d1995" sha1="e88e1a59a4b24ad058f21538f6e9bbba94a166b4" region="tiles2" offset="0"/>
+		<rom name="man-04.14a" size="1048576" crc="541492a1" sha1="2e0ab12555fc46001a815e76e3a0cd21f385f82a" region="tiles2" offset="40000"/>
+		<rom name="man-03.12a" size="1048576" crc="2d9c52b2" sha1="8f6f4fe4f1a63099f889068991b34f9432b04fd7" region="tiles2" offset="80000"/>
+		<rom name="man-02.11a" size="1048576" crc="07674c05" sha1="08b33721d7eba4a1ff2e282f77eeb56535a52923" region="tiles2" offset="c0000"/>
+		<rom name="man-01.10a" size="1048576" crc="ae714ada" sha1="b4d5806265d422c8b837489afe93731f584e4adf" region="tiles2" offset="100000"/>
+		<rom name="man-06.17a" size="1048576" crc="a9a64297" sha1="e4cb441207b1907461c90c32c05a461c9bd30756" region="sprites1" offset="200000"/>
+		<rom name="man-07.18a" size="1048576" crc="b1db200c" sha1="970bb15e90194dd285f53594aca5dec3405e75d5" region="sprites1" offset="0"/>
+		<rom name="man-08.17c" size="1048576" crc="28e98e66" sha1="55dbbd945eada81f7dcc874fdcb0b9e62ea453f0" region="sprites1" offset="300000"/>
+		<rom name="man-09.21c" size="1048576" crc="1921245d" sha1="88d3b69a38c18c83d5658d057b95974f1bd371e6" region="sprites1" offset="100000"/>
+		<rom name="man-10.14k" size="524288" crc="0132c578" sha1="70952f39508360bab51e1151531536f0ea6bbe06" region="oki2" offset="0"/>
+		<rom name="man-11.16k" size="524288" crc="0dc60a4c" sha1="4d0daa6a0272852a37f341a0cdc48baee0ad9dd8" region="oki1" offset="0"/>
+		<rom name="ts-00.4h" size="279" crc="ebc2908e" sha1="dca14a55abd1d88ee09092d4122614e55c3e7f53" region="plds" offset="0"/>
+		<rom name="ts-01.5h" size="279" crc="c776a980" sha1="cd4bdcfb755f561fefa4c88fab5d6d2397332aa7" region="plds" offset="200"/>
+		<rom name="ts-02.12l" size="447" crc="6f26528c" sha1="2cf869b2a789a9b0646162a61c147bcbb13c9141" region="plds" offset="400"/>
+	</machine>
+	<machine name="xmen">
+		<description>X-Men (4 Players ver EBA)</description>
+		<rom name="065-eba04.10d" size="131072" crc="3588c5ec" sha1="7966e7259038468845dafd19e5f7fc576c2901fa" region="maincpu" offset="0"/>
+		<rom name="065-eba05.10f" size="131072" crc="79ce32f8" sha1="1a21b38d4a82103d78e246aca68ed3e4afaf60f3" region="maincpu" offset="1"/>
+		<rom name="065-a02.9d" size="262144" crc="b31dc44c" sha1="4bdac05826b4d6d4fe46686ede5190e2f73eefc5" region="maincpu" offset="80000"/>
+		<rom name="065-a03.9f" size="262144" crc="13842fe6" sha1="b61f094eb94336edb8708d3437ead9b853b2d6e6" region="maincpu" offset="80001"/>
+		<rom name="065-a01.6f" size="131072" crc="147d3a4d" sha1="a14409fe991e803b9e7812303e3a9ebd857d8b01" region="audiocpu" offset="0"/>
+		<rom name="065-a08.15l" size="1048576" crc="6b649aca" sha1="2595f314517738e8614facf578cc951a6c36a180" region="k052109" offset="0"/>
+		<rom name="065-a07.16l" size="1048576" crc="c5dc8fc4" sha1="9887cb002c8b72be7ce933cb397f00cdc5506c8c" region="k052109" offset="2"/>
+		<rom name="065-a09.2h" size="1048576" crc="ea05d52f" sha1="7f2c14f907355856fb94e3a67b73aa1919776835" region="k053246" offset="0"/>
+		<rom name="065-a10.2l" size="1048576" crc="96b91802" sha1="641943557b59b91f0edd49ec8a73cef7d9268b32" region="k053246" offset="2"/>
+		<rom name="065-a12.1h" size="1048576" crc="321ed07a" sha1="5b00ed676daeea974bdce6701667cfe573099dad" region="k053246" offset="4"/>
+		<rom name="065-a11.1l" size="1048576" crc="46da948e" sha1="168ac9178ee5bad5931557fb549e1237971d7839" region="k053246" offset="6"/>
+		<rom name="065-a06.1f" size="2097152" crc="5adbcee0" sha1="435feda697193bc51db80eba46be474cbbc1de4b" region="k054539" offset="0"/>
+		<rom name="xmen_eba.nv" size="128" crc="37f8e77a" sha1="0b92caba33486c6fd104806aa96f735743bb2221" region="eeprom" offset="0"/>
+	</machine>
+	<machine name="xmen2pe" cloneof="xmen" romof="xmen">
+		<description>X-Men (2 Players ver EAA)</description>
+		<rom name="065-eaa04.10d" size="131072" crc="502861e7" sha1="f96aab2d2006703065de5bd7e341f929d04f5f60" region="maincpu" offset="0"/>
+		<rom name="065-eaa05.10f" size="131072" crc="ca6071bf" sha1="454ddc3b598389e960e87e577a01a7de71d1f591" region="maincpu" offset="1"/>
+		<rom name="065-a02.9d" merge="065-a02.9d" size="262144" crc="b31dc44c" sha1="4bdac05826b4d6d4fe46686ede5190e2f73eefc5" region="maincpu" offset="80000"/>
+		<rom name="065-a03.9f" merge="065-a03.9f" size="262144" crc="13842fe6" sha1="b61f094eb94336edb8708d3437ead9b853b2d6e6" region="maincpu" offset="80001"/>
+		<rom name="065-a01.6f" merge="065-a01.6f" size="131072" crc="147d3a4d" sha1="a14409fe991e803b9e7812303e3a9ebd857d8b01" region="audiocpu" offset="0"/>
+		<rom name="065-a08.15l" merge="065-a08.15l" size="1048576" crc="6b649aca" sha1="2595f314517738e8614facf578cc951a6c36a180" region="k052109" offset="0"/>
+		<rom name="065-a07.16l" merge="065-a07.16l" size="1048576" crc="c5dc8fc4" sha1="9887cb002c8b72be7ce933cb397f00cdc5506c8c" region="k052109" offset="2"/>
+		<rom name="065-a09.2h" merge="065-a09.2h" size="1048576" crc="ea05d52f" sha1="7f2c14f907355856fb94e3a67b73aa1919776835" region="k053246" offset="0"/>
+		<rom name="065-a10.2l" merge="065-a10.2l" size="1048576" crc="96b91802" sha1="641943557b59b91f0edd49ec8a73cef7d9268b32" region="k053246" offset="2"/>
+		<rom name="065-a12.1h" merge="065-a12.1h" size="1048576" crc="321ed07a" sha1="5b00ed676daeea974bdce6701667cfe573099dad" region="k053246" offset="4"/>
+		<rom name="065-a11.1l" merge="065-a11.1l" size="1048576" crc="46da948e" sha1="168ac9178ee5bad5931557fb549e1237971d7839" region="k053246" offset="6"/>
+		<rom name="065-a06.1f" merge="065-a06.1f" size="2097152" crc="5adbcee0" sha1="435feda697193bc51db80eba46be474cbbc1de4b" region="k054539" offset="0"/>
+		<rom name="xmen_eaa.nv" size="128" crc="1cbcb653" sha1="a86b4ad34ccbd868662ff8c61eb21ec07e8bf8b1" region="eeprom" offset="0"/>
+	</machine>
+	<machine name="xmen6p" cloneof="xmen" romof="xmen">
+		<description>X-Men (6 Players ver ECB)</description>
+		<rom name="065-ecb04.18g" size="131072" crc="258eb21f" sha1="f1a22a880245f28195e5b6519822c0aa3b166541" region="maincpu" offset="0"/>
+		<rom name="065-ecb05.18j" size="131072" crc="25997bcd" sha1="86fb1c64e133b7ca59ffb3910b62b61ee372c71a" region="maincpu" offset="1"/>
+		<rom name="065-a02.17g" merge="065-a02.9d" size="262144" crc="b31dc44c" sha1="4bdac05826b4d6d4fe46686ede5190e2f73eefc5" region="maincpu" offset="80000"/>
+		<rom name="065-a03.17j" merge="065-a03.9f" size="262144" crc="13842fe6" sha1="b61f094eb94336edb8708d3437ead9b853b2d6e6" region="maincpu" offset="80001"/>
+		<rom name="065-a01.7b" merge="065-a01.6f" size="131072" crc="147d3a4d" sha1="a14409fe991e803b9e7812303e3a9ebd857d8b01" region="audiocpu" offset="0"/>
+		<rom name="065-a08.1l" merge="065-a08.15l" size="1048576" crc="6b649aca" sha1="2595f314517738e8614facf578cc951a6c36a180" region="k052109" offset="0"/>
+		<rom name="065-a07.1h" merge="065-a07.16l" size="1048576" crc="c5dc8fc4" sha1="9887cb002c8b72be7ce933cb397f00cdc5506c8c" region="k052109" offset="2"/>
+		<rom name="065-a09.12l" merge="065-a09.2h" size="1048576" crc="ea05d52f" sha1="7f2c14f907355856fb94e3a67b73aa1919776835" region="k053246" offset="0"/>
+		<rom name="065-a10.17l" merge="065-a10.2l" size="1048576" crc="96b91802" sha1="641943557b59b91f0edd49ec8a73cef7d9268b32" region="k053246" offset="2"/>
+		<rom name="065-a12.22h" merge="065-a12.1h" size="1048576" crc="321ed07a" sha1="5b00ed676daeea974bdce6701667cfe573099dad" region="k053246" offset="4"/>
+		<rom name="065-a11.22l" merge="065-a11.1l" size="1048576" crc="46da948e" sha1="168ac9178ee5bad5931557fb549e1237971d7839" region="k053246" offset="6"/>
+		<rom name="065-a06.1d" merge="065-a06.1f" size="2097152" crc="5adbcee0" sha1="435feda697193bc51db80eba46be474cbbc1de4b" region="k054539" offset="0"/>
+		<rom name="xmen_ecb.nv" size="128" crc="462c6e1a" sha1="a57087163d7a760d5922c70842cfae20e6a2f5b5" region="eeprom" offset="0"/>
+	</machine>
+</datafile>
