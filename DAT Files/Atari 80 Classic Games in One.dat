@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari 80 Classic Games in One</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://www.humblebundle.com/store/atari-80-classic-games-in-one</homepage>
+		<url>https://www.humblebundle.com/store/atari-80-classic-games-in-one</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3d_tic">
+		<description>3d_tic</description>
+		<rom name="3d_tic.bin" size="2048" crc="58805709" md5="0db4f4150fecf77e4ce72ca4d04c052f" sha1="21d983f2f52b84c22ecae84b0943678ae2c31c10"/>
+	</machine>
+	<machine name="ADVNTURE">
+		<description>ADVNTURE</description>
+		<rom name="ADVNTURE.BIN" size="4096" crc="a6db4b3a" md5="157bddb7192754a45372be196797f284" sha1="e07e48d463d30321239a8acc00c490f27f1f7422"/>
+	</machine>
+	<machine name="AIRSEABT">
+		<description>AIRSEABT</description>
+		<rom name="AIRSEABT.BIN" size="2048" crc="1fc6c0f1" md5="16cb43492987d2f32b423817cdaaf7c4" sha1="a746fdc82b336a9d499bf17f50b41e0193ba595e"/>
+	</machine>
+	<machine name="ASTEROID">
+		<description>ASTEROID</description>
+		<rom name="ASTEROID.BIN" size="8192" crc="70a59647" md5="ccbd36746ed4525821a8083b0d6d2c2c" sha1="8423f99092b454aed89f89f5d7da658caf7af016"/>
+	</machine>
+	<machine name="Basic">
+		<description>Basic</description>
+		<rom name="Basic.bin" size="4096" crc="26a3c844" md5="9f48eeb47836cf145a15771775f0767a" sha1="6c56fad688b2e9bb783f8a5a2360c80ad2338e47"/>
+	</machine>
+	<machine name="Basmath">
+		<description>Basmath</description>
+		<rom name="Basmath.bin" size="2048" crc="d48ebac0" md5="819aeeb9a2e11deb54e6de334f843894" sha1="5cc4010eb2858afe8ce77f53a89d37c7584e15b4"/>
+	</machine>
+	<machine name="Batlzone">
+		<description>Batlzone</description>
+		<rom name="Batlzone.bin" size="8192" crc="9155dd1d" md5="41f252a66c6301f1e8ab3612c19bc5d4" sha1="e4134a3b4a065c856802bc935c12fa7e9868110a"/>
+	</machine>
+	<machine name="Black_j">
+		<description>Black_j</description>
+		<rom name="Black_j.bin" size="2048" crc="4b0ee010" md5="0a981c03204ac2b278ba392674682560" sha1="edfd905a34870196f8acb2a9cd41f79f4326f88d"/>
+	</machine>
+	<machine name="Bowling">
+		<description>Bowling</description>
+		<rom name="Bowling.bin" size="2048" crc="fea0d6d5" md5="c9b7afad3bfd922e006a6bfc1d4f3fe7" sha1="cf6ce244b3edaad7ad5e9ca5f01668135c2f93d0"/>
+	</machine>
+	<machine name="Breakout">
+		<description>Breakout</description>
+		<rom name="Breakout.bin" size="2048" crc="3037638c" md5="f34f08e5eb96e500e851a80be3277a56" sha1="8d473b87b70e26890268e6c417c0bb7f01e402eb"/>
+	</machine>
+	<machine name="Canyonb">
+		<description>Canyonb</description>
+		<rom name="Canyonb.bin" size="2048" crc="e914b8ca" md5="feedcc20bc3ca34851cd5d9e38aa2ca6" sha1="b89443a0029e765c2716774fe2582be37650115c"/>
+	</machine>
+	<machine name="Casino">
+		<description>Casino</description>
+		<rom name="Casino.bin" size="4096" crc="420b8248" md5="b816296311019ab69a21cb9e9e235d12" sha1="08598101e38756916613f37581ef1b61c719016f"/>
+	</machine>
+	<machine name="CENTIPED">
+		<description>CENTIPED</description>
+		<rom name="CENTIPED.BIN" size="8192" crc="77396102" md5="91c2098e88a6b13f977af8c003e0bca5" sha1="0b5914bc1526a9beaf54d7fd11408175cd8fcc72"/>
+	</machine>
+	<machine name="Circatri">
+		<description>Circatri</description>
+		<rom name="Circatri.bin" size="4096" crc="d2a330a3" md5="a7b96a8150600b3e800a4689c3ec60a2" sha1="8a91ecdbd8bf9d412da051c3422abb004eab8603"/>
+	</machine>
+	<machine name="Codebrk">
+		<description>Codebrk</description>
+		<rom name="Codebrk.bin" size="2048" crc="947edb18" md5="5846b1d34c296bf7afc2fa05bbc16e98" sha1="137bd3d3f36e2549c6e1cc3a60f2a7574f767775"/>
+	</machine>
+	<machine name="COLOURS">
+		<description>COLOURS</description>
+		<rom name="COLOURS.BIN" size="2048" crc="30464c79" md5="8946fbafac46158f020b7cb27993769e" sha1="fbdc0cd86c15653bba0c7a220ffe5db6a771e76c"/>
+	</machine>
+	<machine name="combat">
+		<description>combat</description>
+		<rom name="combat.bin" size="2048" crc="0d64a9c5" md5="0d213ac07d3be0d51d3084769bebac17" sha1="1426772d1aa61d7074749afe4cec79ba82724d72"/>
+	</machine>
+	<machine name="Concentr">
+		<description>Concentr</description>
+		<rom name="Concentr.bin" size="2048" crc="17de8070" md5="102672bbd7e25cd79f4384dd7214c32b" sha1="a6e42c63138a2fd527cdbe9b7e60f5feabdd55c8"/>
+	</machine>
+	<machine name="Cryscast">
+		<description>Cryscast</description>
+		<rom name="Cryscast.bin" size="16384" crc="9007b5ac" md5="1c6eb740d3c485766cade566abab8208" sha1="2e4ee5ee040b08be1fe568602d1859664e607efb"/>
+	</machine>
+	<machine name="Demondim">
+		<description>Demondim</description>
+		<rom name="Demondim.bin" size="4096" crc="9b97c3da" md5="f91fb8da3223b79f1c9a07b77ebfa0b2" sha1="b45582de81c48b04c2bb758d69021e8088c70ce7"/>
+	</machine>
+	<machine name="Dodge_em">
+		<description>Dodge_em</description>
+		<rom name="Dodge_em.bin" size="4096" crc="0c74479b" md5="83bdc819980db99bf89a7f2ed6a2de59" sha1="157117df23cb5229386d06bbdb3af20a208722e0"/>
+	</machine>
+	<machine name="Doubdunk">
+		<description>Doubdunk</description>
+		<rom name="Doubdunk.bin" size="16384" crc="208f6c20" md5="368d88a6c071caba60b4f778615aae94" sha1="8e2ea320b23994dc87abe69d61249489f3a0fccc"/>
+	</machine>
+	<machine name="Dsrtfalc">
+		<description>Dsrtfalc</description>
+		<rom name="Dsrtfalc.bin" size="16384" crc="caa0054e" md5="fd4f5536fd80f35c64d365df85873418" sha1="ccea2d5095441d7e1b1468e3879a6ab556dc8b7a"/>
+	</machine>
+	<machine name="Flagcap">
+		<description>Flagcap</description>
+		<rom name="Flagcap.bin" size="2048" crc="8aa1c41e" md5="30512e0e83903fc05541d2f6a6a62654" sha1="ac05f05f3365f5e348e1e618410065a1c2a88ee4"/>
+	</machine>
+	<machine name="Football">
+		<description>Football</description>
+		<rom name="Football.bin" size="2048" crc="3b73ee02" md5="e549f1178e038fa88dc6d657dc441146" sha1="c6fe4ce24bc1ebd538258d98cfe829963323acca"/>
+	</machine>
+	<machine name="Golf">
+		<description>Golf</description>
+		<rom name="Golf.bin" size="2048" crc="46a9f200" md5="2e663eaa0d6b723b645e643750b942fd" sha1="a25d52770408314dec6f41aaf5f9f0a2a3e2c18f"/>
+	</machine>
+	<machine name="Gravitar">
+		<description>Gravitar</description>
+		<rom name="Gravitar.bin" size="8192" crc="c87fccbe" md5="8ac18076d01a6b63acf6e2cab4968940" sha1="a372d4dd3d95b3866553cae2336e4565e00cc25b"/>
+	</machine>
+	<machine name="Haunthse">
+		<description>Haunthse</description>
+		<rom name="Haunthse.bin" size="4096" crc="aa62d961" md5="f0a6e99f5875891246c3dbecbf2d2cea" sha1="1476c869619075b551b20f2c7f95b11e0d16aec1"/>
+	</machine>
+	<machine name="Homerun">
+		<description>Homerun</description>
+		<rom name="Homerun.bin" size="2048" crc="45ace998" md5="0bfabf1e98bdb180643f35f2165995d0" sha1="f362d2b3a50e5ae3c2b412b6c08ecdcfee47a688"/>
+	</machine>
+	<machine name="Human_cb">
+		<description>Human_cb</description>
+		<rom name="Human_cb.bin" size="2048" crc="f05a41e1" md5="7972e5101fa548b952d852db24ad6060" sha1="d4b0b2aa379893356c72414ee0065a3a91cf9f97"/>
+	</machine>
+	<machine name="MATH_GPX">
+		<description>MATH_GPX</description>
+		<rom name="MATH_GPX.BIN" size="4096" crc="ccc90c98" md5="470878b9917ea0348d64b5750af149aa" sha1="18fac606400c08a0469aebd9b071ae3aec2a3cf2"/>
+	</machine>
+	<machine name="MAZECRZ">
+		<description>MAZECRZ</description>
+		<rom name="MAZECRZ.BIN" size="4096" crc="0098e428" md5="f825c538481f9a7a46d1e9bc06200aaf" sha1="aba25089d87cd6fee8d206b880baa5d938aae255"/>
+	</machine>
+	<machine name="MILLIPED">
+		<description>MILLIPED</description>
+		<rom name="MILLIPED.BIN" size="16384" crc="ccc82dd0" md5="3c57748c8286cf9e821ecd064f21aaa9" sha1="0616f0dde6d697816dda92ed9e5a4c3d77a39408"/>
+	</machine>
+	<machine name="MIN_GOLF">
+		<description>MIN_GOLF</description>
+		<rom name="MIN_GOLF.BIN" size="2048" crc="28562315" md5="df62a658496ac98a3aa4a6ee5719c251" sha1="be24b42e3744a81fb217c86c4ed5ce51bff28e65"/>
+	</machine>
+	<machine name="MISSCOMM">
+		<description>MISSCOMM</description>
+		<rom name="MISSCOMM.BIN" size="4096" crc="cff14904" md5="3a2e2d0c6892aa14544083dfb7762782" sha1="faa06bb0643dbf556b13591c31917d277a83110b"/>
+	</machine>
+	<machine name="NIGHTDRV">
+		<description>NIGHTDRV</description>
+		<rom name="NIGHTDRV.BIN" size="2048" crc="600d8a96" md5="392f00fd1a074a3c15bc96b0a57d52a1" sha1="372771aeb4e2fb2cd1dead5497e3821e4236d5fc"/>
+	</machine>
+	<machine name="Ofthwall">
+		<description>Ofthwall</description>
+		<rom name="Ofthwall.bin" size="16384" crc="a09779ea" md5="98f63949e656ff309cefa672146dc1b8" sha1="3dcfe93399044148561586056288c6f8e5c96e2b"/>
+	</machine>
+	<machine name="Outlaw">
+		<description>Outlaw</description>
+		<rom name="Outlaw.bin" size="2048" crc="68dd7acd" md5="890c13590e0d8d5d6149737d930e4d95" sha1="f8eeaaf4635ac39b4bdf7ded1348bce46313ef9f"/>
+	</machine>
+	<machine name="Quadrun">
+		<description>Quadrun</description>
+		<rom name="Quadrun.bin" size="8192" crc="35592d43" md5="392d34c0498075dd58df0ce7cd491ea2" sha1="1e634a8733cbc50462d363562b80013343d2fac3"/>
+	</machine>
+	<machine name="Radarlok">
+		<description>Radarlok</description>
+		<rom name="Radarlok.bin" size="16384" crc="c29f7285" md5="baf4ce885aa281fd31711da9b9795485" sha1="33f016c941fab01e1e2d0d7ba7930e3bcd8feaa3"/>
+	</machine>
+	<machine name="Rs_baseb">
+		<description>Rs_baseb</description>
+		<rom name="Rs_baseb.bin" size="8192" crc="3c5a1b5f" md5="eb634650c3912132092b7aee540bbce3" sha1="ace97b89b8b6ab947434dbfd263951c6c0b349ac"/>
+	</machine>
+	<machine name="Rs_footb">
+		<description>Rs_footb</description>
+		<rom name="Rs_footb.bin" size="8192" crc="f89f64ef" md5="7ad257833190bc60277c1ca475057051" sha1="200d04c1e7f41a5a3730287ed0c3f9293628f195"/>
+	</machine>
+	<machine name="Rs_volly">
+		<description>Rs_volly</description>
+		<rom name="Rs_volly.bin" size="4096" crc="54fc9eb2" md5="aed0b7bd64cc384f85fdea33e28daf3b" sha1="2025e1d868595fad36e5d9e7384ffd24c206208d"/>
+	</machine>
+	<machine name="Rstennis">
+		<description>Rstennis</description>
+		<rom name="Rstennis.bin" size="8192" crc="379001a0" md5="dac5c0fe74531f077c105b396874a9f1" sha1="702c1c7d985d0d22f935265bd284d1ed50df2527"/>
+	</machine>
+	<machine name="skydiver">
+		<description>skydiver</description>
+		<rom name="skydiver.bin" size="2048" crc="00312ea9" md5="46c021a3e9e2fd00919ca3dd1a6b76d8" sha1="4dde18d4abc139562fdd7a9d2fd49a1f00a9e64a"/>
+	</machine>
+	<machine name="slotmach">
+		<description>slotmach</description>
+		<rom name="slotmach.bin" size="2048" crc="cb378d95" md5="f90b5da189f24d7e1a2117d8c8abc952" sha1="7239d1c64f3dfc2a1613be325cce13803dd2baa5"/>
+	</machine>
+	<machine name="slotrace">
+		<description>slotrace</description>
+		<rom name="slotrace.bin" size="2048" crc="177dbdf8" md5="aed82052f7589df05a3f417bb4e45f0c" sha1="a2b13017d759346174e3d8dd53b6347222d3b85d"/>
+	</machine>
+	<machine name="SOUND">
+		<description>SOUND</description>
+		<rom name="SOUND.BIN" size="2048" crc="31372fb1" md5="e7f0c32cd0bcd08628191914794f84f2" sha1="ef2f4e7cb425eaa4c7cce9f399c288076dad2c9d"/>
+	</machine>
+	<machine name="SPACEWAR">
+		<description>SPACEWAR</description>
+		<rom name="SPACEWAR.BIN" size="2048" crc="65622f2a" md5="a7ef44ccb5b9000caf02df3e6da71a92" sha1="23510ba617431097668eaf104aa1e36233173093"/>
+	</machine>
+	<machine name="SprBaseb">
+		<description>SprBaseb</description>
+		<rom name="SprBaseb.bin" size="16384" crc="2245f170" md5="7adbcf78399b19596671edbffc3d34aa" sha1="b066a60ea1df1db0a55271c7608b0e19e4d18a1e"/>
+	</machine>
+	<machine name="SprFootb">
+		<description>SprFootb</description>
+		<rom name="SprFootb.bin" size="16384" crc="c9b16f3c" md5="09abfe9a312ce7c9f661582fdf12eab6" sha1="eaca6b474fd552ab4aaf75526618828165a91934"/>
+	</machine>
+	<machine name="Sprntmas">
+		<description>Sprntmas</description>
+		<rom name="Sprntmas.bin" size="16384" crc="c495904e" md5="5a8afe5422abbfb0a342fb15afd7415f" sha1="c0e29b86fc1cc41a1c8afa37572c3c5698ae70b2"/>
+	</machine>
+	<machine name="SQ_EARTH">
+		<description>SQ_EARTH</description>
+		<rom name="SQ_EARTH.BIN" size="8192" crc="d5e21b79" md5="05ebd183ea854c0a1b56c218246fbbae" sha1="05db3d09fa3dac80c70aae2e39f1ad7c31c62f02"/>
+	</machine>
+	<machine name="SQ_FIRE">
+		<description>SQ_FIRE</description>
+		<rom name="SQ_FIRE.BIN" size="8192" crc="6ae46a0c" md5="f9d51a4e5f8b48f68770c89ffd495ed1" sha1="5c3cf976edbea5ded66634a284787f965616d97e"/>
+	</machine>
+	<machine name="SQ_WATER">
+		<description>SQ_WATER</description>
+		<rom name="SQ_WATER.BIN" size="8192" crc="ca7b4685" md5="bc5389839857612cfabeb810ba7effdc" sha1="569fcb67ca1674b48e2f3a2e7af7077a374402de"/>
+	</machine>
+	<machine name="STARRAID">
+		<description>STARRAID</description>
+		<rom name="STARRAID.BIN" size="8192" crc="2ae193ee" md5="cbd981a23c592fb9ab979223bb368cd5" sha1="e10cce1a438c82bd499e1eb31a3f07d7254198f5"/>
+	</machine>
+	<machine name="STARSHIP">
+		<description>STARSHIP</description>
+		<rom name="STARSHIP.BIN" size="2048" crc="6609267e" md5="e363e467f605537f3777ad33e74e113a" sha1="878e78ed46e29c44949d0904a2198826e412ed81"/>
+	</machine>
+	<machine name="STEPLCHS">
+		<description>STEPLCHS</description>
+		<rom name="STEPLCHS.BIN" size="2048" crc="5f6c32c3" md5="656dc247db2871766dffd978c71da80c" sha1="e56ef1c0313d6d04e25446c4e34f9bb7eda8efac"/>
+	</machine>
+	<machine name="StlrTrak">
+		<description>StlrTrak</description>
+		<rom name="StlrTrak.bin" size="4096" crc="a76e93bf" md5="0b8d3002d8f744a753ba434a4d39249a" sha1="7d97d014c22a2ed3a5bc4b310f5a7be1b1d3520f"/>
+	</machine>
+	<machine name="StreetRc">
+		<description>StreetRc</description>
+		<rom name="StreetRc.bin" size="2048" crc="47592880" md5="396f7bc90ab4fa4975f8c74abe4e81f0" sha1="bffb3d41916c83398624151eb00aa2a3acd23ab8"/>
+	</machine>
+	<machine name="SubCmdr">
+		<description>SubCmdr</description>
+		<rom name="SubCmdr.bin" size="4096" crc="3262960a" md5="f3f5f72bfdd67f3d0e45d097e11b8091" sha1="b22ba7cbde60a21ecbbe3953cc4a5c0bf007cc26"/>
+	</machine>
+	<machine name="SUPERBRK">
+		<description>SUPERBRK</description>
+		<rom name="SUPERBRK.BIN" size="4096" crc="171dbe92" md5="0ad9a358e361256b94f3fb4f2fa5a3b1" sha1="e380e243c671e954e86aa1a3a0bfeb36d5e0c3e2"/>
+	</machine>
+	<machine name="surround">
+		<description>surround</description>
+		<rom name="surround.bin" size="2048" crc="dcb11f23" md5="4d7517ae69f95cfbc053be01312b7dba" sha1="b7988373b81992d08056560d15d3e32d9d3888bc"/>
+	</machine>
+	<machine name="tai01">
+		<description>tai01</description>
+		<rom name="tai01.bin" size="16384" crc="a7ceea56" md5="4704e6dae883e35fe31e09e06d4ddbfc" sha1="0c382db92d8e6f3589da2e020b024bc24bc7dfc6"/>
+	</machine>
+	<machine name="temp2600">
+		<description>temp2600</description>
+		<rom name="temp2600.BIN" size="8192" crc="e6dabc1b" md5="18aa009ecec98106ac1cb3079a555a12" sha1="3dd11dabb1a98a45443ae6f088e7e02cbd5b6aa0"/>
+	</machine>
+	<machine name="Vid_olym">
+		<description>Vid_olym</description>
+		<rom name="Vid_olym.bin" size="2048" crc="e4bc89c4" md5="60e0ea3cbe0913d39803477945e9e5ec" sha1="1ffe89d79d55adabc0916b95cc37e18619ef7830"/>
+	</machine>
+	<machine name="VIDCHECK">
+		<description>VIDCHECK</description>
+		<rom name="VIDCHECK.BIN" size="4096" crc="3df33335" md5="539d26b6e9df0da8e7465f0f5ad863b7" sha1="babae88a832b76d8c5af6ea63b8f10a0da5bb992"/>
+	</machine>
+	<machine name="VIDCHESS">
+		<description>VIDCHESS</description>
+		<rom name="VIDCHESS.BIN" size="4096" crc="b6226a54" md5="f0b7db930ca0e548c41a97160b9f6275" sha1="043ef523e4fcb9fc2fc2fda21f15671bf8620fc3"/>
+	</machine>
+	<machine name="Vidpin">
+		<description>Vidpin</description>
+		<rom name="Vidpin.bin" size="4096" crc="10d95426" md5="107cc025334211e6d29da0b6be46aec7" sha1="2c16c1a6374c8e22275d152d93dd31ffba26271f"/>
+	</machine>
+	<machine name="WARLORDS">
+		<description>WARLORDS</description>
+		<rom name="WARLORDS.BIN" size="4096" crc="cf174b57" md5="cbe5a166550a8129a5e6d374901dffad" sha1="2d7563d337cbc0cdf4fc14f69853ab6757697788"/>
+	</machine>
+	<machine name="Yar_rev">
+		<description>Yar_rev</description>
+		<rom name="Yar_rev.bin" size="4096" crc="dfa1c825" md5="c5930d0e8cdae3e037349bfa08e871be" sha1="e2cd8996c1cf929e29130690024d1ec23d3b0bde"/>
+	</machine>
+</datafile>
