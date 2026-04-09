@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sonic Adventure DX</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/71250/Sonic_Adventure_DX/</homepage>
+		<url>https://store.steampowered.com/app/71250/Sonic_Adventure_DX/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="sonic">
+		<description>Sonic The Hedgehog (World) (Rev A)</description>
+		<rom name="Sonic The Hedgehog (World) (Rev A).gg" size="262144" crc="d163356e" md5="b1de7027824c434ce8de59782705f5c9" sha1="7dbbbca2229e74fcb8f90ec794aa6e5cb168e489"/>
+	</machine>
+	<machine name="sonic2">
+		<description>Sonic The Hedgehog 2 (World)</description>
+		<rom name="Sonic The Hedgehog 2 (World).gg" size="524288" crc="95a18ec7" md5="9c64846563d8b9a24400471322e53fb5" sha1="dabb452e416b4fa9cb83d8ddd307c2a32c3a1a7f"/>
+	</machine>
+	<machine name="sonictai">
+		<!-- Released as Sonic Chaos outside Japan -->
+		<description>Sonic &amp; Tails (Japan) (En)</description>
+		<rom name="Sonic &amp; Tails (Japan) (En).gg" size="524288" crc="8ac0dade" md5="aac8371d2179295159c73ae2cb92892d" sha1="e70228cbde1b54f1520804c6e3c28b4130a68c84"/>
+	</machine>
+	<machine name="sonic-ch">
+		<!-- Released as Sonic &amp; Tails in Japan -->
+		<description>Sonic Chaos (USA, Europe, Brazil) (En)</description>
+		<rom name="Sonic Chaos (USA, Europe, Brazil) (En).gg" size="524288" crc="663f2abb" md5="895ca34f733c445341e5ca1642527690" sha1="5b5b7d9cd8adf0f8e1ee15fd4557828f91dfdca1"/>
+	</machine>
+	<machine name="mbmachin">
+		<description>Dr. Robotnik's Mean Bean Machine (USA, Europe)</description>
+		<rom name="Dr. Robotnik's Mean Bean Machine (USA, Europe).gg" size="262144" crc="3c2d4f48" md5="6565ddcb2e41bf9ce5771a62d30aa700" sha1="c36bda8a86994d430506b196922ec1365622e560"/>
+	</machine>
+	<machine name="sonicdri">
+		<description>Sonic Drift (Japan) (En)</description>
+		<rom name="Sonic Drift (Japan) (En).gg" size="524288" crc="68f0a776" md5="8093ef0eeb147f2a938fae3e5a26d8b3" sha1="fef5d69093df2d774ed274a4079790f8778577fc"/>
+	</machine>
+	<machine name="spinball">
+		<description>Sonic Spinball (USA, Europe, Brazil) (En)</description>
+		<rom name="Sonic Spinball (USA, Europe, Brazil) (En).gg" size="524288" crc="a9210434" md5="8e3b44fda375ad9748b678e9c6b45502" sha1="df21d42b55b1b4a25704957fe323728b775eb84d"/>
+	</machine>
+	<machine name="sonic_tt">
+		<!-- Released as Sonic Triple Trouble outside Japan -->
+		<description>Sonic &amp; Tails 2 (Japan) (En)</description>
+		<rom name="Sonic &amp; Tails 2 (Japan) (En).gg" size="524288" crc="496bce64" md5="05f5b6201ccece80facaf99fa7cf5a6e" sha1="bb14ed43cf815e82f55e79753d0a7c8a24e24e7f"/>
+	</machine>
+	<machine name="s-tail2">
+		<!-- Released as Sonic &amp; Tails 2 in Japan -->
+		<description>Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)</description>
+		<rom name="Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En).gg" size="524288" crc="d23a2a93" md5="f0f7e4dfe2908f0030e64fd9ed843422" sha1="4965af7ffe60382ffa805710b7c8006419cc4ac4"/>
+	</machine>
+	<machine name="s-drift2">
+		<description>Sonic Drift 2 (World)</description>
+		<rom name="Sonic Drift 2 (World).gg" size="524288" crc="d6e8a305" md5="b39d1e9a40dfd3508ee4003cd28da452" sha1="fe597c5cfbbc31e54f2484eb5b33c21c66cf0290"/>
+	</machine>
+	<machine name="skypat">
+		<description>Tails' Skypatrol (Japan) (En)</description>
+		<rom name="Tails' Skypatrol (Japan) (En).gg" size="262144" crc="88618afa" md5="ffb364bbaf72881cf7571e7ec388490d" sha1="9cb440611e9e3a7957438698fede0978d568a807"/>
+	</machine>
+	<machine name="tailsadv">
+		<description>Tails Adventure (World) (En,Ja)</description>
+		<rom name="Tails Adventure (World) (En,Ja).gg" size="524288" crc="5bb6e5d6" md5="a8bdb1beed088ff83c725c5af6b85e1f" sha1="da3df145b8e9f2a2e680d2c92939084d4530ed90"/>
+	</machine>
+	<machine name="labylin">
+		<description>Sonic Labyrinth (World)</description>
+		<rom name="Sonic Labyrinth (World).gg" size="524288" crc="5550173b" md5="aa6598585b2cdb92a14476beeb34991b" sha1="e24bf33d8d5a79f371485f20f207b6b26f5b341e"/>
+	</machine>
+	<machine name="g-sonic">
+		<description>Sonic Blast (World)</description>
+		<rom name="Sonic Blast (World).gg" size="1048576" crc="031b9da9" md5="56e1561d981a9a7c240cdd8d5580ccf0" sha1="11241be4082f6f9d057488ae75ccdd482f623f8c"/>
+	</machine>
+</datafile>
