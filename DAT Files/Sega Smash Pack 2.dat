@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Smash Pack 2</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage></homepage>
+		<url>https://segaretro.org/Sega_Smash_Pack_2</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Comix Zone">
+		<description>COMIX ZONE (Japan)</description>
+		<rom name="Comix Zone.bin" size="2097152" crc="e45a15f4" md5="9bfbbf751196b934dc159cb34fa3494f" sha1="2427e7e3932da731eb172ae22ad779c0abfced13"/>
+	</machine>
+	<machine name="Flicky">
+		<description>FLICKY (World)</description>
+		<rom name="Flicky.bin" size="262144" crc="7be41717" md5="1cc0cbc50c890760e970d6e310f8f85c" sha1="720268fb56353fbf84f150b9d30b7ab7fff6292f"/>
+	</machine>
+	<machine name="Kid Chameleon">
+		<description>KID CHAMELEON (World)</description>
+		<rom name="Kid Chameleon.bin" size="1048576" crc="ce36e6cc" md5="756e603b6cf9b3ebbb1b0f79d9447e43" sha1="28b904000b2863b6760531807760b571f1a5fc1d"/>
+	</machine>
+	<machine name="Shining Force">
+		<description>SHINING FORCE (USA)</description>
+		<rom name="Shining Force.bin" size="2097152" crc="e82acdfc" md5="5111aa25931e6789ce4972bc6bafaa04" sha1="c23e81c89e4bf65a5be0152d5a1f35507255d119"/>
+	</machine>
+	<machine name="Sonic II">
+		<description>SONIC THE HEDGEHOG 2 (World)</description>
+		<rom name="Sonic II.bin" size="1048576" crc="7b905383" md5="9feeb724052c39982d432a7851c98d3e" sha1="8bca5dcef1af3e00098666fd892dc1c2a76333f9"/>
+	</machine>
+	<machine name="Super Hang-On">
+		<description>SUPER HANG-ON (World)</description>
+		<rom name="Super Hang-On.bin" size="524288" crc="7e892199" md5="461c88b8dfde1469b8a5fee18d18a05b" sha1="25250cd1c8b96ce9b41b4133243646bcdbdce083"/>
+	</machine>
+	<machine name="Vectorman ii">
+		<description>VECTORMAN 2 (World)</description>
+		<rom name="Vectorman ii.bin" size="3145728" crc="c1a24088" md5="9666d682cc7c69b26b834b4d8a949277" sha1="c5adca10408f055c0431e1ffc01d4fbab53ade01"/>
+	</machine>
+</datafile>
