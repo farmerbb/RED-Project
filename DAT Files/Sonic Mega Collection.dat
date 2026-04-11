@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sonic Mega Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage></homepage>
+		<url>https://segaretro.org/Sonic_Mega_Collection</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="flicky">
+		<description>Flicky (USA, Europe)</description>
+		<rom name="Flicky (USA, Europe).md" size="131072" crc="4291c8ab" md5="805cc0b3724f041126a57a4d956fd251" sha1="83d8bbf0a9b38c42a0bf492d105cc3abe9644a96"/>
+	</machine>
+	<machine name="sonic1j">
+		<description>Sonic The Hedgehog (Japan, Europe, Korea) (En)</description>
+		<rom name="Sonic The Hedgehog (Japan, Europe, Korea) (En).md" size="524288" crc="afe05eee" md5="09dadb5071eb35050067a32462e39c5f" sha1="69e102855d4389c3fd1a8f3dc7d193f8eee5fe5b"/>
+	</machine>
+	<machine name="sonic1u">
+		<description>Sonic The Hedgehog (USA, Europe)</description>
+		<rom name="Sonic The Hedgehog (USA, Europe).md" size="524288" crc="f9394e97" md5="1bc674be034e43c96b86487ac69d9293" sha1="6ddb7de1e17e7f6cdb88927bd906352030daa194"/>
+	</machine>
+	<machine name="sonic1jb">
+		<description>Sonic The Hedgehog (World) (Sonic Mega Collection)</description>
+		<rom name="Sonic The Hedgehog (World) (Sonic Mega Collection).md" size="524288" crc="6382b2c5" md5="c6c15aea60bda10ae11c6bc375296153" sha1="95b6aac7e11bb2d908aafa06973ffeb45817a992"/>
+	</machine>
+	<machine name="knu_p2u 1">
+		<description>Sonic The Hedgehog 2 (World) (Rev A)</description>
+		<rom name="Sonic The Hedgehog 2 (World) (Rev A).md" size="1048576" crc="7b905383" md5="9feeb724052c39982d432a7851c98d3e" sha1="8bca5dcef1af3e00098666fd892dc1c2a76333f9"/>
+	</machine>
+	<machine name="sonic2jb">
+		<description>Sonic The Hedgehog 2 (World) (Rev A) (Sonic Mega Collection)</description>
+		<rom name="Sonic The Hedgehog 2 (World) (Rev A) (Sonic Mega Collection).md" size="1048576" crc="92d8817d" md5="2a4cc74873d3117629e454666e39e654" sha1="4050c7ba90a53138407c66dcae9891e5a5c73e8f"/>
+	</machine>
+	<machine name="drobotnk">
+		<description>Dr. Robotnik's Mean Bean Machine (USA)</description>
+		<rom name="Dr. Robotnik's Mean Bean Machine (USA).md" size="1048576" crc="c7ca517f" md5="4d6bdac51d2f5969a91496142ea53232" sha1="aa6b60103fa92bc95fcc824bf1675e411627c8d3"/>
+	</machine>
+	<machine name="s_spnu">
+		<description>Sonic Spinball (USA)</description>
+		<rom name="Sonic Spinball (USA).md" size="1048576" crc="677206cb" md5="841e347b30a6e298ee2b0c722f19fe74" sha1="24bf6342b98c09775089c9f39cfb2f6fbe7806f7"/>
+	</machine>
+	<machine name="sonic3u">
+		<description>Sonic The Hedgehog 3 (USA)</description>
+		<rom name="Sonic The Hedgehog 3 (USA).md" size="2097152" crc="9bc192ce" md5="d724ea4dd417fe330c9dcfd955c596b2" sha1="75e9c4705259d84112b3e697a6c00a0813d47d71"/>
+	</machine>
+	<machine name="SandK 1">
+		<description>Sonic &amp; Knuckles (World)</description>
+		<rom name="Sonic &amp; Knuckles (World).md" size="2097152" crc="0658f691" md5="4ea493ea4e9f6c9ebfccbdb15110367e" sha1="88d6499d874dcb5721ff58d76fe1b9af811192e3"/>
+	</machine>
+	<machine name="SandK 2">
+		<description>Sonic &amp; Knuckles (World) (Lock-on)</description>
+		<rom name="Sonic &amp; Knuckles (World) (Lock-on).bin" size="262144" crc="4dcfd55c" md5="b4e76e416b887f4e7413ba76fa735f16" sha1="70429f1d80503a0632f603bf762fe0bbaa881d22"/>
+	</machine>
+	<machine name="knu_p1u">
+		<description>Sonic &amp; Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-on Combination)</description>
+		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-on Combination).md" size="2621440" crc="e01f6ed5" md5="17ffe04bb891253e7ac3fb0952bb2edb" sha1="a3084262f5af481df1a5c5ab03c4862551a53c91"/>
+	</machine>
+	<machine name="knu_p2u 0">
+		<description>Sonic &amp; Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination)</description>
+		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination).md" size="3407872" crc="2ac1e7c6" md5="3e5e4b18d035775b916a06f2b3dc5031" sha1="6cd0537a3aee0e012bb86d5837ddff9342595004"/>
+	</machine>
+	<machine name="knu_p3u">
+		<description>Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination)</description>
+		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination).md" size="4194304" crc="63522553" md5="c5b1c655c19f462ade0ac4e17a844d10" sha1="cfbf98c36c776677290a872547ac47c53d2761d6"/>
+	</machine>
+	<machine name="ristaru">
+		<description>Ristar (USA, Europe) (Beta)</description>
+		<rom name="Ristar (USA, Europe) (Beta).md" size="2097152" crc="9700139b" md5="62e40b8c8012d02df4fac1c68f10eb16" sha1="cf0215feddd38f19cd2d27bfa96dd4d742ba8bf7"/>
+	</machine>
+	<machine name="sonic3d">
+		<description>Sonic 3D Blast (USA, Europe, Korea) (En)</description>
+		<rom name="Sonic 3D Blast (USA, Europe, Korea) (En).md" size="4194304" crc="44a2ca44" md5="50acbea2461d179b2bf11460a1cc6409" sha1="89957568386a5023d198ac2251ded9dfb2ab65e7"/>
+	</machine>
+</datafile>
