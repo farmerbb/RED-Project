@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>大乱闘スマッシュブラザーズX</name>
+		<description>Super Smash Bros. Brawl Japan</description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://www.smashbros.com/wii/jp/</homepage>
+		<url>https://www.smashbros.com/wii/jp/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="P-HA8J">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Donkey Kong</description>
+		<rom name="Donkey Kong (Super Smash Bros Brawl).nes" size="24592" crc="e40b593b" md5="40319cad12c80fc095901eb0182df838" sha1="d8dfacbfec34cdc871d73c901811551fe1706923" header="4E 45 53 1A 01 01 00 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="P-HBBJ">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Hoshi no Kirby - Yume no Izumi no Monogatari</description>
+		<rom name="Hoshi no Kirby - Yume no Izumi no Monogatari (Japan).nes" size="786448" crc="867984c0" md5="85d0fc97e95ef2e1f1c2d291d48ddc63" sha1="3ad12ba6cc6b559ede3c94d487bcd6e7ab49cd68" header="4E 45 53 1A 20 20 40 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="P-HBDJ">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Ice Climber</description>
+		<rom name="Ice Climber (Japan) (Super Smash Bros Brawl).nes" size="24592" crc="dd1e1205" md5="a0590cd99dea554bfd21b17d52abbadf" sha1="d439afd25cb424ce6cdf813d098835dabbf2134e" header="4E 45 53 1A 01 01 00 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="P-HA9J">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Super Mario Bros.</description>
+		<rom name="Super Mario Bros (Super Smash Bros Brawl).nes" size="40976" crc="3337ec46" md5="811b027eaf99c2def7b933c5208636de" sha1="ea343f4e445a9050d4b4fbac2c77d0693b1d0922" header="4E 45 53 1A 02 01 01 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="P-HBEJ">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Super Mario USA</description>
+		<rom name="Super Mario USA (Japan) (En).nes" size="262160" crc="51188daf" md5="d8aa6a513b2a599f355e2a3b500cb16e" sha1="655cecb175c141392d310ec633c48876dd57492e" header="4E 45 53 1A 08 10 42 00 00 00 00 00 00 00 00 00"/>
+	</machine>
+	<machine name="P-HBCJ.qd">
+		<!-- System: Famicom Disk System -->
+		<description>Hikari Shinwa - Palthena no Kagami</description>
+		<rom name="Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console).qd" size="131072" crc="c3199237" md5="1466d047cb023577131a41c16b045929" sha1="46e4302f34da47d2c751ee16c236fb48d4abaa48"/>
+	</machine>
+	<machine name="P-HBCJ">
+		<!-- System: Famicom Disk System -->
+		<description>Hikari Shinwa - Palthena no Kagami</description>
+		<rom name="Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console).fds" size="131000" crc="b88d9bc2" md5="962c031a7611e3a682e1bd3988a1c2f4" sha1="42e38020df7176e20d0bb90c2b3cf33291bbde31"/>
+	</machine>
+	<machine name="P-HBAJ.qd">
+		<!-- System: Famicom Disk System -->
+		<description>Zelda no Densetsu - The Hyrule Fantasy</description>
+		<rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console).qd" size="131072" crc="2e1d63d6" md5="2511540bd9684afa1c86d04f79c6145a" sha1="6ca85eb434b48a65053514c82d15bae7e9918ae2"/>
+	</machine>
+	<machine name="P-HBAJ">
+		<!-- System: Famicom Disk System -->
+		<description>Zelda no Densetsu - The Hyrule Fantasy</description>
+		<rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console).fds" size="131000" crc="0fb00a60" md5="4d4a13629aeac9407ec40f59954cd8c5" sha1="21d7a4fa72c8d78319797eef812dff23bab08a43"/>
+	</machine>
+	<machine name="P-HBHJ">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>SHVC FIREEMBLEM</description>
+		<rom name="Fire Emblem - Monshou no Nazo (Japan) (Super Smash Bros Brawl).sfc" size="3145728" crc="467169aa" md5="598ab96d22e3059d89405ff3c5ad1c2b" sha1="8aaf12acd0a3b5bef6bb9b1a770935136ec17196"/>
+	</machine>
+	<machine name="P-HBGJ">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>F-ZERO</description>
+		<rom name="F-Zero (Japan) (Super Smash Bros Brawl).sfc" size="524288" crc="5dfe8821" md5="35671448b4e4e5cb7d9b1eaf6ccccd85" sha1="ca91205d8d0a54a9fcd6ee8bf6965c30fd0fc113"/>
+	</machine>
+	<machine name="P-HBJJ">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>MOTHER-2 (Japan)</description>
+		<rom name="Mother 2 - Gyiyg no Gyakushuu (Japan) (Super Smash Bros Brawl).sfc" size="3145728" crc="3940d046" md5="1858a50761b499f4ec4b1ba87f9df2cf" sha1="79e7d2db4fc6845817de1d3611bfcee94627ca57"/>
+	</machine>
+	<machine name="P-HBFJ">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>SUPER MARIOWORLD (Japan)</description>
+		<rom name="Super Mario World (Japan) (Super Smash Bros Brawl).sfc" size="524288" crc="29782b00" md5="235c472f91f4955ed6429ce1ed8cd779" sha1="4edda4ed6e60a014bade9521778d600da5c71953"/>
+	</machine>
+	<machine name="P-HBIJ">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Super Metroid (Japan)</description>
+		<rom name="Super Metroid (Japan) (Super Smash Bros Brawl).sfc" size="3145728" crc="4176d0d9" md5="34fe5c8354e33d1a1181f475dc260a92" sha1="47fffcf2eb1bd3dce7d16a1a7f3695ea960fcaa4"/>
+	</machine>
+	<machine name="P-HBLJ">
+		<!-- System: Nintendo 64 -->
+		<description>STARFOX64 (Japan) (Rev 1)</description>
+		<rom name="Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).z64" size="12582912" crc="6508d4ad" md5="91fc4c63ca613530df22c8bb810cb2c3" sha1="a39f14f0d1224095717fabc021023203cb7561d5"/>
+	</machine>
+	<machine name="P-HBKJ">
+		<!-- System: Nintendo 64 -->
+		<description>THE LEGEND OF ZELDA (Japan) (Rev 2)</description>
+		<rom name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2).z64" size="33554432" crc="2b2721ba" md5="2258052847bdd056c8406a9ef6427f13" sha1="fa5f5942b27480d60243c2d52c0e93e26b9e6b86"/>
+	</machine>
+</datafile>
