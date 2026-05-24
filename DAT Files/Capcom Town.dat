@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Capcom Town</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://captown.capcom.com/en/classic_games/</homepage>
+		<url>https://captown.capcom.com/en/classic_games/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="https://captown.capcom.com/en/classic_games/43">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>1942</description>
+		<rom name="1942 (Japan, USA) (En).nes" size="40976" crc="74d7bae1" md5="073f7e6bd3da86bd1e1d5e3abf525d7e" sha1="1fc8410c271441b313ad4b382fbe9dcd9eefb6cb" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/44">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>1942</description>
+		<rom name="1942 (Japan, USA) (En).nes" size="40976" crc="74d7bae1" md5="073f7e6bd3da86bd1e1d5e3abf525d7e" sha1="1fc8410c271441b313ad4b382fbe9dcd9eefb6cb" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/1">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>魔界村</description>
+		<rom name="Makaimura (Japan) (En).nes" size="131088" crc="1bf83927" md5="8724d32fbac0b927ec5e650c7279b7da" sha1="f803298e3a8e8d4abe40aa00985bef0969537e65" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/2">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Ghosts 'n Goblins</description>
+		<rom name="Ghosts'n Goblins (USA) (Capcom Town).nes" size="131088" crc="795e90bb" md5="5a1246139c967f29b1a295837d5888bf" sha1="6376a0a4cc32038f03fd877a56742165ab333f18" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/3">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>ロックマン</description>
+		<rom name="Rockman (Japan) (Capcom Town).nes" size="131088" crc="e8ff4238" md5="b158a17d590ce7fa286468633d56918c" sha1="752afee1ff203399081a3778b0b846d44beb7b47" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/4">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Mega Man</description>
+		<rom name="Mega Man (USA) (Capcom Town).nes" size="131088" crc="e8d752cd" md5="6611cdbb7076adb9bd622baf4eb3c9f4" sha1="c0c349f5e1c1837e87a99604624ad5349f1d1ab9" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/5">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>ロックマン2 - Dr.ワイリーの謎 -</description>
+		<rom name="Rockman 2 (Japan) (Capcom Town).nes" size="262160" crc="686c6fb9" md5="0ba8d2e847f94f0084100b8dee29a739" sha1="b4f2410e995499f2f914d7782d27ac29604915d1" header="4E 45 53 1A 10 00 10 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/6">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Mega Man 2</description>
+		<rom name="Mega Man 2 (USA) (Capcom Town).nes" size="262160" crc="0c60935f" md5="98c71e794127b03c4f6c2ccca72cf9d3" sha1="ce9d40072a5a475253b8fe89b3462fb086593fe4" header="4E 45 53 1A 10 00 10 08 00 00 00 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/7">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>天地を喰らう</description>
+		<rom name="Tenchi o Kurau (Japan) (Rev 1).nes" size="262160" crc="2ce2e0e3" md5="9a555abc2a68c1e3bdcbf2493d5e4341" sha1="a2da4abdd24344a23901eff294cacd054bc791fe" header="4E 45 53 1A 10 00 12 08 00 00 70 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/8">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Destiny of an Emperor</description>
+		<rom name="Destiny of an Emperor (USA) (Capcom Town).nes" size="262160" crc="d3a2fdfc" md5="383c70445c3f560d749e8b60c6e6b8e2" sha1="f6798482ae0e0feab31c3911137fc4875a2da5a9" header="4E 45 53 1A 10 00 12 08 00 00 70 07 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/9">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>2010 ストリートファイター</description>
+		<rom name="2010 Street Fighter (Japan) (Capcom Town).nes" size="262160" crc="a0b70014" md5="6a40b25801b5ff3642e4c2a224761fcf" sha1="fe6f1abf8aa495167c81851aec2e9d516e480bf7" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/10">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Street Fighter 2010: The Final Fight</description>
+		<rom name="Street Fighter 2010 - The Final Fight (USA) (Capcom Town).nes" size="262160" crc="da80b22a" md5="22e2ac7e01cc12ca53b0efb84f931c8c" sha1="a5456c8a09ce6609cab613bab68785bcddce4519" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/16">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ファイナルファイト</description>
+		<rom name="Final Fight (Japan) (Capcom Town).sfc" size="1048576" crc="b1899128" md5="876aa645f0cae8527fd64c5199b7afee" sha1="2a2e82f673a23b697adda9ac0ba901939673cc80"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/17">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Final Fight</description>
+		<rom name="Final Fight (USA) (Capcom Town).sfc" size="1048576" crc="70428761" md5="1b4d11e17daf1733ac7f9034d19a0b34" sha1="cfe85b30088952a6b1e466d98f0805fea37d3ae0"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/18">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>超魔界村</description>
+		<rom name="Chou Makaimura (Japan).sfc" size="1048576" crc="cf8a8dba" md5="3e049d7632b49ca2d1cd231fa805a9a6" sha1="35025845c2d54d262218ebe50161705b207c7f3d"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/19">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Super Ghouls 'n Ghosts</description>
+		<rom name="Super Ghouls 'N Ghosts (USA) (Capcom Town).sfc" size="1048576" crc="0ae1b52f" md5="2ec154d3429237011cc87b9c7d5005b5" sha1="f241d6fea5d4d4ac43dcc9ef2d3d215033e8bc40"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/11">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>ロックマン3 - Dr.ワイリーの最期!? -</description>
+		<rom name="Rockman 3 - Dr. Wily no Saigo! (Japan).nes" size="393232" crc="fcd80415" md5="b24d6fb41b89a7575093ba27882ec018" sha1="df033bec111bbd9466bc972cfabb79770bd27576" header="4E 45 53 1A 10 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/42">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Mega Man 3</description>
+		<rom name="Mega Man 3 (World) (Mega Man Legacy Collection).nes" size="393232" crc="7cbfc9bc" md5="e7d60d6e1eb6ee8da8eae261466f87ec" sha1="1e0d2578a3aa26320760f7ff04ef17c83873c727" header="4E 45 53 1A 10 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/20">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>マジックソード</description>
+		<rom name="Magic Sword (Japan).sfc" size="1048576" crc="0b159d53" md5="36c8600c796f3a12fc5b8657fb280986" sha1="f5a431e46124d7a8638176203cdb351cd1e8423c"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/21">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Magic Sword</description>
+		<rom name="Magic Sword (USA) (Capcom Town).sfc" size="1048576" crc="0a4ff7de" md5="6391b1dfc518f195d6403477f40888c7" sha1="2352f2b9423e439e4dee34ddd642e09150e806e4"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/12">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>レッドアリーマー II</description>
+		<rom name="Red Arremer II (Japan) (Capcom Town).nes" size="262160" crc="5cfc245f" md5="852bf013946d8fe0a13e8c2bafc29fe4" sha1="f148c4af348ee5de075d6c0074cf86bad0ce925c" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/13">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Gargoyle's Quest II</description>
+		<rom name="Gargoyle's Quest II (USA) (Capcom Town).nes" size="262160" crc="5f97b4f6" md5="01512d10a3043ec33101f7f8ddbfa427" sha1="192345054572c5d64903069c18922d008259ecb6" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/47">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ザ キング オブ ドラゴンズ</description>
+		<rom name="King of Dragons, The (Japan) (Capcom Town).sfc" size="2097152" crc="2b87fb65" md5="bb2013bebb20b86ce47a4b61680f27dd" sha1="ab6d9ac3ae5d622b04f84d9e5cd358266d18336c"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/48">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>The King of Dragons</description>
+		<rom name="King of Dragons (USA) (Capcom Town).sfc" size="2097152" crc="369bdd55" md5="58abed7fe88cb8c98db24b105a690a4a" sha1="4d577aa37984c907f0fb3f6dca3be81503dd1a5c"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/22">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ストリートファイター II</description>
+		<rom name="Street Fighter II (Japan) (Capcom Town).sfc" size="2097152" crc="94b1c6b6" md5="4fd99f7ebfbc21becaf7eaf2ff782e1a" sha1="9a120a4d2a2764ce52fd987484d9f5373d63aa5e"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/23">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Street Fighter II: The World Warrior</description>
+		<rom name="Street Fighter II (USA) (Capcom Town).sfc" size="2097152" crc="5b211be0" md5="c2ad138aad03bf696824c81126f80bc1" sha1="4a4919b577df762b4093fa5c3faf6c7d7768077e"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/24">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ブレスオブファイア - 竜の戦士 -</description>
+		<rom name="Breath of Fire - Ryuu no Senshi (Japan).sfc" size="1572864" crc="fd96a42f" md5="8396dbb5c335b76e3578ec95e1e8e3b4" sha1="0c1708953683fac3429838e512667fd6cbfee6a0"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/25">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Breath of Fire</description>
+		<rom name="Breath of Fire (USA) (Capcom Town).sfc" size="1572864" crc="45a4d2fd" md5="e2c9d685506d96e5d293a404f6ede2d6" sha1="64a64f94b7e4c0cffd7216e6ce6f97aaf4d4889d"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/14">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>マイティ ファイナルファイト</description>
+		<rom name="Mighty Final Fight (Japan).nes" size="262160" crc="90afe9ca" md5="7ca9581d3832351f883be3e289c78574" sha1="a9e244083574646067570e74e024d84cee651278" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/15">
+		<!-- System: Nintendo Entertainment System (NES) -->
+		<description>Mighty Final Fight</description>
+		<rom name="Mighty Final Fight (USA) (Capcom Town).nes" size="262160" crc="58affc5a" md5="27ece5d056a02ce8e87d942d73342d48" sha1="54b13bd38860ed99cd2589e3a2a3389361c39f23" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/28">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ロックマンX</description>
+		<rom name="Rockman X (Japan).sfc" size="1572864" crc="6a1b6926" md5="9963dd54175bbe2d02999f4ced43f829" sha1="86c18ba1fc762b6d0bcdee7314a29b5c97cac082"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/29">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Mega Man X</description>
+		<rom name="Mega Man X (USA) (Capcom Town).sfc" size="1572864" crc="a7689fc4" md5="22028714cd18783f9ab6387b5c6f4c3d" sha1="f43c28fff43a9ee73ea1e01c3cbe8ebfd40f6209"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/30">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>スーパーストリートファイター II - The New Challengers -</description>
+		<rom name="Super Street Fighter II - The New Challengers (Japan) (Capcom Town).sfc" size="4194304" crc="dba85371" md5="0723f8438fd2a3fcc4b3914962342dc3" sha1="47edf926110e3a9c9bd58391b327f53492699633"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/31">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Super Street Fighter II: The New Challengers</description>
+		<rom name="Super Street Fighter II (USA) (Capcom Town).sfc" size="4194304" crc="37616557" md5="47009a634e1df642d70da5181a139adf" sha1="542a51943045849febea584b768d3af311f8aa6c"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/32">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>デモンズブレイゾン - 魔界村 紋章編 -</description>
+		<rom name="Demon's Blazon - Makaimura Monshou Hen (Japan).sfc" size="2097152" crc="287f10cc" md5="98a7294710502951f4a4bc92a703acd8" sha1="a6dc126a1da593d900b33eb74cf33403075e9525"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/33">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Demon's Crest</description>
+		<rom name="Demon's Crest (USA) (Capcom Town).sfc" size="2097152" crc="2f43d488" md5="bf916a82f2c4ca1f969bddd7ea4b83b6" sha1="1f5633fba2ab7f335bce4db80979b3c53c3b8e1a"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/34">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ブレスオブファイア II - 使命の子 -</description>
+		<rom name="Breath of Fire II - Shimei no Ko (Japan).sfc" size="2621440" crc="1d8014f6" md5="0ea349408473e47006fa2ad4471f4108" sha1="9a1cfc03f27710de04083d709a4c18f90b431947"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/35">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Breath of Fire II</description>
+		<rom name="Breath of Fire II (USA) (Capcom Town).sfc" size="3145728" crc="337a3e7a" md5="750d3ea694129b612a56bafc46d74ca4" sha1="2b21dd234e4f1a6884d77d3b9ea0a431f741f4e0"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/36">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>キャプテンコマンドー</description>
+		<rom name="Captain Commando (Japan).sfc" size="2097152" crc="e5423eb6" md5="7090be7db70304cea034bfd77e4d1886" sha1="7dd0f042760277e21bd7bcb9512dab462f9f5985"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/37">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Captain Commando</description>
+		<rom name="Captain Commando (USA) (Capcom Town).sfc" size="2097152" crc="2dae6014" md5="d02346e720d810cd6c61ff37faf5df20" sha1="7abaf43c2495a075569b1207e50180942952e96b"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/40">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ストリートファイター ZERO2</description>
+		<rom name="Street Fighter Zero 2 (Japan).sfc" size="4194304" crc="7455a7cf" md5="70761ab447f48091a8dc437fd2e9c14d" sha1="a0db1045fb308d6a2975a4d305b69f877be727a4"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/41">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Street Fighter Alpha 2</description>
+		<rom name="Street Fighter Alpha 2 (USA) (Capcom Town).sfc" size="4194304" crc="2ea8ba05" md5="c806acb3fe969b90a7789498175a1029" sha1="6b93ba1e3983c67b3a3e9579f2f82f9bdc9a0b11"/>
+	</machine>
+</datafile>
