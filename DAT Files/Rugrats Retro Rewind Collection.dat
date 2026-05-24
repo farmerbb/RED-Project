@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Rugrats: Retro Rewind Collection</name>
+		<description></description>
+		<category></category>
+		<version></version>
+		<date></date>
+		<author></author>
+		<email></email>
+		<homepage>https://store.steampowered.com/app/3817710/Rugrats_Retro_Rewind_Collection/</homepage>
+		<url>https://store.steampowered.com/app/3817710/Rugrats_Retro_Rewind_Collection/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="psxRugratsSearchForReptar">
+		<!-- System: Sony PlayStation -->
+		<description>Nickelodeon Rugrats - Search for Reptar</description>
+		<rom name="Nickelodeon Rugrats - Search for Reptar (USA).bin" size="608424768" crc="5260b44b" md5="be002ea731fd7eadc9063d8ba107a2d6" sha1="48e0512e4180c9dc417397fa2b07cd81c695e30d"/>
+	</machine>
+	<machine name="gbRugratsMovieSGB">
+		<!-- System: Game Boy -->
+		<description>RUGRATS MOVIE</description>
+		<rom name="Rugrats Movie, The (USA) (SGB Enhanced).gb" size="524288" crc="025f10df" md5="cdb6da5dfa1072d6b6c001f053943085" sha1="6c470898eb45208128cecb709edacb6154a008b9"/>
+	</machine>
+	<machine name="gbcRugratsMovieSGBandGB">
+		<!-- System: Game Boy -->
+		<description>THERUGRATSMOVIE</description>
+		<rom name="Rugrats Movie, The (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="46407106" md5="3aeff16dec6f007ed975f367d03eb761" sha1="3df4073ec451b8a0f15175f7f00b134c0b550447"/>
+	</machine>
+	<machine name="gbcRugratsTimeTravelersGBCOMP">
+		<!-- System: Game Boy -->
+		<description>RUGRATS TWOAVME</description>
+		<rom name="Rugrats - Time Travelers (USA, Europe) (GB Compatible).gbc" size="1048576" crc="71214856" md5="090af42f7c361bc0fef9774468358bfc" sha1="8ddc7c625b4849289957042527f97a8b07b9bd46"/>
+	</machine>
+	<machine name="psxRugratsStudioTour">
+		<!-- System: Sony PlayStation -->
+		<description>Nickelodeon Rugrats - Studio Tour</description>
+		<rom name="Nickelodeon Rugrats - Studio Tour (USA).bin" size="505830528" crc="004e312f" md5="6060b52674dfe72a998d598567d1417a" sha1="ad71525e46903276e0eb5d8f02e81e79d1582bdc"/>
+	</machine>
+	<machine name="psxRugratsInParis">
+		<!-- System: Sony PlayStation -->
+		<description>Nickelodeon Rugrats in Paris - The Movie</description>
+		<rom name="Nickelodeon Rugrats in Paris - The Movie (USA).bin" size="124938240" crc="ef6f548e" md5="a543eee970b3aa15b1b20c71484dc206" sha1="068b268a17b83098a154b92b80c204cf6aa25346"/>
+	</machine>
+	<machine name="gbcRugratsInParis">
+		<!-- System: Game Boy -->
+		<description>RUGRATPARISBRPE</description>
+		<rom name="Rugrats in Paris - The Movie (USA, Europe).gbc" size="1048576" crc="3ff71758" md5="88523e0012e431aecbac1701f31158c8" sha1="f8a12a6ace378e0a9091f0e09fe3c421ad201ff0"/>
+	</machine>
+	<machine name="gbaRugratsCastleCapers">
+		<!-- System: Game Boy Advance -->
+		<description>CASTLECAPERS (USA)</description>
+		<rom name="Rugrats - Castle Capers (USA, Europe).gba" size="8388608" crc="41d4137f" md5="e8733c4db3b7cc3cd85db3183859723d" sha1="4f0ba185c5edefdf348e76cb58e86aacc664de67"/>
+	</machine>
+</datafile>
