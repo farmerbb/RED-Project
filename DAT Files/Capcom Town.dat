@@ -225,4 +225,14 @@
 		<description>Street Fighter Alpha 2</description>
 		<rom name="Street Fighter Alpha 2 (USA) (Capcom Town).sfc" size="4194304" crc="2ea8ba05" md5="c806acb3fe969b90a7789498175a1029" sha1="6b93ba1e3983c67b3a3e9579f2f82f9bdc9a0b11"/>
 	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/49">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>ロックマンズサッカー</description>
+		<rom name="Rockman's Soccer (Japan).sfc" size="1310720" crc="a3277c10" md5="f045387e3403df95a3f09e098d830962" sha1="8d9ba291a86a3588823d8ced0f28742b5754c789"/>
+	</machine>
+	<machine name="https://captown.capcom.com/en/classic_games/50">
+		<!-- System: Super Nintendo/Super Famicom -->
+		<description>Mega Man Soccer</description>
+		<rom name="Mega Man Soccer (USA) (Capcom Town).sfc" size="1310720" crc="a59a38d2" md5="5d4c797b8b7a7df2a998b1ae2251c72c" sha1="dd33b0c9f50760d5da84e7286bbd893476ff0571"/>
+	</machine>
 </datafile>
