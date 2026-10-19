@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+    <header>
+        <name>Disney/Pixar Toy Story: Retro Roundup!</name>
+        <description></description>
+        <category></category>
+        <version></version>
+        <date></date>
+        <author></author>
+        <email></email>
+        <homepage>https://store.steampowered.com/app/4049170/DisneyPixar_Toy_Story_Retro_Roundup/</homepage>
+        <url>https://store.steampowered.com/app/4049170/DisneyPixar_Toy_Story_Retro_Roundup/</url>
+        <comment></comment>
+        <clrmamepro/>
+    </header>
+    <machine name="TOY STORY">
+        <!-- System: Sega Genesis/Mega Drive -->
+        <description>Toy Story (1995)</description>
+        <rom name="Toy Story (USA) [DE].md" size="4194304" crc="14d1a1e6" md5="cacf71ddf935c2440e2ec7a4f5c70e62" sha1="4685f7f2a3c44a80dc76b652fe5db02e55aaf14c"/>
+    </machine>
+    <machine name="TOY STORY (Europe)">
+        <!-- System: Sega Genesis/Mega Drive -->
+        <description>Toy Story (1995)</description>
+        <rom name="Toy Story (Europe) [DE].md" size="4194304" crc="5e4c6f33" md5="0411a0f3bbfee0f1c5299adbc7d1cbee" sha1="19068b968c29a8d355e2d708c5b80ce0deb7eb06"/>
+    </machine>
+    <machine name="AQHE">
+        <!-- System: Super Nintendo/Super Famicom -->
+        <description>Toy Story (1995)</description>
+        <rom name="Toy Story (USA).sfc" size="4194304" crc="f0c8007b" md5="57669e0551dbef2d3de11d166f00cde9" sha1="bb199c391df548893d19a6a5e25aa40cdb9205db"/>
+    </machine>
+    <machine name="AQHP">
+        <!-- System: Super Nintendo/Super Famicom -->
+        <description>Toy Story (1995)</description>
+        <rom name="Toy Story (Europe) (En,Fr,De).sfc" size="4194304" crc="477176b2" md5="7868b580fa19f11ee9d1a73b2414950a" sha1="51afe2130bb241f36f0540dbc693abd25af62ff6"/>
+    </machine>
+    <machine name="AQHJ">
+        <!-- System: Super Nintendo/Super Famicom -->
+        <description>Toy Story (1995)</description>
+        <rom name="Toy Story (Japan).sfc" size="4194304" crc="fd63567c" md5="f15e7e3ff01006493069d262d4f7c10d" sha1="a3d08182185d1b8bde4bececc9c1dbe610acdbca"/>
+    </machine>
+    <machine name="AQHP">
+        <!-- System: Super Nintendo/Super Famicom -->
+        <description>Toy Story (1995)</description>
+        <rom name="Toy Story Definitive Edition.sfc" size="4194304" crc="dc891e85" md5="a8dd17bbebd32c095e58db5d926ea40c" sha1="e63b21e73a3bf69c999b23554e98406099a75450"/>
+    </machine>
+    <machine name="TOY STORY (Rev 1)">
+        <!-- System: Game Boy -->
+        <description>Toy Story (1995)</description>
+        <rom name="Toy Story (USA) (Rev 1) (SGB Enhanced).gb" size="524288" crc="de9e8f40" md5="823b407cf0ff25fae6a68510c4e1f261" sha1="b08b0e4d6afcad0237601a33dcc530db9a408375"/>
+    </machine>
+    <machine name="BUGS LIFE">
+        <!-- System: Game Boy -->
+        <description>A Bug’s Life (1998)</description>
+        <rom name="Bug's Life, A (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="0da16009" md5="7106d41248b68f5c4cbdf562d20b19e9" sha1="9c5064f50bc9bc7b4ed65bbdd1dfdade5091842b"/>
+    </machine>
+    <machine name="DisneyPixarABugsLife_SLUS01538_SCEA_EN">
+        <!-- System: Sony PlayStation -->
+        <description>A Bug’s Life (1998)</description>
+        <rom name="DisneyPixarABugsLife_SLUS01538_SCEA_EN.bin" size="720789216" crc="ed6e4cb9" md5="b0cf20c523a858dd2d8d5bb2a1404731" sha1="0f07547e995851f84b1708bee7c85ce182565cc4"/>
+        <rom name="DisneyPixarABugsLife_SLUS01538_SCEA_EN.cue" size="101" crc="28f1d7e9" md5="eca4a7c617599aaa17c5fe1523988db9" sha1="a53124cd06acb0622e6d4827a2ca9aa11c1c8160"/>
+    </machine>
+    <machine name="ToyStory2_SLUS00893_SCEA_EN">
+        <!-- System: Sony PlayStation -->
+        <description>Toy Story 2: Buzz Lightyear to the Rescue! (1999)</description>
+        <rom name="ToyStory2_SLUS00893_SCEA_EN.bin" size="633125472" crc="5942db1f" md5="a3f77918dc0fb2227e976a2ec75921e2" sha1="ef20f5fcae59c80dd1d0d1bfc51ba51d8c64e967"/>
+        <rom name="ToyStory2_SLUS00893_SCEA_EN.cue" size="93" crc="57896381" md5="b44afefc74d4040318551c583b0d6e2a" sha1="16b1dd9fecb6dac2920979efb600ff5ed610559a"/>
+    </machine>
+    <machine name="TOYSTORY 2">
+        <!-- System: Game Boy -->
+        <description>Toy Story 2 (1999)</description>
+        <rom name="Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="e74f2992" md5="b9e5a4b19bd437ea288e5900922abb4e" sha1="793dba51275ec71dfaf9359785d945be728f0fbb"/>
+    </machine>
+    <machine name="BUZZ LIGHT">
+        <!-- System: Game Boy -->
+        <description>Buzz Lightyear of Star Command (2000)</description>
+        <rom name="Buzz Lightyear of Star Command (USA, Europe).gbc" size="524288" crc="31690de9" md5="e29197d4d0b7b0725b9c5f344c1d5c54" sha1="935ec6f59de206141023236eb23ad98b21823bb0"/>
+    </machine>
+    <machine name="DisneyPixarBuzzLightyearOfStarCommand_SLUS01192_patched">
+        <!-- System: Sony PlayStation -->
+        <description>Buzz Lightyear of Star Command (2000)</description>
+        <rom name="DisneyPixarBuzzLightyearOfStarCommand_SLUS01192_patched.bin" size="545920368" crc="3a6965db" md5="f752c7e3c2d4780ee49e34e077aaf52c" sha1="b0fdd87d67d19aeb544f16d312d5809a94f2d6f0"/>
+        <rom name="DisneyPixarBuzzLightyearOfStarCommand_SLUS01192_patched.cue" size="121" crc="e7759b41" md5="70a2a6c47c3580d129c94db11d2557a5" sha1="cc95ca3f2a5fee6c18c26d523bf9a865c009b57c"/>
+    </machine>
+    <machine name="TOYSTORYRA BT5E">
+        <!-- System: Game Boy -->
+        <description>Toy Story Racer (2001)</description>
+        <rom name="Toy Story Racer (USA, Europe).gbc" size="2097152" crc="76b07643" md5="1be117e7628224b06aa4f597dfc9a7c2" sha1="eec8894e3df8056bf73603797c3e86bb2f3ab3d1"/>
+    </machine>
+    <machine name="DisneyPixarToyStoryRacer_SLUS01214_SCEA">
+        <!-- System: Sony PlayStation -->
+        <description>Toy Story Racer (2001)</description>
+        <rom name="DisneyPixarToyStoryRacer_SLUS01214_SCEA.bin" size="259183344" crc="c155fe5c" md5="c09c5b2234744cf96837ca8b659b219b" sha1="d094ddd08f1c74fbf7de8d04cff98ab8129cde47"/>
+        <rom name="DisneyPixarToyStoryRacer_SLUS01214_SCEA.cue" size="102" crc="6257ce22" md5="32556721981055116a26fab8cdb50669" sha1="65a7c89d211997a5d6c150e88cd7d566faee8f95"/>
+    </machine>
+</datafile>
